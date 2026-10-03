@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>198. Ó, slávny deň s Kristom víťazom</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, slávny deň s Kristom víťazom<br/>radujme sa, veseľme sa v ňom.<br/>Dnes je slávne vzkriesený<br/>Kristus, náš Pán,<br/>je oslávený,<br/>Pána Boha chváľme: Aleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

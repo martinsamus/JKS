@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>032. Zdravas', zdravas', ó, Mária</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zdravas', zdravas', ó, Mária,<br/>milosti si Božej plná!<br/>Tak pozdravil anjel teba,<br/>prinesúc zvesť veľkú z neba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anjel riekol: Pán Boh s tebou,<br/>požehnanou ty si ženou.<br/>Uľakla sa pozdravená,<br/>nevediac, čo to znamená.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anjel vravel ďalej Panne:<br/>Neľakaj sa, čo sa stane,<br/>u Boha si našla milosť,<br/>lebo videl tvoju zbožnosť.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Syna počneš a porodíš,<br/>nazveš meno jeho Ježiš.<br/>Bude Synom Najvyššieho<br/>Boha Otca nebeského.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Duchom Svätým naplnená<br/>riekla Panna naklonená:<br/>Ajhľa, dievka Pána môjho,<br/>staň sa podľa slova tvojho!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vtedy Panna zaplesala,<br/>že sa Matkou Božou stala.<br/>Krásna Panna, rajská brána,<br/>prezázračne požehnaná!</lines>
+    </verse>
+  </lyrics>
+</song>

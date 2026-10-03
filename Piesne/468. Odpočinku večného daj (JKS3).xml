@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>468. Odpočinku večného daj</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Odpočinku večného daj,<br/>Bože, verným dušičkám,<br/>tam, kde kvitne raj nebeský,<br/>voveď, Pane, ich ty sám;<br/>[:kde žiaľ nepoznajú,<br/>večné blaho majú,<br/>Bohu chválu vzdávajú.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>K tebe volám, Kriste, Pane,<br/>uľav muky veľké im,<br/>ty si umrel ťažko za ne,<br/>podaj ruky trápeným.<br/>[:Jedna kropaj stačí,<br/>čo tiecť z rán ti ráči,<br/>zhasiť ich bôľ najväčší.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Toľké duše na nás smutné<br/>z očistca múk volajú,<br/>že sa srdce div nepukne,<br/>keď ich čuje od žiaľu.<br/>[:Pomáhajme im my<br/>zotrieť všedné viny<br/>so skutkami dobrými.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ony za nás tiež sa budú<br/>modliť k Bohu skrúšene,<br/>by sme boli čistí bludu,<br/>keď sa smrť k nám dostane.<br/>[:Pán Boh ich i za to<br/>odmení bohato,<br/>odmení ich bohato.:]</lines>
+    </verse>
+  </lyrics>
+</song>

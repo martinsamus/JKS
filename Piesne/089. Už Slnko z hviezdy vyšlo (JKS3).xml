@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>089. Už Slnko z hviezdy vyšlo</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Už Slnko z hviezdy vyšlo,<br/>je žiarou zdobené<br/>a na tento svet prišlo<br/>pre naše spasenie,<br/>by všetko sa splnilo,<br/>čo bolo sľúbené.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária Boha Syna<br/>nám dala presvätá,<br/>tak bola Evy vina<br/>z nás navždy zotretá<br/>a kliatba skrze Krista<br/>je sňatá zo sveta.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, divné narodenie<br/>pre naše spasenie,<br/>ó, veľké poníženie,<br/>zázračné vtelenie,<br/>pre ľudské pokolenie,<br/>pre celé stvorenie!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pre naše vykúpenie<br/>chcel trpieť, hladovať<br/>a potom umučenie<br/>na seba za nás vziať.<br/>Ach, ako nevýslovne<br/>nás musel milovať!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Buďme mu vďační, bratia,<br/>že nás tak miloval,<br/>krv vlastnú miesto zlata<br/>za hriechy v obeť dal.<br/>Kto by mu z čistej lásky<br/>dar sĺz nevenoval?</lines>
+    </verse>
+  </lyrics>
+</song>

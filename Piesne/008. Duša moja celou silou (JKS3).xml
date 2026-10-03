@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>008. Duša moja celou silou</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duša moja, celou silou<br/>veleb Pána večného,<br/>osláv piesňou roztomilou<br/>Stvoriteľa mocného.<br/>Teš sa, že už prišli časy,<br/>ktoré vrúcne sme žiadali,<br/>čo prorokov zbožné hlasy<br/>svetu predpovedali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ajhľa, z neba vysokého<br/>anjel Boží zletuje<br/>a Neveste Najvyššieho<br/>radosť veľkú zvestuje.<br/>Žena Bohom vyvolená<br/>poslúcha hlas archanjela,<br/>v rozjímaní pohrúžená<br/>veľmi krásna je celá.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boha Otca najvyššieho<br/>sám Syn jednorodený<br/>stúpil z trónu nebeského<br/>spasiť svet náš stratený.<br/>Z čistej Panny narodí sa,<br/>bude znášať posmech tupý;<br/>za ním kríž niesť rozhodni sa<br/>a z hriechu ťa vykúpi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mária sa Pannou stala<br/>nad všetkými pannami,<br/>anjelovi povedala:<br/>Ako vravíš, staň sa mi.<br/>V svojom srdci prespanilom<br/>preradostne zaplesala:<br/>Bohu svojmu v speve milom<br/>česť a chválu vzdávala.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>I my s ňou tiež zaplesajme,<br/>Bohu česť prespevujme,<br/>Spasiteľa privítajme,<br/>srdcia jemu venujme.<br/>Slovom, skutkom vyvyšujme,<br/>ako ona ctila jeho,<br/>takto seba pripravujme<br/>do kráľovstva večného.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>095. Vstávajte, pastieri, berte sa</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vstávajte, pastieri, berte sa hor',<br/>aká to novina, dajte pozor!<br/>Aké to zázraky<br/>javia sa na nebi!<br/>Nikdy som nevidel, jak som starý,<br/>na nebi vysokom takej žiary.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Len sa ma nebojte, pastuškovia,<br/>prichádzam k vám ako anjel Slova,<br/>aby som vám zvestil,<br/>že sa vám narodil<br/>Mesiáš v Betleme: Ježiš malý,<br/>ktorého oddávna ste čakali.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Iďte a nájdete Kráľa kráľov,<br/>Ježiša malého, Pána pánov.<br/>V mestečku Betleme<br/>v jasličkách na slame<br/>leží náš Spasiteľ narodený,<br/>v chudobných plienočkách položený.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bratkovia, rýchle sa pozbierajme,<br/>Ježiška navštíviť nemeškajme;<br/>k nemu sa dostavme,<br/>pekne ho vítajme,<br/>čo ktorý môžeme a čo máme;<br/>najlepšie dary mu odovzdáme.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vitaj, ó, Ježiško, Spasiteľ náš,<br/>v maštali zrodený náš Mesiáš.<br/>By si nás požehnal,<br/>do svojej slávy vzal,<br/>prosiť ťa chceme dnes, najvyšší Pán;<br/>milosti svojej vždy udeľuj nám!</lines>
+    </verse>
+  </lyrics>
+</song>

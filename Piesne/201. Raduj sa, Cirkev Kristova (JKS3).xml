@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>201. Raduj sa, Cirkev Kristova</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raduj sa, Cirkev Kristova,<br/>veselo prespevuj:<br/>Pán Ježiš Kristus z mŕtvych vstal,<br/>raduj sa, duša, raduj.<br/>[:Pre hriešne ľudské pokolenie<br/>priniesol sväté vykúpenie.<br/>Spievajme, kresťania,<br/>Bohu: Aleluja!:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veselá doba nastala,<br/>Ježiš v tej chvíli vstal<br/>a podľa písma prorokov<br/>tretí deň hrob zanechal.<br/>[:Spasiteľ sveta nás potešil,<br/>kajúce stvorenie rozhrešil.<br/>Spievajme, kresťania,<br/>Bohu: Aleluja!:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raduj sa, ľudské stvorenie.<br/>Pán tvoj smrť oblúpil,<br/>od smrti dnes ťa zachránil<br/>a z diabla rúk vykúpil.<br/>[:Anjeli na nebi spievajú<br/>a duše v predpeklí plesajú.<br/>Spievajme, kresťania,<br/>Bohu: Aleluja.:]</lines>
+    </verse>
+  </lyrics>
+</song>

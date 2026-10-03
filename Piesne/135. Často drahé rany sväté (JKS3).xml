@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>135. Často drahé rany sväté</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Často drahé rany sväté<br/>ľúbam Krista Ježiša,<br/>nohy, ruky, bok, krv, muky<br/>cena moja najvyššia.<br/>Láska si ty tu na kríži<br/>zhanená a zranená,<br/>chcem vždy znova a bez slova<br/>teba, Láska mučená.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nechcem žitia, nechcem bytia<br/>bez tvojho ja zranenia<br/>z rúk, nôh, boku, v krvi toku<br/>ujde sa mi spasenia.<br/>Kriste Kráľu, aspoň malú<br/>čiastku daj mi svojich múk,<br/>z rán mi prelej lásky vrelej<br/>do srdca i do nôh, rúk.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ostré klince, metly, biče<br/>žiada srdce zločinné<br/>bys' ho zranil, od zla chránil,<br/>v každej žitia hodine.<br/>Ostrá pika, čo preniká<br/>srdce Pána milého,<br/>nech sa vbodne tiež podobne<br/>do srdca mi hriešneho.</lines>
+    </verse>
+  </lyrics>
+</song>

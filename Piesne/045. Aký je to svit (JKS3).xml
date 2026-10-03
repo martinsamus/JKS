@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>045. Aký je to svit</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Aký je to svit, čože to má byť v Betleme?<br/>[:Hore sa majme,<br/>hneď povstávajme<br/>zo zeme!:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ej, ej, pastieri,<br/>aké to chýry, aký hlas?<br/>[:Či sa mi sníva,<br/>či anjel spieva,<br/>a zve nás?:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>No nemeškajme<br/>hore sa majme,<br/>je iste<br/>[:niečo nového,<br/>neslýchaného<br/>pri meste.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z neba mal stúpiť,<br/>smrťou vykúpiť<br/>celý svet<br/>[:predpovedaný,<br/>zrodený z Panny<br/>ako kvet.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>To sa ten istý<br/>z Panenky čistý<br/>narodil<br/>[:Boží Syn tu dnes<br/>ako to z nebies<br/>hlas tvrdil.:]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Poďme hneď k nemu<br/>k mestu Betlemu,<br/>vstávajme<br/>[:a vrúcne jeho,<br/>narodeného,<br/>vítajme.:]</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tu vytúžený,<br/>nám narodený<br/>v milosti,<br/>[:daj požehnania<br/>a zmilovania<br/>v hojnosti.:]</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ako ťa ctime<br/>a velebíme<br/>na zemi,<br/>[:tak nech ťa večne<br/>ctime srdečne<br/>na nebi.:]</lines>
+    </verse>
+  </lyrics>
+</song>

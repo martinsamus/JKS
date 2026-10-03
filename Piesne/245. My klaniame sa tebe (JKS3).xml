@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>245. My klaniame sa tebe</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My klaniame sa tebe,<br/>Bože na výsosti;<br/>vyslyš naše v potrebe<br/>na zemi žiadosti.<br/>Keď my podľa zákona<br/>obetu svätíme,<br/>nech s tým, čo sa v nej koná,<br/>tebe sa vďačíme.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Bože náš na nebi,<br/>tebe sláva sluší,<br/>odstrán všetko na zemi,<br/>čo náš pokoj ruší:<br/>nech tu strachu zbavení<br/>pokoj požívame,<br/>radosťou naplnení<br/>zbožne ťa vzývame.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Evanjelium Pána<br/>nie sú ľudské slová,<br/>na ten základ stavaná<br/>je Cirkev Kristova.<br/>Pravdu, Boha samého<br/>ono nám zjavuje,<br/>šťastný, kto podľa neho<br/>život svoj spravuje.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Veríme, vyznávame<br/>Boha trojjediného:<br/>Otec, tak ho voláme,<br/>stvoril svet z ničoho;<br/>Syna z lásky nám on dal,<br/>Ježiša drahého,<br/>ktorý Človekom sa stal<br/>skrze Ducha Svätého.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, zhliadni milo, Pane,<br/>na chlieb, víno: dary<br/>tebe obetované<br/>na tomto oltári<br/>a ktoré sa obrátia<br/>v krv, telo Kristovo,<br/>keď ony sa posvätia<br/>skrz slovo kňazovo.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ducha k nebu vznášajme<br/>v svojej skrúšenosti,<br/>Svätý, svätý! volajme<br/>Bohu na výsosti.<br/>Plné sú slávy tvojej<br/>nebo i zem, Pane,<br/>daj, nech z temnosti svojej<br/>pohanstvo povstane!</lines>
+    </verse>
+  </lyrics>
+</song>

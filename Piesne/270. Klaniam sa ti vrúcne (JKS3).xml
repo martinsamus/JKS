@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>270. Klaniam sa ti vrúcne</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Klaniam sa ti vrúcne,<br/>Bože večitý,<br/>pod spôsobom chleba<br/>z lásky ukrytý!<br/>[:Srdce moje tebe<br/>sa len oddáva,<br/>že si Pánom jeho<br/>vďačne uznáva.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zrak môj i chuť chceli,<br/>by ma oklamať,<br/>ale sluch ma učí<br/>pevnú vieru mať.<br/>[:Verím, čo Syn Boží<br/>ustanovil nám,<br/>ten klamať nemôže,<br/>kto je Pravda sám.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na kríži sa skrylo<br/>samo božstvo len,<br/>tu i človečenstvo<br/>skryté zbožňujem.<br/>[:V oboje ja verím,<br/>Bože vznešený,<br/>a prosím, čo prosil<br/>lotor skrúšený.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, pamiatka smrti<br/>Krista Ježiša,<br/>chlieb náš živý, sladkosť<br/>sveta najvyššia,<br/>[:daj, nech duch môj vždy len<br/>tebou sa živí,<br/>po sladkosti tvojej<br/>vždy je dychtivý.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, Baránku Boží,<br/>Kriste, Pane môj,<br/>v neskonalej láske<br/>dnes sa so mnou spoj.<br/>[:Tvojej krvi stačí<br/>kvapka jediná,<br/>aby z všehomíra zmyla sa vina.:]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ako Tomáš rany<br/>ja tu nevidím,<br/>predsa ťa vyznávam,<br/>že si Boží Syn.<br/>[:Rozmnož vo mne vieru<br/>i nádej k tebe,<br/>láskou srdce tiahni<br/>do neba k sebe.:]</lines>
+    </verse>
+  </lyrics>
+</song>

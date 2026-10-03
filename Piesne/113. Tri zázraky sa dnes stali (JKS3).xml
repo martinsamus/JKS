@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>113. Tri zázraky sa dnes stali</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tri zázraky sa dnes stali,<br/>príchod Krista zvestovali.<br/>Deň tento každý kresťan sláv,<br/>on je pre nás vždy pravdy zjav.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dnes šli mudrci na cestu,<br/>nasledujúc jasnú hviezdu.<br/>Svetlo svetlom vyhľadali,<br/>Ježiškovi dary dali.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nový div dnes z moci božskej<br/>stal sa v Káne galilejskej,<br/>kde z vody víno sa stalo,<br/>božský zásah ukázalo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vo vode rieky Jordána<br/>Kristus prijal krst od Jána;<br/>Boh Otec zjavil Syna nám,<br/>v ňom našiel zaľúbenie sám.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kriste, svetu dnes zjavený,<br/>buď nami vrúcne slávený:<br/>Sláva buď Otcu Božiemu,<br/>spolu i Duchu Svätému!</lines>
+    </verse>
+  </lyrics>
+</song>

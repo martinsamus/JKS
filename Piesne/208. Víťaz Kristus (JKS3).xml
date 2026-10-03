@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>208. Víťaz Kristus</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Víťaz Kristus z mŕtvych vstáva:<br/>Aleluja!<br/>Vykúpenie dokonáva:<br/>Aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Premáha moc nepriateľov:<br/>Aleluja!<br/>Z pekla berie korisť diablov:<br/>Aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ženy k hrobu pospiechali:<br/>Aleluja!- Aby Pána pomazali:<br/>Aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ten, ktorého vy hľadáte:<br/>Aleluja!<br/>Už ho v hrobe viac nemáte:<br/>Aleluja, aleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

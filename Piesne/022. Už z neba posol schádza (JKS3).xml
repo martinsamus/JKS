@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>022. Už z neba posol schádza</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Už z neba posol schádza,<br/>oddávna žiadaný,<br/>a k Márii prichádza<br/>od Boha poslaný;<br/>prekrásny archanjel,<br/>nazvaný Gabriel.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Česť vzdáva a sa klania,<br/>vykoná posolstvo<br/>a hlavu čestne skláňa,<br/>ctí sväté tajomstvo;<br/>Pannu pozdravuje,<br/>divnú vec zvestuje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tys', Mária, milosťou<br/>Božou naplnená,<br/>a najkrajšou si čnosťou<br/>nad iné vznešená;<br/>máš Matkou Božou byť<br/>a Syna porodiť.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Syn Boží, Panna, teba<br/>za Matičku chce mať,<br/>veď svetu spásy treba,<br/>čo má sa skutkom stať.<br/>Ty Panna spanilá,<br/>ty Matka premilá!</lines>
+    </verse>
+  </lyrics>
+</song>

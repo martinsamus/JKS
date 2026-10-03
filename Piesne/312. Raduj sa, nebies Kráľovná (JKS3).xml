@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>312. Raduj sa, nebies Kráľovná</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raduj sa, nebies Kráľovná,<br/>aleluja, aleluja,<br/>lebo koho si nosila,<br/>aleluja, aleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z mŕtvych vstal, jak predpovedal,<br/>aleluja, aleluja,<br/>pros, aby nás k sebe prijal,<br/>aleluja, aleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

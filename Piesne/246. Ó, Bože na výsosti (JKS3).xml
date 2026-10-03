@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>246. Ó, Bože na výsosti</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Bože na výsosti,<br/>zhliadni na nás, tu prítomných<br/>a pozbav neprávosti<br/>nás, hriešnikov poškvrnených,<br/>[:keď službu ti konáme<br/>a obeť prednášame.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Buď sláva Najvyššiemu,<br/>ktorý na nebi panuje,<br/>mier ľudu pobožnému,<br/>ktorý svoj hriech oľutuje.<br/>[:Teba, Otče, chválime,<br/>tebe dobrorečíme.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veríme v jediného,<br/>mocného vždy Stvoriteľa,<br/>Veríme v Syna jeho,<br/>Ježiša Vykupiteľa<br/>[:a v Ducha presvätého,<br/>v podstate im rovného.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ráč prijať, Otče, lásky<br/>obetu dnes nekrvavú,<br/>v ktorej ti ľud kresťanský<br/>prináša česť a oslavu;<br/>[:nech s vôňou ľúbeznosti<br/>vznáša sa do výsosti.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hlas vrúcne pozdvihujme<br/>Svätý, svätý, najsvätejší!<br/>s anjelmi prespevujme,<br/>zástupov Boh najmocnejší.<br/>[:Zem, nebo plné chvály,<br/>sú Pána chorál stály.:]</lines>
+    </verse>
+  </lyrics>
+</song>

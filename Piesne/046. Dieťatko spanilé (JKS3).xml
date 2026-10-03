@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>046. Dieťatko spanilé</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dieťatko spanilé,<br/>nebeský kvet,<br/>pre naše spasenie<br/>prišlo na svet.<br/>Prebývaj tu s nami,<br/>Ježiško láskavý,<br/>z neba daný!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Srdca si ty poklad<br/>náš jediný<br/>a tichý Baránok<br/>náš nevinný.<br/>Prebývaj tu s nami,<br/>Ježiško láskavý,<br/>z neba daný!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Čokoľvek na svete<br/>človek aj má,<br/>je samé trápenie.<br/>márnosť sama<br/>Prebývaj tu s nami,<br/>Ježiško láskavý,<br/>z neba daný!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tebou posilnená<br/>duša naša<br/>premôže úklady<br/>satanáša.<br/>Prebývaj tu s nami,<br/>Ježiško láskavý,<br/>z neba daný!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nech láska tvoja sa<br/>rozhorí v nás:<br/>po smrti na večnosť<br/>povolaj nás!<br/>Prebývaj tu s nami,<br/>Ježiško láskavý,<br/>z neba daný!</lines>
+    </verse>
+  </lyrics>
+</song>

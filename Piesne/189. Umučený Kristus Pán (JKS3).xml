@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>189. Umučený Kristus Pán</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Umučený Kristus Pán<br/>z kríža na svet hľadí,<br/>krv mu kvapká z bôľnych rán,<br/>dušiam lásku radí,<br/>umučený Ježiš môj,<br/>vidíš hriešnosť moju,<br/>chorú dušu, prosím, zhoj,<br/>daj mi lásku svoju!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toľké muky, bolesti<br/>trápia Krista Pána,<br/>ľudské hriechy, neresti<br/>Ježiša vždy rania,<br/>každý ľutuj Ježiša,<br/>ktorý z kríža hľadí,<br/>jeho oči rozlíšia,<br/>dobrých od zlých rady.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Umučený Kristus Pán,<br/>pozeráš aj na mňa,<br/>moja ľútosť, ktorú mám,<br/>pravá je, nie klamná,<br/>umučenie tvoje si<br/>cením zbožne, verne,<br/>hľaďže na mňa, Najmilší,<br/>žitím veď ma pevne!</lines>
+    </verse>
+  </lyrics>
+</song>

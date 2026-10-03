@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>115. Ježišu, Ježišu</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ježišu, Ježišu,<br/>nad slnko jasnejší,<br/>nad mesiac si krajší,<br/>nad perly vzácnejší,<br/>Ježišu môj!<br/>Meno to presväté,<br/>nech je zvelebené,<br/>nábožne uctené,<br/>Ježišu môj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ježišu, Ježišu,<br/>z trónu velebnosti<br/>dajže nám milosti,<br/>ochráň nás v úzkosti,<br/>Ježišu môj!<br/>Daj nám kajúcnosti,<br/>pravej skrúšenosti,<br/>nad hriechmi ľútosti,<br/>Ježišu môj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ježišu, Ježišu,<br/>ty darca milosti,<br/>pomôž nám v ťažkosti,<br/>v súžení, v žalosti,<br/>Ježišu môj!<br/>Zažeň mor, hlad, vojny<br/>a daj čas pokojný,<br/>milosťou prehojný,<br/>Ježišu môj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ježišu, Ježišu,<br/>skrz Ducha Svätého<br/>daj svetla jasného,<br/>osvieť nás každého,<br/>Ježišu môj!<br/>Silu nám daj a čnosť<br/>premôcť vždy diabla zlosť<br/>a ľudskú nestálosť,<br/>Ježišu môj!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ježišu, Ježišu,<br/>chráň nás pred chorobou,<br/>navštív nás pomocou,<br/>stoj pri nás dňom-nocou,<br/>Ježišu môj!<br/>Priveď nás k pokániu,<br/>ku hriechov vyznaniu,<br/>a k tvojmu poznaniu,<br/>Ježišu môj.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ježišu, Ježišu,<br/>po tejto časnosti,<br/>veď nás do večnosti,<br/>anjelskej radosti,<br/>Ježišu môj!<br/>Nech ťa tam s tvojimi<br/>chválime anjelmi,<br/>s všetkými svätými,<br/>Ježišu môj!</lines>
+    </verse>
+  </lyrics>
+</song>

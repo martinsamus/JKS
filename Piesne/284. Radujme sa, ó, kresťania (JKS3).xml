@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>284. Radujme sa, ó, kresťania</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radujme sa, ó, kresťania,<br/>z krvi z tela Pána,<br/>verným dušiam milosť božia<br/>k úteche je daná.<br/>Na oltári skrytého<br/>Boha svojho máme.<br/>Spasiteľa svätého<br/>všetci vrúcne uctievame,<br/>Krista premilého.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, predivné premenenie,<br/>veľká božia chvíľa,<br/>chlieb a víno v Božstvo mení<br/>jej nebeská sila.<br/>Naša myseľ nebadá,<br/>ako sa to stane,<br/>kedy vchádza neba dar,<br/>Božstvo samo milované,<br/>v spôsob chleba, vína.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Ježišu vo Sviatosti,<br/>plný láskavosti,<br/>ty chlieb živý,<br/>ľuďom daný,<br/>verím v skrúšenosti,<br/>žes' pri tejto hostine<br/>tajomne tu skrytý,<br/>daj mi srdce nevinné<br/>v celom svojom živobytí,<br/>aj v smrti hodine.</lines>
+    </verse>
+  </lyrics>
+</song>

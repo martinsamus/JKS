@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>333. Hor' sa, srdcia (Mariánska hymna)</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hor' sa, srdcia maloverné, pohliadnite na oltár, viďte oči dobrotivé, usmievavú, milú tvár. [:Zve vás Matka milostivá, chce vás k sebe privinúť, v srdci vrelú lásku skrýva, nedá, nedá zahynúť, nedá, nedá, zahynúť.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tí, čo v bludu tmách sa tratia, prameň šťastia nechcú znať, ó, daj, nech sa k tebe vrátia, nájdu v tebe dobrú mať. [:Vyprosuj nám dar nebeský svojej dobrotivosti, daj, nech národ náš slovenský rastie v božej milosti, rastie v božej milosti.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pošli zhora palmu mieru, sprav z nás pravdy víťazov, daj nám v nový život vieru, staň sa kňažnou národov. [:Svorne ti tu prisaháme, vytrváme, uvidíš, srdcia tebe v obeť dáme, Matka dobrá, k nám sa zníž. Matka dobrá, k nám sa zníž!:]</lines>
+    </verse>
+  </lyrics>
+</song>

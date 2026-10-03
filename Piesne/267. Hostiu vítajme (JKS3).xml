@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>267. Hostiu vítajme</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hostiu vítajme,<br/>tej manne česť dajme,<br/>zástupov Pánovi<br/>a kráľov Kráľovi.<br/>Zdrav' buď, ó, anjelský chlebe,<br/>voláme vrúcne ku tebe,<br/>[:predrahé telo a krv.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Národ náš posilňuj,<br/>vlasť našu ochraňuj,<br/>ku blahu všetkých nás<br/>zošli nám pravdy jas.<br/>Chráň nás vždy od nepriateľov,<br/>pokoja nežičiteľov<br/>[:Ježiša telo a krv.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Daruj nám milosti,<br/>ó, Bože, v štedrosti,<br/>ktorý si chránieval<br/>a mannou kŕmieval<br/>oddaný ľud svoj v pravý čas,<br/>napájaj krvou svojou nás:<br/>[:ó, Bože milostivý:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A v smrti hodine<br/>obdar nás, prosíme,<br/>vierou i dúfaním<br/>a pravým pokáním,<br/>by sme tu prijali teba,<br/>po smrti prišli do neba,<br/>[:naveky chváliť teba.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zletujte, anjeli,<br/>a všetci veselí<br/>s nami sa spojujte,<br/>Presvätý! spievajte.<br/>Zdrav' buď tu, Kriste, v sviatosti<br/>prítomný, Bože z výsosti,<br/>[:v spôsobe chleba, vína.:]</lines>
+    </verse>
+  </lyrics>
+</song>

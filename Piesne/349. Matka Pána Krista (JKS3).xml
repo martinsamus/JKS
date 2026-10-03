@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>349. Matka Pána Krista</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Matka Pána Krista,<br/>Panna Mária,<br/>tys' ľalia čistá;<br/>Božia ty dcéra,<br/>sveta nádhera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Slnkom ozdobená,<br/>Panna Mária,<br/>vôkol ovenčená<br/>nebies hviezdami:<br/>bedlíš nad nami.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Slnko prevyšuješ,<br/>Panna Mária,<br/>hviezdy zatieňuješ,<br/>všetko ti plesá:<br/>zem i nebesá.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty si krásna dúha,<br/>Panna Mária,<br/>po potope druhá,<br/>ktorá nesie zvesť,<br/>že Boh odňal trest.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sladkosť nad sladkosti<br/>Panna Mária,<br/>Matkou si milosti,<br/>Kňažná víťazná,<br/>hviezda prekrásna!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ruža krásna, vonná,<br/>Panna Mária,<br/>v tebe úctu koná<br/>v plači Evina<br/>klesla rodina.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pros za nás u Syna,<br/>Panna Mária,<br/>nech sa každá vina<br/>nám raz odpustí<br/>v smrti úzkosti.</lines>
+    </verse>
+  </lyrics>
+</song>

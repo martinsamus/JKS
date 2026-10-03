@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>282. Pred tebou Ježišu</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pred tebou, Ježišu, padám na zem,<br/>od teba pomoc si<br/>orodujem.<br/>Skrytého v Sviatosti,<br/>plného milosti,<br/>nech každý chváli ťa<br/>v skrúšenosti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Buď navždy chválený,<br/>môj Boh a Pán,<br/>ktorý tu v Sviatosti<br/>blížiš sa k nám.<br/>Všetkým sa predkladáš,<br/>za pokrm nám dávaš,<br/>krvou nás presvätou<br/>napájavaš.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Radosťou oplývaš,<br/>Ježišu môj,<br/>lebo ty vždy tešíš<br/>verný ľud svoj;<br/>nech je vždy chválené<br/>presväté vtelenie,<br/>od všetkých kresťanov<br/>zvelebené.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, manna nebeská,<br/>najvzácnejšia,<br/>nežiadam si inšie,<br/>len Ježiša.<br/>Veľkú ja radosť mám,<br/>keď teba vyznávam,<br/>Ježiša telo, krv,<br/>keď požívam.</lines>
+    </verse>
+  </lyrics>
+</song>

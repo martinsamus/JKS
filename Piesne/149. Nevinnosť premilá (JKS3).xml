@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>149. Nevinnosť premilá</title>
+    </titles>
+    <authors>
+      <author>JKS3</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nevinnosť premilá,<br/>čo si učinila?<br/>Za koho omdlievaš,<br/>za koho umieraš<br/>tak žalostne, tak ľútostne?<br/>Za koho umieraš,<br/>za koho omdlievaš?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Umiera nevinný<br/>Syn Boží jediný,<br/>na kríž zavesený<br/>celý poranený<br/>pre hriech, zlosti<br/>neprávnosti,<br/>umiera nevinný<br/>Syn Boží jediný.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trpí za nás muky,<br/>pohliadni na ruky,<br/>klincami ranené,<br/>nohy prerazené:<br/>pre hriech, zlosti<br/>neprávosti,<br/>trpí veľké muky,<br/>pohliadni na ruky.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krv z pravého boka<br/>na spôsob potoka<br/>krvavého tečie,<br/>poľutuj, človeče!<br/>Pre hriech, zlosti,<br/>neprávosti,<br/>ó, hriešny, človeče,<br/>krv Kristova tečie!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nakloňuje hlavu<br/>od tŕňov boľavú;<br/>na presvätom tele<br/>nemá miesto celé;<br/>pre hriech, zlosti<br/>neprávosti,<br/>na presvätom tele<br/>nemá miesto celé.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hriešniku nešťastný,<br/>kresťane nevďačný,<br/>pre tvoj hriech spáchaný<br/>Ježiš trpí rany!<br/>Nechaj zlosti,<br/>neprávosti,<br/>pre Kristovu bolesť<br/>nechaj hriešnu neresť.</lines>
+    </verse>
+  </lyrics>
+</song>
