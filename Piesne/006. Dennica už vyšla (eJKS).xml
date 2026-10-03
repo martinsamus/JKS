@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>006. Dennica už vyšla</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dennica už vyšla,<br/>radostná zvesť prišla<br/>od najvyššieho Stvoriteľa.<br/>Novina anjela,<br/>predzvesť Gabriela,<br/>radostná pre nás takto znela:<br/>[:Panenka Mária<br/>porodí nám Syna,<br/>nášho predrahého Spasiteľa.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Panna sa zľakla,<br/>takto povedala<br/>archanjelovi nebeskému:<br/>Ako to môže byť,<br/>jak môžem porodiť,<br/>súc zasvätená Najvyššiemu?<br/>[:Bohu som sľúbila,<br/>jemu som slúžila,<br/>celá chcem patriť ja iba jemu.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Anjel jej hovoril:<br/>Boh sám ťa vyvolil,<br/>neboj sa, Panna najsvätejšia,<br/>panenstvo nestratíš,<br/>zázračne porodíš,<br/>Mária, Bohu si najmilšia.<br/>[:Ty medzi ženami<br/>kvet si požehnaný.<br/>Tys' Bohu nad všetko najvzácnejšia.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keď si, ó, Matička,<br/>Kristova Rodička, ostala šťastnou nad pannami,<br/>starosť maj vždy o nás,<br/>primlúvaj sa za nás,<br/>zmiluje Pán Boh sa nad nami,<br/>[:aby sme po boji<br/>vo večnom pokoji<br/>spevom ťa chválili večne v nebi.:]</lines>
+    </verse>
+  </lyrics>
+</song>

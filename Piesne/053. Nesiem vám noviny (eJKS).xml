@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>053. Nesiem vám noviny</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nesiem vám noviny: počúvajte!<br/>Z betlemskej doliny: pozor dajte!<br/>[:Čujte ich pilne, sú neomylné,:]<br/>rozjímajte!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Syna nám zrodila čistá Panna,<br/>v jasličky vložila Krista Pána;<br/>[:k sebe vinula a zavinula:] požehnaná.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ku nemu anjeli letia z neba,<br/>pastieri veselí ho velebia.<br/>[:Privítajme ho, Pána to svojho,:]<br/>ako treba!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anjeli spasenie nám zvestujú<br/>a Boha vtelenie zvelebujú,<br/>[:že je zrodený, v jasliach vložený,:]<br/>ohlasujú.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kresťania premilí nemeškajme,<br/>k jasličkám v tej chvíli pospiechajme!<br/>[:Vykupiteľa a Spasiteľa:]- privítajme!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ježiško, zrodený z čistej Panny,<br/>oddávna túžený, buď vítaný!<br/>[:Pohliadni na nás a prijmi od nás:]<br/>naše dary.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Z neba k nám stúpilo Jezuliatko,<br/>ľuďom sa zjavilo jak Dieťatko,<br/>[:Dieťatko milé a ušľachtilé:]<br/>Nemluvniatko.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tak si nás preveľmi zamiloval,<br/>jak človek smrteľný telo si vzal;<br/>[:zostúpil z neba, by za nás seba:]<br/>obetoval.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>050. Dobrý pastier sa narodil</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dobrý pastier sa narodil,<br/>by ovečky vyslobodil<br/>pri betlemskom salaši,<br/>radujte sa, veseľte sa, valasi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radujte sa a plesajte,<br/>láskou k Bohu plápolajte,<br/>že nám Boh dal takého<br/>žiadaného nám Pastiera dobrého.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak sa jedna ovca stratí,<br/>on sa hľadať ju navráti,<br/>nebojí sa zanechať<br/>pre tú jednu deväťdesiat aj deväť.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, Dieťatko utešené,<br/>z čistej Panny narodené,<br/>daj nám svojej milosti,<br/>nech sa s tebou uvidíme v radosti.</lines>
+    </verse>
+  </lyrics>
+</song>

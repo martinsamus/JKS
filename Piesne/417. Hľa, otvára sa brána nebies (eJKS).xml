@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>417. Hľa, otvára sa brána nebies</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hľa, otvára sa Brána nebies dokorán<br/>a oko hľadí ta k nebeským výšinám.<br/>[:Tam chóry svätých<br/>Boha zvelebujú<br/>a zbory Serafov mu prespevujú.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>My pripojme sa k nim so spevom nábožným,<br/>a vzdajme slávu Bohu hlasom ľúbezným.<br/>[:Ich viera v Boha<br/>tam už zvíťazila<br/>a láska našla tiež, po čom túžila.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, svätí, ktorí Boha v nebi chválite<br/>a s anjelmi ho spevom vrúcnym slávite;<br/>[:ach, na nás bratov,<br/>sestry, si spomnite<br/>tam, pred Bohom, nebeskom na úsvite.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Náš chválospev nech letí k nebies výšinám,<br/>v ňom túžba srdca obracia sa vrelo k vám:<br/>[:vy, ó, drahí svätí,<br/>pomôžte v boji,<br/>nech čnosť snahy diablove tu pokorí.:]</lines>
+    </verse>
+  </lyrics>
+</song>

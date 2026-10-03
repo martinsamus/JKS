@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>399. Kvetinky májové</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kvetinky májové,<br/>Márii sa kloňte,<br/>zvončeky hájové,<br/>Márii zazvoňte,<br/>[:vzdajte česť a úctu<br/>najčistejšej Panne,<br/>proste ju, nech na nás<br/>z výšin neba zhliadne.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Konvalinky biele,<br/>fialky voňavé<br/>k ozdobe oltára<br/>hojne prinesieme;<br/>[:a kiežby sme zniesli<br/>všetky sveta kvety,<br/>by ťa ozdobili<br/>tvoje verné deti.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z ruží je zložený<br/>náš ruženec milý,<br/>ako nám ho ruky<br/>Dominika zvili.<br/>[:Zdravas', buď Mária!<br/>koľko ráz voláme,<br/>toľko ráz, Kráľovná,<br/>ku tebe vzdycháme!:]</lines>
+    </verse>
+  </lyrics>
+</song>

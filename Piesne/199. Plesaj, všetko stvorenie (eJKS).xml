@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>199. Plesaj, všetko stvorenie</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Plesaj, všetko stvorenie<br/>dnes vstal z mŕtvych tvoj Pán;<br/>prestalo už smútenie,<br/>svätá radosť, príď k nám!<br/>Trápenie už prešlo,<br/>potešenie nadišlo,<br/>plesaj, Cirkev celá!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Svätí patriarchovia,<br/>plesajte v radosti,<br/>verní boží sluhovia,<br/>vyjdite z temnosti.<br/>To, čo ste žiadali,<br/>šťastne ste i dočkali:<br/>spasenie nám prišlo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Radujte sa nebesá,<br/>otvárajte brány,<br/>dnes nebeský Kráľ plesá:<br/>Kristus, víťaz slávny.<br/>Vykúpených vedie,<br/>plesajúcich vovedie<br/>do večnej radosti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>O nebeské slniečko,<br/>svieťže dnes jasnejšie,<br/>krásne nebies ty očko,<br/>hľaďže dnes veselšie.<br/>Teš sa zo vzkriesenia,<br/>keďs' trúchlilo z trápenia<br/>Stvoriteľa svojho.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Teš sa, každý tvor zeme,<br/>teš sa zo vzkriesenia,<br/>zemské, morské ty plemä,<br/>vzdaj sa už kvílenia:<br/>Vítaj Pána svojho,<br/>z mŕtvych nám vzkrieseného,<br/>Víťaza slávneho.</lines>
+    </verse>
+  </lyrics>
+</song>

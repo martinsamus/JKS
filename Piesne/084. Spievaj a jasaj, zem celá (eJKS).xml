@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>084. Spievaj a jasaj, zem celá</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spievaj a jasaj, zem celá!<br/>Chváľme svojho Spasiteľa,<br/>Jezu Krista narodenie<br/>a verných potešenie.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stala sa divná premena,<br/>hľa, noc na deň je zmenená;<br/>nebo celé zaspievalo,<br/>radostne zaplesalo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prišli aj králi z východu,<br/>klaňali sa jeho rodu,<br/>klaňajme sa i my jemu,<br/>Pánu a Bohu svojmu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pohania tak ho uctili,<br/>k zemi sa mu poklonili<br/>a dary mu darovali,<br/>chválu i česť mu vzdali.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pre svoje, Kriste, zrodenie<br/>daj nám hriechov odpustenie;<br/>daj nám v dobrom zotrvanie,<br/>po smrti oslávenie.</lines>
+    </verse>
+  </lyrics>
+</song>

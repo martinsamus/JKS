@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>096. Vítame ťa, sväté Dieťa</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vítame ťa, sväté Dieťa,<br/>nebeský náš Pane,<br/>ktorý si sa nám narodil<br/>v Betleme na slame.<br/>V chudobe si prišiel k nám<br/>spasiť duše naše,<br/>brány nebies otvárať<br/>dušiam našim k spáse.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Celý život v prácach našich<br/>ruka tvoja veď nás,<br/>žalosť v radosť premeňuješ,<br/>dokiaľ ty nás žehnáš.<br/>V chudobe nám pomáhaj,<br/>v starosti a biede,<br/>ráč nás chrániť od zlého,<br/>raj tvoj nech k nám príde.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ráč od vojny a od moru<br/>slovenský ľud chrániť,<br/>od nehôd a od úzkosti<br/>svoje deti brániť.<br/>Žehnaj naše rodiny,<br/>daj im milosť svätú,<br/>by len tebe slúžili,<br/>a nie zlému svetu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pred tebou, ó, Ježiško môj,<br/>na kolená padám,<br/>na dar skromný srdce svoje<br/>do tvojich rúk skladám.<br/>Spievame ti radostne,<br/>bo si radosť sama,<br/>vítame ťa s anjelmi,<br/>teba, nebies sláva.</lines>
+    </verse>
+  </lyrics>
+</song>

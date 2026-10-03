@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>058. Kyrie eleison - Pána Krista</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[:Kyrie eleison,<br/>Kriste eleison!:]<br/>Pána Krista narodenie<br/>stalo sa nám na spasenie.<br/>Pane, vyslyš nás, Kriste, vyslyš nás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[:Kyrie eleison,<br/>Kriste eleison!:]<br/>Ježiš Kristus milostivý<br/>z neba stúpil dobrotivý.<br/>Pane vyslyš nás,<br/>Kriste, vyslyš nás!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[:Kyrie eleison,<br/>Kriste eleison!:]<br/>Z neba anjel priletuje,<br/>pastierom to oznamuje.<br/>Pane, vyslyš nás,<br/>Kriste, vyslyš nás!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[:Bohu sláva buď,<br/>spieva zbožný ľud.:]<br/>Buď na zemi pokoj ľudu,<br/>ktorí dobrej vôle budú.<br/>Bohu sláva buď,<br/>spieva zbožný ľud.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[:Verím v jedného<br/>Boha večného.:]<br/>I v Ježiša, Syna jeho,<br/>z čistej Panny zrodeného.<br/>Verím v jedného<br/>Boha večného.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>[:Ráč prijať dary,<br/>Ježiško malý,:]<br/>ktoré ti tu venujeme,<br/>bo ťa vrúcne milujeme.<br/>Ráč dary prijať<br/>a nás požehnať.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>[:Chleba obetu<br/>i vína spolu:]<br/>od teba sme my prijali;<br/>by sme ti ňou chválu vzdali.<br/>Prijmi ju, milé<br/>Dieťa, spanilé.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>[:Všetko, čo máme,<br/>vďačne ti dáme,:]<br/>telo, dušu aj poklady,<br/>lebo my ťa máme radi,<br/>Ježiško milý,<br/>kvietok spanilý.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>[:Svätý, Pán Boh náš,<br/>ty všetku moc máš.:]<br/>Kristu na svet poslanému,<br/>z čistej Panny zrodenému<br/>Svätý! spievajme,<br/>Bohu česť vzdajme!</lines>
+    </verse>
+    <verse name="v10">
+      <lines>[:Vítame teba,<br/>ktorý k nám z neba:]<br/>tak veľmi sa ponižuješ,<br/>že nás hriešnych navštevuješ.<br/>Všetci plesáme,<br/>teba vítame.</lines>
+    </verse>
+  </lyrics>
+</song>

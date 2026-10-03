@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>025. V spôsobe chleba</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>V spôsobe chleba<br/>veríme v teba,<br/>vždy v Boha pravého,<br/>všade prítomného;<br/>Jezu Kriste, Spasiteľu!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Príchod tvoj z neba,<br/>prosíme teba,<br/>nech z tvojej milosti<br/>zotrie naše zlosti:<br/>žiadaný náš Spasiteľu!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Jezu Kriste,<br/>daj srdce čisté,<br/>by sme ťa prijali,<br/>vrúcne milovali:<br/>Krista, svojho Spasiteľa.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Baránku Boží,<br/>nech pokoj množí<br/>príchod tvoj žiadaný,<br/>od vekov čakaný.<br/>Jezu Kriste, Spasiteľu!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Požehnaj ľudu,<br/>keď prídeš k súdu,<br/>prijmi ho v anjelské<br/>radosti nebeské:<br/>prijmi, prijmi, Spasiteľu!</lines>
+    </verse>
+  </lyrics>
+</song>

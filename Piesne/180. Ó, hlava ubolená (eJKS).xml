@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>180. Ó, hlava ubolená</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, hlava ubolená,<br/>ranami pokrytá,<br/>ó, božská hlava, tŕním<br/>tak strašne obvitá,<br/>ó, hlava, hodná úcty<br/>a venca iného,<br/>buď slzou pozdravená i od mňa hriešneho.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tvár tvoja krásna zbledla<br/>i ústa v žalosti<br/>a celá krása zvädla<br/>v smrteľnej úzkosti,<br/>no, tvoja trpezlivosť<br/>zrie z tvojho pohľadu,<br/>ty hriešnikov chceš blažiť,<br/>dať im milosť svätú.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, Pane, čo všetko si<br/>ty trpel na zemi,<br/>to všetko som zavinil<br/>ja, hriešnik neverný.<br/>Všetko to zaslúžil som<br/>ja hriechmi svojimi.<br/>Ó, Kriste milosrdný,<br/>mne zotri zločiny.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pod krížom, Pane, chcem stáť<br/>vždy v duchu pokory<br/>a srdce moje k tebe<br/>tak láskou zahorí,<br/>ťa nikdy neopustí<br/>a v smrti hodine<br/>sa s vierou pevnou k tebe<br/>naveky privinie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zo srdca tebe vzdávam,<br/>ó, Kriste Ježišu,<br/>za bôle smrti horkej,<br/>povďačnosť najhlbšiu.<br/>Daj, by som tebe verným<br/>bol stále v živote,<br/>kým duša z môjho tela<br/>do neba nevojde.</lines>
+    </verse>
+  </lyrics>
+</song>

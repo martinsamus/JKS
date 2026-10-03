@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>094. Vstávajte, pastieri</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vstávajte, pastieri,<br/>preveľkú veselosť<br/>zvestujem vám teraz:<br/>prišiel k nám veľký hosť;<br/>tam v mestečku Betleheme<br/>v biednej stajni leží v slame,<br/>leží váš Spasiteľ,<br/>sveta Vykupiteľ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Iďte a nájdete<br/>toho Kráľa kráľov,<br/>Vladára mocného,<br/>Panovníka pánov;<br/>v judskom meste Betleheme<br/>v biednej stajni leží v slame;<br/>v chudobe sa zrodil,<br/>chudobu posvätil.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Čujúc v nočnej chvíli<br/>pastieri novinu, Spasiteľ že milý<br/>prišiel v tú hodinu:<br/>do Betlema pospiechajú<br/>a do stajne povchádzajú.<br/>Tam pri jasliach stáli<br/>a krásne spievali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vitaj, položené<br/>v jasliach Pacholiatko,<br/>oddávna túžené,<br/>božské Nemluvniatko.<br/>Vitaj, prišlý Spasiteľu,<br/>vitaj náš Vykupiteľu!<br/>Nech sa všade vzdáva<br/>tebe večná sláva!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tak pastieri krásne<br/>Dieťatku spievali<br/>a pritom na hlasné<br/>fujary mu hrali;<br/>až dennica vychádzala,<br/>nočné tône rozháňala,<br/>ku stádam náhlili<br/>a Boha chválili.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vitaj, Pane milý,<br/>vítame tu teba,<br/>prišiels' k nám v tej chvíli,<br/>z večných výšin neba;<br/>z lásky Ježiš v Betleheme,<br/>najväčší Pán neba, zeme;- chvála na výsosti<br/>Bohu z povďačnosti!</lines>
+    </verse>
+  </lyrics>
+</song>

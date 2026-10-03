@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>001. Ó, prekrásna Hviezda ranná</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, prekrásna Hviezda ranná,<br/>ktorá si nám z neba daná,<br/>vrúcne, Panna, buď vítaná!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Božieho tys' výkvet diela,<br/>k tebe poslal Gabriela<br/>sám Boh, svojho archanjela.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Počneš Syna premilého,<br/>Bohom Otcom nám daného,<br/>Spasiteľa čakaného.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ako dcéra Stvoriteľa<br/>Matkou budeš Spasiteľa<br/>a Nevestou Tešiteľa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Trojici buď svätej sláva,<br/>Márii česť nech sa vzdáva,<br/>že sa Božou Matkou stáva.</lines>
+    </verse>
+  </lyrics>
+</song>

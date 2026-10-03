@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>173. S pobožnosťou oslavujme</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>S pobožnosťou oslavujme<br/>Ježišove bolesti,<br/>ktoré trpel on na kríži<br/>pre náš hriech a neresti.<br/>To preveľká milosť Pána<br/>za teba svoj život dáva,<br/>moja duša strápená!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ľutujeme, ó, Ježišu,<br/>svoje hriechy a zlosti,<br/>daj skrz svoje umučenie<br/>nám kajúcim milosti.<br/>Daj, nech tvoje sväté rany<br/>otvoria nám nebies brány,<br/>Kriste, Bože láskavý!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z podaných presvätých spisov<br/>známe sú nám zákony,<br/>ktoré Ježiš divotvorný<br/>hlásal vždy bez úhony;<br/>máme skrze smrť vždy ctenú,<br/>na Golgote podstúpenú,<br/>pravosť ich potvrdenú.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Milostivý Spasiteľu,<br/>verím v tvoje učenie,<br/>keď ho budem zachovávať,<br/>prisľúbils' mi spasenie;<br/>mne je kríž tvoj prebolestný,<br/>a život tvoj prepočestný<br/>slova dôkaz posvätný.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hľa, obeta lásky plná<br/>posväcuje všetkých nás,<br/>ktorú konal Bohočlovek,<br/>trpiac kríža smrť za nás:<br/>duše naše by vykúpil<br/>smrťou svojou diabla zhubil,<br/>preto z neba zostúpil.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nech znie srdce i jazyk náš:<br/>Svätý si, ó, Ježišu!<br/>Tys' lekárom najslávnejším,<br/>uzdravuješ mi dušu.<br/>Daj, nech čnostiam sa oddáme,<br/>neprávostiam vyhýbame,<br/>večnú slávu dúfame.</lines>
+    </verse>
+  </lyrics>
+</song>

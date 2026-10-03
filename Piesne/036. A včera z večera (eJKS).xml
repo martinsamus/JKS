@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>036. A včera z večera</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>A včera zvečera<br/>z nebeského dvora<br/>[:poslaná je novina:<br/>Panna rodí Syna:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ježiška milého,<br/>Mesiáša ctného,<br/>[:ktorého vyhlásili,<br/>proroci sľúbili.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V Betleheme v jasličkách,<br/>ovinutý v plienkach,<br/>[:tam leží ten Mesiáš,<br/>on je pravý Boh náš.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ježiš sa usmieva,<br/>Matka ho odieva<br/>[:a hneď vedľa jasličiek<br/>stojí vôl, oslíček.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na neho dýchajú,<br/>jeho zahrievajú,<br/>[:pastieri mu spievajú,<br/>piesne krásne hrajú.:]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nebeská veleba<br/>poslaná je z neba:<br/>[:v jasliach je položený<br/>dávno prísľúbený.:]</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My teda chválime,<br/>česť, chválu vzdávame;<br/>[:odpusť naše nám viny,<br/>Kriste ponížený.:]</lines>
+    </verse>
+  </lyrics>
+</song>

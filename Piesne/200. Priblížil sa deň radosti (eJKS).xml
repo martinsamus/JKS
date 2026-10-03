@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>200. Priblížil sa deň radosti</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Priblížil sa deň radosti,<br/>deň preveľkej veselosti,<br/>keď Kristus Pán z mŕtvych vstáva<br/>a prázdny hrob zanecháva.<br/>Aleluja, aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Smrťou, svojou smrť premáha,<br/>moc diablovi z rúk vymáha,<br/>skrze svoje zmŕtvychvstanie<br/>dokonáva vykúpenie.<br/>Aleluja, aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Preto všetci sa radujme,<br/>celým srdcom prespevujme:<br/>Za preveľkú lásku Pána<br/>nech mu je vždy česť vzdávaná.<br/>Aleluja, aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Z hrobu starých hriechov vstaňme,<br/>všemožne sa nových chráňme.<br/>Kroťme v sebe zlé žiadosti,<br/>nezriadené náklonnosti.<br/>Aleluja, aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V čnostiach sa vždy cvičievajme,<br/>dobré skutky konávajme,<br/>by sme s Kristom po vzkriesení,<br/>tešili sa v oslávení.<br/>Aleluja, aleluja, aleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

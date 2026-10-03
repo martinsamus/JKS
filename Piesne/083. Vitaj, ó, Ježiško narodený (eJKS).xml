@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>083. Vitaj, ó, Ježiško narodený</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vitaj, ó, Ježiško narodený,<br/>v jasličkách na slame položený;<br/>vitaj, vitaj, milý náš Ježiško,<br/>so svojou premilenou Matičkou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kresťania, v Betleme nám nastala<br/>radosť a blaženosť neskonalá,<br/>pretože sa večný Boh narodil,<br/>aby nás hriešnikov vyslobodil.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Radujú sa Jozef i Mária,<br/>anjeli spievajú dnes Glória!<br/>Sláva Bohu nech je na výsosti,<br/>buď pokoj i ľuďom živým v čnosti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Slovo, čo telom je učinené,<br/>buď od nás všetkých vždy zvelebené:<br/>za tvoju láskavosť i za milosť,<br/>za tvoju preveľkú dobrotivosť.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Poďme, ó, kresťania, s pobožnosťou:<br/>vrúcne sa priblížme, s úctivosťou;<br/>a vrelé srdcia mu podarujme<br/>i jemu všetci sa obetujme.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Prijmi nás na milosť a k pomoci<br/>prispej nám hriešnikom vo dne, v noci,<br/>aby sme po tejto raz časnosti<br/>dosiahli nebeskej blaženosti.</lines>
+    </verse>
+  </lyrics>
+</song>

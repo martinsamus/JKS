@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>121. Čo trpieť má Spasiteľ náš</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Čo trpieť má Spasiteľ náš,<br/>písal prorok Jeremiáš,<br/>aké bude znášať rany<br/>sám Syn Boží,<br/>z neba daný.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nepriatelia riekli sami<br/>Buď tá rana medzi nami,<br/>nech je Ježiš odsúdený<br/>a na kríži usmrtený.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, tá hora Kalvária<br/>nevinnú krv Krista vpíja,<br/>nevinnú krv Spasiteľa,<br/>ktorá tečie z jeho tela.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Kriste, pre to umučenie<br/>daj nám hriechov odpustenie,<br/>daj nám svätej viery prameň,<br/>zachovaj nás, Kriste! Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

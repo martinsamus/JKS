@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>162. Poďteže, hriešnici</title>
+    </titles>
+    <authors>
+      <author>eJKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poďteže, hriešnici,<br/>vy spurní vinníci,<br/>pristúpte sem!<br/>Jak ste ma trápili,<br/>bolestne ranili,<br/>ukázať chcem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Čože som učinil,<br/>jak som sa previnil?<br/>Nevinný som.<br/>Vy ste ma mučili,<br/>nesmieme ranili<br/>v úmysle zlom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nebeským zjavením,<br/>vznešeným učením<br/>slúžil som vám.<br/>Ó, ľudské stvorenie,<br/>prehrozné trápenie<br/>znášal váš Pán!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Telo mám strápené,<br/>do kosti ranené,<br/>mučíte ma.<br/>Večne ma sužuje,<br/>znova ma bičuje<br/>ukrutnosť zlá.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Potupných hanení,<br/>posmechov, hrešení,<br/>čul som už dosť.<br/>Prečo ma sužuješ,<br/>prečo ma križuješ?<br/>Zanechaj zlosť!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Už ma viac nekatuj,<br/>ale skôr poľutuj,<br/>pozri na kríž.<br/>Nesužuj, nebičuj,<br/>v srdečnej pokore<br/>ku mne sa zblíž!</lines>
+    </verse>
+  </lyrics>
+</song>
