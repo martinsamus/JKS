@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>253. Ráč nás, Pane, zbaviť</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ráč nás, Pane, zbaviť neprávostí,<br/>hriechov a premnohých našich zlostí,<br/>keď zídení v tvojom chráme<br/>Velebnosti tvojej sa klaniame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória: Sláva ti buď, Bože, na výsosti,<br/>pokoj ľuďom stálym v každej čnosti.<br/>Otec i Syn je najvyšším<br/>i so Svätým Duchom, Pánom naším.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krédo: Verím v Boha, Otca, Stvoriteľa;<br/>verím v Boha Syna, Spasíteľa,<br/>verím v Ducha presvätého,<br/>obom v božstve svojom rovnakého.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ofertórium: Najsvätejší Pane na výsosti,<br/>prijmi našu obeť z úprimnosti,<br/>ktorú ti tu predkladáme<br/>a s ňou seba samých oddávame.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Prijmi ju za naše hriechy, zlosti<br/>a za naše veľké neprávosti,<br/>ktorých sme sa dopustili,<br/>čím sme tvoju lásku obrazili.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sanktus: Svätý,-svätý, svätý, najsvätejší,<br/>ty si Pán zástupov najmocnejší.<br/>Plné tvoje sídlo, nebo,<br/>plná zem príslušnej slávy jeho.</lines>
+    </verse>
+  </lyrics>
+</song>

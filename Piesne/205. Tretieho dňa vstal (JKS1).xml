@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>205. Tretieho dňa vstal</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tretieho dňa vstal<br/>Stvoriteľ z mŕtvych,<br/>[:náš milý Spasiteľ,<br/>božský Vykupiteľ,<br/>ktorý smrť pretrpel<br/>za hriešnych nás.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veseľ sa, plesaj<br/>nebeská ríša,<br/>[:družina anjelská,<br/>slávna archanjelská,<br/>radosť je preveľká<br/>z mŕtvych vstal Pán!:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Raduj sa, spievaj,<br/>stvorenie zbožné,<br/>[:oslávme vzkriesenie,<br/>prišlo k nám spasenie,<br/>prestalo trápenie<br/>hriešnikom nám.:]</lines>
+    </verse>
+  </lyrics>
+</song>

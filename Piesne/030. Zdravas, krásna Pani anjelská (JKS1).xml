@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>030. Zdravas, krásna Pani anjelská</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zdravas' , krásna Pani anjelská,<br/>ty si jasná brána nebeská:<br/>[:Čistá Panna,<br/>nádej sladká,<br/>Božia Matka!:)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty si pozdravenie prijala,<br/>Božie znamenie z úst anjela.<br/>[:Čistá Panna, atď.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ľud svoj hriešny vedieš k spa_seniu,<br/>nevidia-ich k s,!etl- krásnemu.<br/>[:Cistá Panna, atd.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ze Sl našou Matkou, nám ukáž,<br/>prijať milostivo ráč hlas náš.<br/>[:Čistá Panna, atď.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Daj nám ruku, veď nás do neba,<br/>ta, kde sídli Božia veleba.<br/>[:Čistá Panna, atď.:]</lines>
+    </verse>
+  </lyrics>
+</song>

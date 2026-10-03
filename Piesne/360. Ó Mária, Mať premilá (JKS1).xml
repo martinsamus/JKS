@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>360. Ó Mária, Mať premilá</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Mária, Mať premilá,<br/>ku tebe vrúcny hlas náš volá.<br/>Dietok svojich tys` ochrana,<br/>ktorú moc diablova nezdolá.<br/>Tys` ochrana nám jediná,<br/>pros za nás v nebi svojho Syna!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nad všetko si povýšená,<br/>preblahoslavená Matička!<br/>Najsvätejšia ty si žena,<br/>milostivá Božia Rodička!<br/>Tebe vernosť sľubujeme,<br/>tvoje čnosti zvelebujeme.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó Mária, Matka naša,<br/>verné srdcia k tebe volajú,<br/>pred úkladmi satanáša<br/>len v tvoju moc vždy úfajú.<br/>Z prevznešenej tvojej tvári<br/>útecha nebies na nás žiari.</lines>
+    </verse>
+  </lyrics>
+</song>

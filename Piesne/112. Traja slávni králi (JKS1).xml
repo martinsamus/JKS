@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>112. Traja slávni králi</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Traja slávni králi od Východu<br/>za hviezdou sa dali ku pochodu:<br/>zlato, tymian, myrhu prínášalí,<br/>Spasiteľa túžobne hľadali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kdeže sa ten nový kráľ narodil,<br/>aby svoj ľud z jarma vyslobodil?<br/>Lebo jeho hviezdu sme videli,<br/>pokloniť sme sa mu my dnes chceli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jeruzalem celý bol zbúrený,<br/>kráľ Herodes stál tu podesený,<br/>by trónu nezastihla ho strata,<br/>zvolal zákonníkov i kniežatá.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>By sa o tej veci dozvedeli,<br/>ihneď Sväté písmo otvoríli<br/>a našli, že v meste Betleheme<br/>mal by sa narodiť ten kráľ zeme.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Lebo prorok píše: Hľa, Betlehem,<br/>nie si v Judsku ty tá najmenšia zem;<br/>z teba vyjde vodca ten vznešený,<br/>ktorý má panovať v Izraeli.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Hviezda, ktorá bola, sa stratila,<br/>keď odchádzali, sa zas zjavila,<br/>do Betlehema ich sprevádzala,<br/>nad stajňou chudobnou pozastala. l</lines>
+    </verse>
+  </lyrics>
+</song>

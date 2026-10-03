@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>379. Svätá Mária, oroduj za nás</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Svätá Mária!<br/>Oroduj za nás!<br/>Zhliadni na nás,<br/>počuj náš hlas<br/>a prosby naše<br/>pred Ježiša predlož,<br/>Panna Mária!<br/>Pros, Mária, Syna svojho,<br/>nášho Krista premilého,<br/>ktorého si zrodila<br/>a na rukách nosila,<br/>Matka Božia!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Svätá Božia Rodička!<br/>Oroduj za nás!<br/>Zhliadni na nás,<br/>počuj náš hlas<br/>a prosby naše<br/>pred Ježiša predlož,<br/>Panna Mária!<br/>Pros, Mária, Syna svojho,<br/>nášho Krista premilého,<br/>ktorého si zrodila<br/>a na rukách nosila,<br/>Matka Božia!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Svätá Panna Panien!<br/>Oroduj za nás!<br/>Zhliadni na nás,<br/>počuj náš hlas<br/>a prosby naše<br/>pred Ježiša predlož,<br/>Panna Mária!<br/>Pros, Mária, Syna svojho,<br/>nášho Krista premilého,<br/>ktorého si zrodila<br/>a na rukách nosila,<br/>Matka Božia!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Matka Kristova!<br/>Oroduj za nás!<br/>Zhliadni na nás,<br/>počuj náš hlas<br/>a prosby naše<br/>pred Ježiša predlož,<br/>Panna Mária!<br/>Pros, Mária, Syna svojho,<br/>nášho Krista premilého,<br/>ktorého si zrodila<br/>a na rukách nosila,<br/>Matka Božia!</lines>
+    </verse>
+  </lyrics>
+</song>

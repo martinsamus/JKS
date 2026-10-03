@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>396. Pozdravujeme ťa</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pozdravujeme ťa,<br/>Patrónka Slovenska,<br/>Sedembolestná Matička,<br/>našej zeme si Patrónka,<br/>naša dobrá Matka!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>K tebe nás priviedli<br/>apoštoli viery<br/>svätý Cyril,<br/>svätý Metod,<br/>keď pohanstva<br/>ťažkých nehôd<br/>zbavili nás vtedy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Národ slovenský ťa<br/>už oddávna volá<br/>Patrónkou<br/>svojej krajiny,<br/>veď ho neochránil iný,<br/>len ty, tvoja ruka.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tys’ nás ochránila,<br/>keď turecká sila<br/>dobýjala naše hory,<br/>a v krvavom,<br/>hroznom boji<br/>ty si pri nás stála.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pomáhala si nám<br/>ochrániť Boží chrám,<br/>keď zo srdca<br/>vieru Krista<br/>i teba, vziať,<br/>Panna čistá,<br/>nežičlivci chceli.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Mocná Panovnica<br/>a Orodovnica,<br/>k tebe oči<br/>obraciame,<br/>ruky svoje<br/>tu spíname<br/>za stratené deti.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tvoje deti v svete<br/>zo slovenskej zeme<br/>ďaleko zašli<br/>za chlebom,<br/>robia v pote<br/>každodennom, národu vzdialení.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Vypros im pomoci,<br/>žehnaj vo dne,<br/>v noci a zachovaj<br/>ich vo viere<br/>keď nepriateľ im<br/>ju berie,<br/>pomáhaj im v boji.</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Naša dobrá Matka,<br/>Patrónka Slovenska,<br/>tebe národ porúčame,<br/>svoje srdcia<br/>oddávame,<br/>tebe žiť, mrieť<br/>chceme.</lines>
+    </verse>
+  </lyrics>
+</song>

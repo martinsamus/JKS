@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>183. Kráľ neba, zeme</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Král neba, zeme<br/>na oslici kráča<br/>k Jeruzalemu,<br/>jak to Písma značia<br/>Šli mu naproti<br/>s úctivosťou všetkou<br/>as láskou veľkou</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vítali slávne<br/>vladára a kráľa,<br/>spievaním krásnym<br/>oslávili Pána<br/>Blahoslavený,<br/>ktorý kráčaš k bráne,<br/>láskavý Pane1</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niektorí z ľudu<br/>hádzali mu palmy<br/>a pred ním v úcte<br/>na kolená padli,<br/>stlali pod nohy<br/>rúcho mu na cestu,<br/>keď išiel k mestu</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dieťatka male,<br/>ratolesti niesli<br/>a v chráme Božom, vítajúc ho, riekli Isto tento je,<br/>ktorý na zem stupil,<br/>by ľud vykúpil</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Poddané su mu<br/>zástupy a tróny,<br/>na slávu sa mu<br/>zem a nebo kloní<br/>Všetci jasali<br/>»Hosana, ti, sláva'«<br/>Vítali Pána</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Neboj sa už viac,<br/>ty sionská dcéra,<br/>diabolskú chytrosť,<br/>premohla už viera<br/>Kráľa, prišlého<br/>na oslici, vítaš,<br/>jak v Písme čítaš</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Velebnosť svatu<br/>pozdravuje zástup,<br/>na ktorú v raji<br/>Pan Boh dal nam prísľub,<br/>že sa zjaví nám<br/>a tak sa k nam zníži<br/>umrie na kríži</lines>
+    </verse>
+  </lyrics>
+</song>

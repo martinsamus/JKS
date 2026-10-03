@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>070. Plesá svet</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Plesá svet, že ten čas už dožil,<br/>ktorý Boh svetu bol uložil,<br/>by jeho Syn jednorodený<br/>pre hriešny ľud bol zrodený.<br/>Z Ducha počal sa Svätého,<br/>zo života panenského<br/>narodil sa dňa dnešného.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Anjelov zástupy premnohé,<br/>aké to zjavy na oblohe<br/>Bohu slávu tam prespevujú<br/>a pokoj ľuďom hlásajú.<br/>I pastierom naložili,<br/>do Betlema by náhlili,<br/>Spasiteľa uvideli,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pastieri ovečky nechajú,<br/>do mesta rýchlo pospiechajú.<br/>V jasliach našli Božie dieťatko,<br/>premilé to Nemluvniatko.<br/>Hlboko sa mu klaňali<br/>a dary mu venovali,<br/>piesňami ho privítali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I my dnes tebe sa klaniame<br/>a v dar ti srdcia oddávame.<br/>pri tejto dnes veľkej slávnosti<br/>prosíme ťa z pobožnosti:<br/>nechže tvoje narodenie<br/>poslúži nám na spasenie<br/>a na večné oslávenie!</lines>
+    </verse>
+  </lyrics>
+</song>

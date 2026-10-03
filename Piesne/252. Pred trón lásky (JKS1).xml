@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>252. Pred trón lásky</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pred trón lásky tvojej, Bože,<br/>s dôverou si kľakáme,<br/>láska tvoja všetko zmôže,<br/>v nej my spásu hľadáme.<br/>Otče, pre smrť svojho Syna,<br/>ktorého dnes chceme ctiť,<br/>daj, nech zmizne naša vina,<br/>daj v milosti tvojej žiť.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória: Sláva večná Pánu slávy,<br/>celý svet ho oslavuj<br/>a tak všade pokoj stály<br/>pozemčanov oblažuj.<br/>Ráč udeliť, Otče večný,<br/>pre kríž Syna drahého,<br/>zásluh poklad nekonečný<br/>mocou Ducha Svätého.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Evanjelium: Ó prebla-hé sväté slová,<br/>slová lásky, zmierenia,<br/>v ktorých svitla doba nová<br/>slobody a spasenia!<br/>Vám podľahli bludy, kla-my,<br/>zloba, krivda, neprávosť,<br/>ó ví-ťazte aj nad nami,<br/>nech nás vodí pravá čnosť.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krédo: Chválu, vďaku vzdávame ti,<br/>Bože, za tú dobrotu,<br/>že nám svetlo viery svieti<br/>ku pravému životu;<br/>keď tmy, tône smrti tlačia<br/>ešte toľké národy,<br/>nám púť k nebu istú značia<br/>Cirkvi svätej návody.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ofertórium: Čó ku chlebu, vínu, dáme,<br/>Pane, v obeť za seba?<br/>Vlastného my nič nemáme,<br/>všetko máme od teba.<br/>A tak teda dary tvoje<br/>v obetu ti kladieme,<br/>utíš naše nepokoje,<br/>daj nám večné spasenie.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sanktus: Tebe, Pane, neba zbory<br/>stále »Svätý« spievajú,<br/>ó nech s nimi všetky ťvory<br/>slávu tvoju hlásajú.<br/>I my teda povznášame<br/>hlasy chvály ku nebu<br/>a čnosťou sa domáhame<br/>zrieť tam božiu velebu.</lines>
+    </verse>
+  </lyrics>
+</song>

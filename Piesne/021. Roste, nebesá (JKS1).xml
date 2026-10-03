@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>021. Roste, nebesá</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Roste, nebesá, z výsosti,<br/>oblak, prš Spravodlivého;<br/>otvor sa, zem, z vnútornosti,<br/>Spasiteľa dajže nášho.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nebesá, hľa, objavujú<br/>slávu Boha najvyššieho<br/>a oblohy ohlasujú<br/>dielo rúk premocných jeho.<br/>GI ó ri a:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bohu na nebi sláva buď,<br/>velebí, Pane, ťa tvoj ľud,<br/>vďaka ti večná za milosť,<br/>za tvoju ku nám príchylnosť.<br/>Krédo:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>V Boha, Otca najvyššieho<br/>1 v Syna jeho milého,<br/>verme i v Ducha Svätého<br/>s Otcom, Synom rovnakého.<br/>Ofertórium:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Keď sa počal Syn tvoj z Panny,<br/>v obetu bol za nás daný;<br/>pamiatku jeho presvätú<br/>oslavovať budeme tu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Obeta Bohu buď milá,<br/>ktorú Cirkev pripravila;<br/>prijmi, ó, Bože, tie dary<br/>v rukách kňaza na oltári.<br/>Sanktus:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Svätý, svätý, najsväte]ší<br/>Otec i Syn tvoj najmilší,<br/>i Duch Svätý, Boh premilý,<br/>chválený buď v tejto chvíli.</lines>
+    </verse>
+  </lyrics>
+</song>

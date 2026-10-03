@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>355. O ty prekrásna</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, ty prekrásna,<br/>Hviezda prejasná,<br/>Pani prívetivá,<br/>celého sveta<br/>Matka milostivá.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>S anjelmi z neba<br/>svätí ctia teba,<br/>dcéra Dávidova,<br/>dnes tebe pieseň<br/>znie Šalamúnova.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kráľovná nebies,<br/>nakloň sa k nám dnes<br/>hriechom nerušená,<br/>k podpore sveta<br/>od Boha zvolená!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hviezda si ranná,<br/>Mária Panna,<br/>slnka rozjasnenie,<br/>tmy našej mysli<br/>ty si osvietenie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Mesiac prečistý,<br/>v biede liek istý<br/>v opustenom svete,<br/>v údolí plaču,<br/>kde nás hriech náš hnetie!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nad slnko jasná,<br/>Panna prekrásna,<br/>Bohom obľúbená,<br/>hriechom Eviným<br/>nie si poškvrnená.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó, Reťaz zlatá,<br/>ó, Berla svätá,<br/>ty si nebies Brána,<br/>skrz teba príď k nám<br/>podpora od Pána.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ó, Palma čnosti,<br/>poníženosti,<br/>Cesta nášho blaha,<br/>buď poblúdilým<br/>Matka dobrá, drahá.</lines>
+    </verse>
+  </lyrics>
+</song>

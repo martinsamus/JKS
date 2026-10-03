@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>049. Dobrá novina</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[:Dobrá novina,<br/>šťastná hodina.:)<br/>Čo sa tejto noci stalo?<br/>Nebo svetu Svetlo dalo.<br/>Dobrá novina,<br/>šťastná hodina.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[:Počuli sme hlas,<br/>ktorý tešil nás.:)<br/>Slovo v telo o polnoci<br/>zrodilo sa z Božej moci.<br/>Nám sa zjavilo,<br/>by nás spasilo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[:Jasnosť spanilá<br/>nás osvietila.:)<br/>Žiara padla na salaše,<br/>osvietila hory naše.<br/>Dobrá novina,<br/>šťastná hodina.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[:Panna predivná<br/>z rodu Dávida.:)<br/>Spasiteľa čo nosila,<br/>dnes nám ho aj porodila.<br/>Dobrá novina, šťastná hodina.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[:Bratia, spiechajme,<br/>nič nemeškajme.:)<br/>Kľaknúc pred ním na kolená<br/>privítajme svojho Pána.<br/>Vitaj, spanilý<br/>Ježiško milý!</lines>
+    </verse>
+  </lyrics>
+</song>

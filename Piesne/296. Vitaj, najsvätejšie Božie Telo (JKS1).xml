@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>296. Vitaj, najsvätejšie Božie Telo</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vitaj, najsvätejšie<br/>božie Telo,<br/>ktoré si na kríži<br/>pre nás pnelo;<br/>[:v spôsobe chleba stajené,<br/>pred nami k poklone<br/>vystavené.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vitaj, najsvätejšia<br/>Krv Kristova,<br/>ktorú na oltári<br/>kalich chová,<br/>[:obmy z viny a z hriechu nás,<br/>vrúcne ťa prosíme,<br/>ó Pane náš!:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Baránku, ty snímaš<br/>naše viny,<br/>naveky ostávaš<br/>ty jediný<br/>[:čo potešíš a pokoj dáš,<br/>zmiluj sa nad nami,<br/>ó Bože náš!:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Požehnaj nás, Kriste,<br/>očistených,<br/>tvojou milosťou<br/>včuľ posvätených,<br/>[:aby sme tak vždy spojení<br/>zostávali s tebou<br/>zjednotení.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nech je nám, ó Pane,<br/>milostivá<br/>prítomná s Telom Krv<br/>tvoja živá,<br/>[:daj nám sväté požehnanie,<br/>po smrti radostné<br/>zmŕtvychvstanie.: ]</lines>
+    </verse>
+  </lyrics>
+</song>

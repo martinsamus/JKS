@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>241. Hlboko sa ti klaniame</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hlboko sa ti klaniame,<br/>Bože náš na výsosti<br/>na kolená v prach padáme<br/>pred trón tvojej svätosti:<br/>prijmi, ktoré ti konáme,<br/>[:ó Bože, pobožnosti:].<br/>2. Moc a múdrosť nekonečná ktorá svšetko stvorila,<br/>velebnosť a svätosť .večná,<br/>ktorá ľudstvo spasila:<br/>to je láska tá srdečná,<br/>[:čo nás sem privábila.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória: Sláva Bohu na výsosti,<br/>ľudu pokoj,<br/>spasenie,<br/>Bože, chráň nás od úzkosti,<br/>pravé daj potešenie.<br/>Tys' Pán mocný od večnosti,<br/>[:ty si naše spasenie.:]<br/>Evanjelium: Buď nám, Pane, na pomoci,<br/>privádzaj nás k pokániu,<br/>milosti daj vo dne, v noci<br/>ku každému konaniu.<br/>Koríme sa. tvojej moci,<br/>[:daj posilu žiadanú.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krédo: Verím v Boha najvyššieho,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>v Syna jeho večného<br/>verím v Ducha presvätého,<br/>obom v božstve rovného.<br/>Vieru srdca veriaceho [.viď, keď vidíš hriešneho.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ofertórium: OtČe, náš dar chleba, vína<br/>na tvoj oltár skladáme,<br/>pre zásluhy svojho Syna<br/>požehnaj ho, žiadame.<br/>Že tu krv sa stane z vína,<br/>[:z chleba telo, veríme.:]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Sanktus: Sabaoth, Pán najslávnejší,<br/>tebe »Svätý!« spievame,<br/>že si ty sám najsvätejší,<br/>pred svetom vyznávame.<br/>K oslave, jak v čas terajší,<br/>[:tak vždy vôľu nech máme.:]</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>015. Nes, Gabrielu, nes pozdravenie</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nes, Gabrielu,<br/>nes pozdravenie,<br/>radosť pre ľudské<br/>nes pokolenie.<br/>[:Pozdravuj Máriu,<br/>prečistú ľaliu.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zvestuj jej radosť,<br/>zvestuj potechu,<br/>že Boh svetpríde<br/>spasiť od hriechu,<br/>[:že Boha porodí,<br/>čo spasí národy.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zdravas', Mária,<br/>milosti plná,<br/>bo máš porodiť<br/>v čistote Syna.<br/>[:Staneš sa Rodičkou<br/>a Božou Matičkou.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Radostnú tú zvesť<br/>prijmi, á, Panna!<br/>Buď požehnaná,<br/>Mať Krista Pána!<br/>[:Buď ľudstvu záchranou,<br/>nádejou čakanou.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Prijmi, Mária,<br/>veľké posolstvo,<br/>svetu Boh zjaví<br/>veľké tajomstvo,<br/>[:že počneš Ježiša,<br/>Matička najmilšia.:]</lines>
+    </verse>
+  </lyrics>
+</song>

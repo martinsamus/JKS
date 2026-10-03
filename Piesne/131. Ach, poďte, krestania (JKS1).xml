@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>131. Ach, poďte, krestania</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, poďte, kresťania,<br/>pozdraviť kríž svätý,<br/>na ktorom je Kristus<br/>bolestne rozpätý<br/>Kriste na kríži,<br/>Kráľu najvyšší,<br/>zmiluj sa nad nami1<br/>Pre pať svätých rán<br/>milosť udeľ nám<br/>a odpusť nám viny1</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Poď, poď a dívaj sa,<br/>kiesťanská tv duša<br/>ako náš Spasiteľ<br/>preťažky kríž znáša<br/>Kriste na kríži atď</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Matička preim-la,<br/>keď si sa s ním stretla<br/>a svojho Synačka<br/>poznať už nemohla<br/>Kriste na kríži atď</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Matička prermla<br/>jak bys' ho poznala,<br/>keď sa mu všetka krv<br/>po tele vyliala1<br/>Kriste na kríži atď</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pristúp sem, prístup sem<br/>kiestan-ska ty duša,<br/>pozri, jak si hriechmi zranila Ježiša<br/>Kriste na kríži atd</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Už visí na kríži,<br/>vo veľkej bolesti<br/>volá on: Otče môj,<br/>prečos' ma opustil?<br/>Kriste na kríži atď.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Plač, duša kresťanská,<br/>nad smrťou Krista, plač,<br/>urob mu čistý hrob<br/>jak verný vyznavač.<br/>S tebou bude on,<br/>buď mu priateľom.<br/>Keď si ťa zavolá:<br/>Duša, ku mne poď,<br/>márnosť sveta zhoď,<br/>peklo ťa nezdolá.</lines>
+    </verse>
+  </lyrics>
+</song>

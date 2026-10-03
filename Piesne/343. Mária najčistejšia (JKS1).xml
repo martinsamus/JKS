@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>343. Mária najčistejšia</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária najčistejšia,<br/>Kráľovná<br/>najmocnejšia;<br/>ku tvojej láskavosti<br/>ľud volá o milosti.<br/>Pomôž, pomôž, pomôž<br/>nám v úzkosti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Komu sa všetko<br/>korí na nebi, zemi,<br/>v mori, je Syn tvoj oslávený, v ňom<br/>kresťanský svet verí.<br/>Pomôž, pomôž, pomôž<br/>nám v úzkosti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty chorých,<br/>opustených,<br/>v zármutku postavených útechou<br/>naplnila, si Matička<br/>premilá!<br/>Pomôž, pomôž, pomôž<br/>nám v úzkosti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>I my k tebe voláme,<br/>nádej pevnú skladáme,<br/>že nájdeme u teba,<br/>čoho nám<br/>najviac treba.<br/>Pomôž, pomôž, pomôž<br/>nám v úzkosti.</lines>
+    </verse>
+  </lyrics>
+</song>

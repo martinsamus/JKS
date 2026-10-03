@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>176. Umučenie drahého Pána</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Umučenie drahého<br/>Pána Jezu Krista,<br/>jak ho spísal svätý muž.<br/>Ján evanjelista</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ježiš Kristus, Boh-človek,<br/>múdrosť Otca svojho,<br/>mnohé múky vytrpel<br/>pre hriech sveta zlého</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Idúc k Jeruzalemu<br/>ľud mu slávu volal,<br/>spieval mu tam wHosana's<br/>ako kráľa vítal</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ježiš vedel, že ten ľud,<br/>ktorý ho dnes slávi,<br/>premení sa o tri dni<br/>v krvilačné davy</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pilát nechce súhlasiť<br/>so žiadosťou divou,<br/>kričia »Na nás krv jeho<br/>a na našich synov1«</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Odsúdený, zmučený<br/>kráča s krížom z mesta<br/>Aká hrozná potupa,<br/>aká smutná cesta'</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pod krížom tam plakala<br/>jeho Matka milá,<br/>keď už smutná nastala<br/>rozlúčenia chvíľa.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Kriste, skrze kríž a smrť<br/>otvorils' nám nebe,<br/>cestu spásy ukázals'<br/>ráč nás prijať k sebe'</lines>
+    </verse>
+  </lyrics>
+</song>

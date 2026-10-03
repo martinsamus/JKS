@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>242. Klaniame sa tebe, Bože</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Klaniame sa tebe, Bože<br/>Pánu svojmu skrúšene;<br/>tvoja milosť nám vymôže nebies dary túžené,<br/>[:Láska tvoja nech nám zruší<br/>všetky hriechy v našej duši,<br/>by sme ho'dne prinášali<br/>túto obeť pochvaly.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória: Sláva, vďaka nech sa chystá<br/>Pánu Bohu na nebi,<br/>za každý dar Srdca Krista,<br/>daný podľa potreby.<br/>[:Po smrti nás vnes do neba,<br/>by sme ďalej ctili teba,<br/>tebe vrúcne sa klaňali,<br/>vďaky ti tam vzdávali.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krédo: Veríme, že v osobách troch<br/>je Boh jeden jediný:<br/>Otec, ktorý všetko stvoril,<br/>Syn, čo sníma nám viny:<br/>[:Svätý Duch nás posväcuje,<br/>vo sviatostiach očisťuje.<br/>V tejto viere posilni nás,<br/>všemohúci Pane náš!:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ofertórium: Prijmi, Pane, svojho Syna,<br/>nášho Pána obetu,<br/>skrz ňu odpusť všetkým hriechy<br/>a daj čnostiam rozkvetu;<br/>[:s Božským Srdcom dať ti chceme<br/>svoje srdcia ponížené<br/>za oslavu a prosenie,<br/>za vďaky a zmierenie.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sanktus: »Svätý, svätý!« prespevujme,<br/>chválme Boha radostne,<br/>bo sa ide vykonávať<br/>tajomstvo to slávnostne.<br/>[:Pod spôsobom vina, chleba, obetovať chce sám seba<br/>Ježiš v láske svojho srdca<br/>á tak prosiť u Otca.:]</lines>
+    </verse>
+  </lyrics>
+</song>

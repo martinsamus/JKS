@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>097. Z Panny Pán Ježiš je narodený</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z Panny Pán Ježiš je narodený,<br/>v jasliach na slame je položený;<br/>plienkami Matka ho obvinula;<br/>Búvaj, Synáčku!<br/>jemu spievala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z života Parmy najčistejšieho,<br/>z rodu veľkého a kráľovského,<br/>ktorému meno Spasiteľ silný,<br/>celého sveta Boh neomylný.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V chudobe on sa na svet narodil,<br/>biednym sa sluhom ľudským učinil;<br/>hospody nemá Dieťa prekrásne,<br/>miesto kolísky má biedne jasle.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pod bôčky, hlavu<br/>perín nemali,<br/>jasle mu slamou, senom vystlali; oslík a vôl ho dychom zohrieva,<br/>anjelov zbor mu s pastiermi spieva.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nuž my tu všetci k nemu spiechajme;<br/>kľaknime k jasliam, takto vzdychajme;<br/>Spanilý, drahý, Ježiško milý,<br/>prišli sme k tebe, by sme ťa ctili!</lines>
+    </verse>
+  </lyrics>
+</song>

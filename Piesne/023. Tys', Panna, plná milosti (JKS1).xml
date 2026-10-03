@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>023. Tys', Panna, plná milosti</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tys', Panna, plná milosti,<br/>Pán Boh vždy s tebou je,<br/>on z veľkej dobrotivosti<br/>slávu ti daruje.<br/>Archanjel z neba zletuje<br/>a takto ťa pozdravuje:<br/>[:"Buď zdravá, Matička!":)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty z Ducha počnúc porodíš<br/>nám Vykupiteľa,<br/>lež panenstvo tým nestratíš,<br/>podľa slov anjela.<br/>Duch Svätý pride v plameni<br/>a milosťou ťa odmeni:<br/>[:"Ó, zdravas', Mária!":)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tu chvíľa je, ó, kresťane,<br/>tu čas vykúpenia,<br/>nám veselia čas nastane<br/>a doba spasenia.<br/>Z vín svojich šťastne vyjdeme<br/>vo večnú slávu zo zeme<br/>[:skrz Božie vtelenie.:)</lines>
+    </verse>
+  </lyrics>
+</song>

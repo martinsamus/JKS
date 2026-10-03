@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>369. Panna, teba uctievame</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panna, teba uctievame,<br/>Matka škapuliarska!<br/>O pomoc teba žiadame,<br/>Patrónka Slovenska!<br/>Stoj vždy pri nás, neopusť nás,<br/>čuj v každý čas národa hlas,<br/>milého Ježiša upros za nás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Sto ráz ťa pozdravujeme,<br/>Matka škapuliarska!<br/>Tisíc ráz ťa velebíme,<br/>Patrónka Slovenska!<br/>Stoj vždy pri nás, neopusť nás,<br/>čuj v každý čas národa hlas,<br/>milého Ježiša upros za nás!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach vyslyš nás v tomto chráme,<br/>Matka škapuliarska!<br/>Daj pomoc, v čom ťa žiadame,<br/>Patrónka Slovenska! Stoj vždy pri nás, neopusť nás,<br/>čuj v každý čas národa hlas,<br/>milého Ježiša upros za nás!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pomôž nám v našej chudobe,<br/>Matka škapuliarska!<br/>Prosíme ťa v každej dobe,<br/>Patrónka Slovenska!<br/>Stoj vždy pri nás, neopusť nás,<br/>čuj v každý čas národa hlas,<br/>milého Ježiša upros za nás!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vypros, by sme žili v čnosti,<br/>Matka škapuliarska!<br/>Vypros nám Božej milosti,<br/>Patrónka Slovenska!<br/>Stoj vždy pri nás, neopusť nás,<br/>čuj v každý čas národa hlas,<br/>milého Ježiša upros za nás!</lines>
+    </verse>
+  </lyrics>
+</song>

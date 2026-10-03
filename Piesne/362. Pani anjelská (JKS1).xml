@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>362. Pani anjelská</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pani anjelská,<br/>Ruža nebies krásna,<br/>ozdoba čnosti,<br/>Hviezda jasná,<br/>modlitby naše k Bohu nes,<br/>otvor nám brány do nebies.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Buď zvelebená,<br/>nebies Cisárovná,<br/>nadzemská krása<br/>nevýslovná,<br/>veď naše kroky k dobrému,<br/>priveď nás k Bohu milému.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty vyvolená<br/>od Boha si žena<br/>Matička naša<br/>oslávená<br/>hriešnici k tebe volajú<br/>a pomoc tvoju žiadajú.</lines>
+    </verse>
+  </lyrics>
+</song>

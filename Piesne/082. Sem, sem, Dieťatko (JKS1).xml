@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>082. Sem, sem, Dieťatko</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Sem, sem, Dieťatko,<br/>sem Jezuliatko,<br/>sem do kolísky,<br/>na senné lístky;<br/>zlož malé, zlož tielko sem krásne,<br/>v spánok zatvor očičká jasné.<br/>Sem, sem, Dieťatko, sem Jezuliatko,<br/>sem do kolísky<br/>na senné lístky!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu anjeliček<br/>vedľa jasličiek<br/>chce ti zaspievať,<br/>chce ťa kolísať;<br/>chce sa vo snách s tebou pohrávať,<br/>o krásnom ti nebi rozprávať.<br/>Tu anjelíček<br/>vedľa jasličiek<br/>chce ti zaspievať,<br/>chce ťa kolísať.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Lesy a hory,<br/>háje a bory,<br/>vetrom nehučte,<br/>len ticho zvučte;<br/>nezobuďte Pána na tróne,<br/>k nemu sladké zavejte vône.<br/>Lesy a hory,<br/>háje a bory,<br/>vetrom nehučte,<br/>len ticho zvučte.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Príleť, slávičku,<br/>spievaj pesničku,<br/>poteš, hrdličko,<br/>sväté srdiečko;<br/>táto ruka maličká, svätá<br/>riadi svet a kŕmi vtáčatá.<br/>Prileť slávičku,<br/>spievaj pesničku,<br/>poteš, 235 hrdličko,<br/>sväté srdiečko.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A vy, fialky,<br/>vejte do diaľky,<br/>milé ružičky,<br/>skloňte hlavičky,<br/>zaváňajte Dieťaťu milo,<br/>by spalo a sa nezbudilo.<br/>A vy, fialky,<br/>vejte do diaľky,<br/>milé ružičky,<br/>skloňte hlavičky.</lines>
+    </verse>
+  </lyrics>
+</song>

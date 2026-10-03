@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>395. Oplakáva Mária</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oplakáva Mária<br/>Syna premilého,<br/>keď ho v mukách na kríži<br/>vidí rozpiateho.<br/>Ruky spína, zalamuje,<br/>hlavu kloní, sotva čuje<br/>z veľkej bolesti;<br/>slzy oči zalievajú,<br/>krásne líca oblievajú<br/>v hroznej úzkosti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A keď pozdvihla nahor<br/>smutné oči svoje,<br/>uzrela tam zdesená<br/>hrozné rany, znoje<br/>tela jeho raneného,<br/>celkom ubičovaného<br/>a trýzneného;<br/>jej žalosť sa tu rozmohla,<br/>potešovať<br/>že nemohla<br/>umučeného.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Od celého je sveta<br/>v žiali zanechaná,<br/>smúti, plače, narieka<br/>Matka zarmútená.<br/>Ach, ktože ju, kto poteší,<br/>kto bolesti jej umenší<br/>v tomto zármutku?<br/>Slnko, mesiac, hviezdy jasné,<br/>aj vy poľné kvietky krásne,<br/>potešte Matku!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ani slnce na nebi<br/>jasnosť nevydáva,<br/>mesiac medzi oblakmi<br/>svetla nedostáva,<br/>tvrdé skaly sa pukajú<br/>mŕtvi z hrobov povstávajú<br/>a nariekajú.<br/>Len jedine hriešni ľudia<br/>majú také tvrdé srdcia,<br/>že neľutujú.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ženy, dcéry sionské,<br/>sem sa rýchle majte<br/>a pod krížom zomdletej<br/>Matke pomáhajte;<br/>balzamom ju potierajte,<br/>podlomenú podpierajte,<br/>klesnúť nedajte.<br/>Máriu, hľa opustenú,<br/>žalostivú, zarmútenú,<br/>ach, poľutujte!</lines>
+    </verse>
+  </lyrics>
+</song>

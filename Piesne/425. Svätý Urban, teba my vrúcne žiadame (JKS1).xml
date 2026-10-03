@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>425. Svätý Urban, teba my vrúcne žiadame</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Svätý Urban, teba my vrúcne žiadame, pod tvoju ochranu my sa utiekame.<br/>[:Teba žiadame, pros v nebi za nás, mrazy, nehody odvráť vždy od nás, slávny patrón náš.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty Cirkev Kristovu mocne si spravoval, duše ti zverené do neba uvádzal.<br/>[:Teba žiadame, pros v nebi za nás, mrazy, nehody odvráť vždy od nás, slávny patrón náš.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veriaci ťa ctili, vrelo milovali, v živelných pohromách v tebe pomoc mali.<br/>[:Teba žiadame, pros v nebi za nás, mrazy, nehody odvráť vždy od nás, slávny patrón náš.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tvoju prosbu nebo nezavrhovalo, polia i vinice úrodu žehnalo.<br/>[:Teba žiadame, pros v nebi za nás, mrazy, nehody odvráť vždy od nás, slávny patrón náš.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vypros aj na naše polia požehnania, nech od nich nebesia pohromy odstránia.<br/>[:Teba žiadame, pros v nebi za nás, mrazy, nehody odvráť vždy od nás, slávny patrón náš.:]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Vypros nám v nebesiach milosti u Boha, by sme vždy plnili príkaz jeho Slova.<br/>[:Teba žiadame, pros v nebi za nás, mrazy, nehody odvráť vždy od nás, slávny patrón náš.:]</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>429. Svätý Peter, svätý Pavol</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Svätý Peter,<br/>Svätý Pavol<br/>Rím ste ozdobili<br/>a mnohé modly<br/>pohanské smelo<br/>porazili. Jedného Boha<br/>hlásali, za meno Ježiš<br/>trpeli a pri všetkých<br/>utrpeniach zaňho bojovali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, kňiežatá apoštolov,<br/>vás zvelebujeme,<br/>Vám prinášame chválu,<br/>vďak, vás ospevujeme.<br/>Vy Cirkvi svätej ozdoby,<br/>k vám duša láskou zahorí.<br/>Povznáša sa náš vrúcny<br/>hlas: Orodujte za nás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vy ste lásku ku Kristovi<br/>krvou dokázali,<br/>keď nabáli ste sa smrti,<br/>verní ste ostali.<br/>V nás silu viery<br/>vzbudzujte, by sme jak<br/>vy tak udatne<br/>Cirkvi svätej sa oddali,<br/>za ňu bojovali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tam v nebi proste vždy<br/>za nás Krista,<br/>Spasiteľa, i my máme<br/>dnes za neho útrap,<br/>bojov veľa.<br/>My chceme vás<br/>nasledovať, vo viere<br/>svetej vytrvať a v tomto<br/>svojom horlení<br/>i život v obeť dať.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>206. Utešený nám deň nastal</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Utešený nám deň nastal,<br/>v ktorý z mŕtvych Kristus Pán vstal,<br/>Vstal on z hrobu zavčas rána,<br/>radujme sa, ó kresťania!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nenariekaj, Magdaléna,<br/>Pán vstal ako zora ranná;<br/>videla si Hospodina,<br/>premilého Matky Syna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kristus Pán vstal z mŕtvych smelo,<br/>oslávené jeho telo<br/>raduje sa celé nebo<br/>a svet spieva preveselo.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dobrý Pane, náš Ježišu,<br/>pohliadni na zbožnú ríšu:<br/>odpusť naše veľké zlosti,<br/>previnenia, neprávosti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Počuj naše vrúcne hlasy,<br/>pokojnejšie daj nám časy;<br/>Jezu Kriste, veľký Kráľu,<br/>prijmi svojho ľudu chválu.</lines>
+    </verse>
+  </lyrics>
+</song>

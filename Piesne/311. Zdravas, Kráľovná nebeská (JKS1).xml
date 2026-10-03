@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>311. Zdravas, Kráľovná nebeská</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zdravas' Kráľovná nebeská,<br/>zdravas`, Pani ty anjelská,<br/>Koreň Jessov, nebies brána,<br/>ktorá svetu svetlo dala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Plesaj Panna najslávnejšia,<br/>ty zo všetkých najjasnejšia,<br/>milostivá Panna čistá,<br/>pros vždy za nás Syna Krista.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kňaz: Učiň ma hodným chváliť teba, Panna presvätá.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ľud: Daj mi sily proti nepriateľom tvojim.</lines>
+    </verse>
+  </lyrics>
+</song>

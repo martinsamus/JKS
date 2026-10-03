@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>138. Hľa, v žiali srdca</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>HFa, v žiali srdca hriešneho<br/>pred tebou tu kľačíme,<br/>ach, Otče, Syna Božieho<br/>dnes bolesti slávime<br/>Skrze jeho usmrtenie<br/>daj nám všetkým spasenie<br/>Na nás z trónu hľaď nehodných,<br/>keď smutní nad nim želieme</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Krv tvoja drahá vyliata<br/>nám dáva večnú spásu,<br/>v nej skrytá pravda presvätá<br/>nám objavuje krásu<br/>Zákon tvojej pravdy hlavný<br/>je nám kríž tvoj preslávny,<br/>čo chráni nás vždy od hriechu,<br/>by nemal v duši ohlasu</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tá obeť krvi skrz teba<br/>buď od nás oslávená,<br/>skrz dary vína a chleba,<br/>čo býva obnovená<br/>Víno na krv a chlieb v telo<br/>na kríži čo viselo<br/>moc tvoja z neba premení<br/>len kňazským rukám zverená</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tam v nebi svätých duchov zbor<br/>ti »Svatý, svätý'« spieva<br/>a sveta stvoreného chór,<br/>česť, chválu a pieseň vlieva,<br/>oslavujú zvuky piesne<br/>tvoje muky bolestné<br/>Nech milosť, rúcho sviatočné,<br/>nás, kajúcnikov, odieva'</lines>
+    </verse>
+  </lyrics>
+</song>

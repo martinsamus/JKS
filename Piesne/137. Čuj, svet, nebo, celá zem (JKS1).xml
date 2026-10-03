@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>137. Čuj, svet, nebo, celá zem</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Čuj, svet, nebo, celá zem,<br/>aj ty, hriešnik pristúp sem1<br/>Pán na kríži už visí,<br/>príčina ty toho si<br/>Ó Ježi-šu<br/>mô] krvavý,<br/>zbitý od nôh<br/>až do hlavy,<br/>ach, zmiluj sa<br/>nado mnou biednym'</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prehrozne ho mučili<br/>a neľudsky trýznili,<br/>sväté telo trpelo,<br/>až celé zosinelo<br/>Ó Ježišu atď</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dávajú mu korunu,<br/>ostrým tŕním pretkanú,<br/>Ježiš znáša bolesti,<br/>nik s ním nemá ľútosti<br/>Ó Ježišu atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Už kríž ťažký dvíhajú,<br/>Kristovi sa rúhajú,<br/>Zdrav' buď, kráľu židovský,<br/>zdrav' buď, kráľu sionský'<br/>Ó Ježišu atď</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>351. Nebeská Pani</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nebeská Pani,<br/>Štít, čo nás chráni<br/>od všetkého zlého.<br/>Prútok vyrastlý<br/>z koreňa slávneho!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Palma vysoká,<br/>ty nemáš soka<br/>v múdrosti a v čnosti;<br/>nedaj nám zablúdiť<br/>z cesty nevinnosti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Retiazka zlatá,<br/>Lúka kvetnatá,<br/>Veža z kosti drahej,<br/>ty dávaš príklad<br/>nábožnosti pravej.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Česť, vďaka, sláva,<br/>nech sa vždy vzdáva<br/>Otcovi večnému,<br/>Synovi jeho<br/>a Duchu Svätému.</lines>
+    </verse>
+  </lyrics>
+</song>

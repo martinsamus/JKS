@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>079. Pred tebou sa klaniame</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pred tebou sa klaniame,<br/>všetci vrúcne kľakáme,<br/>Ježiško na svet daný<br/>z Márie, čistej Panny.<br/>[:Vitaj, vitaj, vitaj,<br/>Ó, Ježiško!:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>K nám ťa láska znížila,<br/>ktorá po nás žíznila,<br/>by sme zo zatratenia<br/>došli vyslobodenia.<br/>Vitaj, atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nám na blahoslavenstvo<br/>prijal si človečenstvo;<br/>pretože nás miluješ,<br/>za nás sa obetuješ.<br/>Vitaj, atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Obeť Boha dobrého,<br/>radosť sveta celého;<br/>Ježiško narodený!<br/>Tebou je svet spasený.<br/>Vitaj, atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Celý si sa daroval:<br/>kto by ťa nemiloval?<br/>Dávame sa tiež tebe,<br/>prijmi nás raz ku sebe!<br/>Vitaj, atď.</lines>
+    </verse>
+  </lyrics>
+</song>

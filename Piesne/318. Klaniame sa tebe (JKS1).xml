@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>318. Klaniame sa tebe</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Klaniame sa Tebe, živý Chlebe,<br/>milostivý, večný Bože, Tebe.<br/>Svätý, svätý, svätý,<br/>nadovšetko svätý,<br/>chváľme Boha z vrúcnosti<br/>v najsvätejšej Sviatosti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prosíme Ťa,<br/>zmiluj sa nad nami,<br/>požehnaj nás,<br/>Pane, milosťami.<br/>Svätý, svätý, svätý,<br/>nadovšetko svätý,<br/>chváľme Boha z vrúcnosti<br/>v najsvätejšej Sviatosti.</lines>
+    </verse>
+  </lyrics>
+</song>

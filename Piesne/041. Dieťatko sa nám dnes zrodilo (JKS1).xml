@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>041. Dieťatko sa nám dnes zrodilo</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dieťatko sa nám dnes zrodilo:<br/>Veseľme sa!<br/>Aby celý svet potešilo.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>V tejto dobe veseľme sa,<br/>s Matkou Božou radujme sa<br/>milým plesaním;<br/>Krista Pána zvelebujme,<br/>jeho príchod oslavujme<br/>sladkým spievaním.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, to roztomilé Pachoľa:<br/>Veseľme sa!<br/>Obkolesíme dnes dokola.<br/>V tejto dobe atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boh sa v ľudskom tele objavil:<br/>Veseľme sal<br/>Aby radostnú zvesť nám zjavil.<br/>V tejto dobe atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>V spôsob vína<br/>chleba sa ukryl:<br/>Veseľme sal<br/>Aby v nás a s nami v láske žil.<br/>V tejto dobe atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chcel, by v našom srdci žila krv:<br/>Veseľme sa!<br/>Ktoroujeho srdce vrelo prv.<br/>V tejto dobe atď.</lines>
+    </verse>
+  </lyrics>
+</song>

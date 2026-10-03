@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>111. Traja králi uzreli</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Traja králi uzreli<br/>hviezdu, čo sa ligotala,<br/>príchod Krista hlásala;<br/>do Betlema za ňou sa brali,<br/>na kráľa sa pýtali,<br/>drahocenné dary mu tam dali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zlato ako kráľovi,<br/>ktorý v srdciach vládnuť vždy má,<br/>myrhu na znak mučenia,<br/>kadidlom, hľa, uctili jeho<br/>ako kňaza večného:<br/>vítali ho, Kráľa velebného.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Klaňali sa pokorne<br/>Ježišovi zrodenému<br/>a Synovi Božiemu.<br/>Preto aj my uctime si ho,<br/>Pána svojho mocného;<br/>nech nás vedie mocná ruka jeho. l</lines>
+    </verse>
+  </lyrics>
+</song>

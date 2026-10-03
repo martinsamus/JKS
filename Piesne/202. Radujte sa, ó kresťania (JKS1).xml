@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>202. Radujte sa, ó kresťania</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radujte sa, ó kresťania,<br/>z víťazstva preslávneho,<br/>z podivného zmŕtvychvstania<br/>Krista, Syna Božieho.<br/>Aleluja, spievajme,<br/>chvála buď mu srdečná,<br/>od stvorenia radostného<br/>jemu česť nekonečná!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Plesaj, nebo i tvár zeme<br/>i hriešnici plesajme,<br/>plesaj, všetko sveta plemä,<br/>všetci chválu vzdávajme.<br/>Aleluja, spievajme<br/>Kristu z mŕtvych vstalému,<br/>za milosť mu poďakujme,<br/>Ježišovi drahému.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ježišu, ty Kráľ jasnosti^<br/>ktorýs' slávne z hrobu vstal,<br/>premohol si moc temnosti,<br/>spasenie si svetu dal.<br/>Pomáhaj nám, bezradným,<br/>do neba, kde kraľuješ<br/>s Bohom Otcom, s Duchom Svätým<br/>a naveky panuješ.</lines>
+    </verse>
+  </lyrics>
+</song>

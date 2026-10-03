@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>432. Oslavujme hviezdy jasné</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oslavujme hviezdy jasné:<br/>Cyrila a Metoda,<br/>tieto zhora svetlá krásne<br/>slovenského národa.<br/>[:Vrúcne zaznej v národe<br/>jediný všetkých hlas:<br/>[: Ó svätý Cyril i Metod,<br/>orodujte za nás:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otcom našim<br/>Pána Krista<br/>s prácou veľkou hlásali<br/>aby sa tak dozaista<br/>k sláve večnej dostali.<br/>[:Vrúcne zaznej v národe<br/>jediný všetkých hlas:<br/>[: Ó svätý Cyril i Metod,<br/>orodujte za nás:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ako verní pastierovia<br/>pásli stáda Pánove,<br/>odrážali jak strážcovia<br/>všetky klamy diablove.<br/>[: Vrúcne zaznej v národe<br/>jediný všetkých hlas:<br/>[:Ó svätý Cyril i Metod,<br/>orodujte za nás:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ako sviece pravovzorné<br/>svetlom pravdy svietili,<br/>srdcia čisté a pokorné<br/>k láske Božej vznietili.<br/>Vrúcne zaznej v národe<br/>jediný všetkých hlas:<br/>[:Ó svätý Cyril i Metod,<br/>orodujte za nás:]</lines>
+    </verse>
+  </lyrics>
+</song>

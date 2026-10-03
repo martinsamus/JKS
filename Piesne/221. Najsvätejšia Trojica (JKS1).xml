@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>221. Najsvätejšia Trojica</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Najsvätejšia Trojica, jeden Bože,<br/>nech ťa chváli celý svet, jak len môže;<br/>chcem ťa vždy milovať;<br/>večne zvelebovať<br/>Buď od nás vždy chválená,<br/>Trojica nerozdielna!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bohu Otcu, Pánovi najvyššiemu<br/>vzdávaj chválu, stvorenie, spievaj jemu,<br/>nebo, zem, chváľte ho<br/>večného, mocného!<br/>Buď od nás atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Všetkých ľudí on živí, opatruje,<br/>všetok tento svet riadi a spravuje,<br/>nebo ozdobuje,<br/>slnko rozsvecuje.<br/>Buď od nás atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ježišovi ďakujme láskavému<br/>i Duchu česť vzdávajme presvätému;<br/>Boh Syn nás vykúpil<br/>a Duch k nám zostúpil.<br/>Buď od nás atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Najsvätejšia Trojica, ctíme teba;<br/>naše vrúcne žiadosti vyslyš z neba;<br/>odvráť mor, hlad, vojny<br/>daj nám čas pokojný.<br/>Buď od nás atď.</lines>
+    </verse>
+  </lyrics>
+</song>

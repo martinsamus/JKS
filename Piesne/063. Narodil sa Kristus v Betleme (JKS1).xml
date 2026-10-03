@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>063. Narodil sa Kristus v Betleme</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Narodil sa Kristus v Betleme,<br/>položený v jasliach na slame.<br/>[:Ej, slama, slama premilá,<br/>vzácnejšia nikdys' nebola.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak prorokovali proroci,<br/>že sa nám narodí v polnoci.<br/>[:Ej, polnoc svätá, premilá,<br/>svätejšia nikdys' nebola.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na nebi sa hviezda zjavila<br/>a nebeským svetlom žiarila.<br/>[:Ej, hviezda jasná, premilá,<br/>jasnejšia nikdys' nebola.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pastieri hneď zo sna povstali,<br/>anjelský hlas z neba počuli.<br/>[:Ej, pieseň krásna, premilá,<br/>krajšie si nikdy neznela.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sláva buď vždy Bohu na nebi,<br/>pokoj ľuďom dobrým na zemi!<br/>[:Ej, doba slávna, premilá,<br/>slávnejšia nikdys' nebola.:]</lines>
+    </verse>
+  </lyrics>
+</song>

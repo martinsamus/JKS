@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>056. Kde si, náš Mesiáš</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kde si, náš Mesiáš,<br/>kde si, náš Pán?<br/>V betlemskom meste ťa<br/>vyhľadávam.<br/>V kráľovskom dome ťa,<br/>zrodené ty Dieťa, vyhľadávam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Alebo či niekde<br/>u mešťana<br/>zrodila Dieťatko<br/>svätá Panna?<br/>Ohlás sa, najmilší,<br/>ty. Kráľu najvyšší,<br/>keď ťa hľadám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nenachádzam ta ja<br/>nikde tuto,- ako mi nemá byť<br/>veľmi ľúto!<br/>No, ešte len pôjdem,<br/>azda ťa len nájdem,<br/>keď ťa hľadám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Lež našiel som Dieťa<br/>ležať v sene,<br/>s Máriou Matičkou<br/>utúlené;<br/>v maštali na slame<br/>slabo má postlané;<br/>pred ním kľakám.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Keď si sa ty, Pane,<br/>tak ponížil,<br/>pretože som hriešne<br/>na svete žil:<br/>dvoje rúk si skladám,<br/>pred tebou tu kľakám,<br/>teba žiadam.</lines>
+    </verse>
+  </lyrics>
+</song>

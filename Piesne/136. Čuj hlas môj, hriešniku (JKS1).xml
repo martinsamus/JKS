@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>136. Čuj hlas môj, hriešniku</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Čuj hlas môj, hriešniku,<br/>sveta milovníku,<br/>ktorý z kríža dávam<br/>ja, neba Pán,<br/>za teba trápený,<br/>veľmi ponížený<br/>za človeka múky,<br/>čo trpím sám<br/>Teba som učieval,<br/>k dobrému vodieval,<br/>abys' ty len večne<br/>šťastný býval</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty, pýchou nadutý,<br/>hnevlivy a krutý,<br/>po bohatstve márnom<br/>sa zháňavaš,<br/>všetku poníženosť,<br/>najmilšiu pre mňa čnosť,<br/>preťažený hriechmi<br/>pošliapavaš,<br/>naučenie moje,<br/>čo chce dobro tvoje,<br/>zapovŕhaš ako<br/>prázdne znenie</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V smútku som sa topil,<br/>krvou som sa potil,<br/>dal som sa jať zberbe zlosti plnej,<br/>dal som sa bičovať,<br/>ohavné opľúvať,<br/>potupu, zlosť<br/>znášať<br/>od luzy zlej<br/>K stĺpu priviazaný,<br/>celý zbičovaný,<br/>na hlave som tŕním<br/>dopichaný</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Za lotra biedneho<br/>ma smrť súdeného,<br/>na po-pravné miesto<br/>ma ťahali,<br/>na pleciach kríž niesol,<br/>tri razy som klesol<br/>na kríž ruky, nohy<br/>mi pribili,<br/>žlčou napájali,<br/>hrozne posmievali,<br/>svätá krv mi tiekla<br/>z každej rany</lines>
+    </verse>
+  </lyrics>
+</song>

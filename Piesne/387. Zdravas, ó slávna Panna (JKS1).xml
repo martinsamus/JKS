@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>387. Zdravas, ó slávna Panna</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zdravas`, ó, slávna Panna,<br/>ty Hviezda jasnosti,<br/>Svätým Duchom počals` nám<br/>Pána z výsosti.<br/>Ty pozdvihla si ľudstvo<br/>ku svetlu milosti<br/>a Evy, matky našej,<br/>odňala žalosti.<br/>Matka Božia, Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Máš mesiac pod nohami,<br/>si krásou na nebi,<br/>zbor duchov nadpozemských<br/>ťa vrúcne velebí.<br/>Ty čností kvet si biely<br/>a naša ochrana,<br/>skrz teba, ó, Matička,<br/>nám blaženosť daná.<br/>Matka Božia, Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, preblažená chvíľa,<br/>keď dávno žiadaný<br/>Boh Syn vzal telo ľudské<br/>a svetu bol daný;<br/>tak chcel on pre nás trpieť,<br/>smrť hroznú podstúpiť,<br/>by od večnej nás smrti<br/>zlých mohol nás vykúpiť.<br/>Matka Božia, Mária!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Skvie sa drahá koruna<br/>Márii na hlave,<br/>hviezd dvanásť sa ligoce<br/>k jej cti a oslave.<br/>Sťa slnka lúče jasné,<br/>tak, Panna, si čistá,<br/>tys` pravá Mať Krista,<br/>Matka Božia, Mária!</lines>
+    </verse>
+  </lyrics>
+</song>

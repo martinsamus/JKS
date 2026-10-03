@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>116. Ježišu, vznešená</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ježišu, vznešená<br/>zbožností odmena,<br/>milostí zdroj!<br/>Ja hriešny ťa žiadam<br/>a k nohám ti padám,<br/>želiem hriech svoj!<br/>[Ach, zhliadni, zmiluj sa,<br/>nad nami zľutuj sa!<br/>Ježišu môj,<br/>Ježišu môj!:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ach, čo som učinil,<br/>že som sa previnil<br/>proti tebe:<br/>stratil som spasenie,<br/>ja biedne stvorenie,<br/>stratil nebe.<br/>Ach, zhliadni, atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zlý čin svoj ľutujem,<br/>deň i noc ja želiem,<br/>Pane milý!<br/>Hriech svoj ti vyznávam,<br/>tebe sa oddávam<br/>v tejto chvíli.<br/>Ach, zhliadni, atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spolieham na teba,<br/>ach, ráč mi dať neba,<br/>srdce čisté;<br/>radšej smrť podstúpim,<br/>než hriechom potupím<br/>teba, Kriste.<br/>Ach, zhliadni, atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Skrz svoju krv svätú,<br/>na križi vyliatu<br/>za svet, zlosti<br/>a skrze mučenie,<br/>bolestné trápenie,<br/>ach, odpusť mi. Ach, zhliadni, atď.</lines>
+    </verse>
+  </lyrics>
+</song>

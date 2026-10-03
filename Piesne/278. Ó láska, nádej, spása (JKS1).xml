@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>278. Ó láska, nádej, spása</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó láska, nádej, spása,<br/>ó Spasitelu môj,<br/>len tebe sa oddávam,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>ty pravdy, dobra zdroj.<br/>[:Za tebou, Bože, túžim<br/>jak v noci, tak vo dne;<br/>ranami srdca svojho<br/>raň srdce dnes vo mne:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Igys' všemohúci Bože,<br/>Pán sveta celého,<br/>hlad" milostivo z nebá<br/>tu na mňa hriešneho.<br/>[;Tvoj Syn ma oslobodil<br/>z rúk diabla, od hriechu<br/>a dal mi dobrotivo<br/>tú pravú potechu.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jak by som nemiloval<br/>jak by som nechválil<br/>vždy teba, Jezu Kriste,<br/>že si ma zachránil,<br/>t'.že si sa obetoval,<br/>môj Kriste nevinný,<br/>a žé si pre mňa zomrel,<br/>môj poklad jediný.:]</lines>
+    </verse>
+  </lyrics>
+</song>

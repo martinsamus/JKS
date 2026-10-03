@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>374. Ruža duchovná</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ruža duchovná,<br/>svätých Kráľovná,<br/>Pokladnica skvostná<br/>Ducha Svätého,<br/>Nevesta milostná!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ľalia svieža,<br/>pokoja Knieža<br/>v lone ti spočíval,<br/>Spasiteľ sveta<br/>Matkou ťa nazýval.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Niva rozkošná,<br/>deva pobožná,<br/>Kvietok ľubovonný,<br/>po tebe túži<br/>ľud tvoj bohabojný.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vďaka, česť, sláva<br/>nech sa vždy vzdáva<br/>Otcovi večnému,<br/>Synovi jeho,<br/>aj Duchu Svätému!</lines>
+    </verse>
+  </lyrics>
+</song>

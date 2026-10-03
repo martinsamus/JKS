@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>105. O Ježišu, buď k pomoci</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Ježišu, buď k pomoci<br/>každému z nás v tento rok:<br/>zostaň s nami vo dne v noci,<br/>požehnaj náš každý krok!<br/>[:8 novým rokom nech zasvitne<br/>nová zora šťastia nám,<br/>lebo blaho len tam kvitne,<br/>kde ho ráčiš žehnať sám.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Všetko, čo si myslím, činím,<br/>v tebe nech sa započne;<br/>daj, nech sa viac neprevinim<br/>proti tebe, Ó, Pane!<br/>[:Rozpáľ srdce novou láskou,<br/>chcem sa tebe venovať;<br/>viaž ma k sebe novou páskou,<br/>chcem len teba milovať.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bedli na mňa neustále,<br/>keď ma stíha hriech a zlosť,<br/>nech je vo mne k tvojej chvále<br/>pevná viera, krásna čnosť.<br/>[:Daj, aby sme zas prežili<br/>šťastne tento nový rok<br/>a len k tebe vždy riadili<br/>za života každý krok.:]</lines>
+    </verse>
+  </lyrics>
+</song>

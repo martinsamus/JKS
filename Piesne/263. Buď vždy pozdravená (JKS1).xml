@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>263. Buď vždy pozdravená</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Buď vždy pozdravená,<br/>čistá Hostia,<br/>v ktorej je ukryté<br/>tajomstvo Krista.<br/>Ach, vitaj, môj Kriste,<br/>Boh neomylný,<br/>srdce mi daj čisté,<br/>ducha posilni!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teba pozdravujem<br/>srdca z celého,<br/>Boha, okrem teba,<br/>nemám iného.<br/>Ach, vitaj atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>'3. Ó nesmierna láska,<br/>Pane môj milý,<br/>ktorý sa ukrývaš<br/>v tejto Hostii.<br/>Ach, vitaj atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tebe, Bože drahý,<br/>srdce venujem,<br/>bo ťa nadovšetko,<br/>Kriste milujem.<br/>Ach, vitaj atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ty si môj Boh pravý,<br/>ty si Spasiteľ,<br/>tys' Kráľ všetkej slávy<br/>a Vykupiteľ.<br/>Ach, vitaj atď.</lines>
+    </verse>
+  </lyrics>
+</song>

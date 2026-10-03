@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>302. Ó Pane, nie som hodný</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>ó Pane, nie som hodný,<br/>do srdca byš' vstúpil môjho,<br/>ale len slovom povedz,<br/>len jedným slovom povedz<br/>a uzdravená bude duša moja.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>038. Boh sa nám teraz narodil</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boh sa nám teraz narodil- a miesto vyvolil<br/>v judskom meste Betleheme.<br/>Raduj sa, Jeruzaleme!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Syn Boží z Ducha Svätého<br/>a Darcu mocného<br/>leží v biednych jasliach v stajní,<br/>Spasiteľ dávno čakaný.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pospešme k nemu v rýchlostí,<br/>spievajme v radosti:<br/>Buď nám, Kriste náš, vítaný,<br/>prorokmi prorokovaný!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dary mu z lásky oddane<br/>i srdcia podáme,<br/>veď je náš Pán a Spasiteľ,<br/>najvernejší náš Tešiteľ.</lines>
+    </verse>
+  </lyrics>
+</song>

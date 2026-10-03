@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>157. Ó môj Bože láskavý</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó môj Bože láskavý,<br/>kdeže nájdem úľavy,<br/>srdcu svojmu pokoja'<br/>[ V tom nešťastnom, klamnom svete<br/>len osídla, zlosti siete,<br/>rany sa tu ne-zhoja. ]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto podoprie ma v mdlobe,<br/>balzamu dá útrobe,<br/>kto ponúkne blaha kvet?<br/>[.Ach, ja smutný, biedny veľmi,<br/>obklopený nepriateľmi'<br/>Pomoci, ach, nikde met<br/>]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó velebný krížu ty,<br/>na ňom visí napnutý<br/>žalostný môj Spasiteľ<br/>[.V skrúšenosti k tebe kráčam,<br/>v slzách bôľu oči máčam,<br/>súžnych lekár, tešíte! ]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prevládal si pekla moc,<br/>rozohnal si chmúrnu noc<br/>Pane, svetlo zblúdených'<br/>[ Ty si dobro, duší krása,<br/>tvoja nemosť lásku hlása,<br/>uzdrav, uko] trápených ]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó vytrhni z pút, okov<br/>hriechu krušných otrokov,<br/>tiahni, tiahni ľud k sebe'<br/>[.Dožič mieru, prúd milosti,<br/>mannou blaha nás uhosti,<br/>otvor jasné nám nebe ]</lines>
+    </verse>
+  </lyrics>
+</song>

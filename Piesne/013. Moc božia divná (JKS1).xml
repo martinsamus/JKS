@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>013. Moc božia divná</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moc Božia divná<br/>a nevýslovná,<br/>čo si učinila?<br/>K obrazu svojmu<br/>človeka stvorila.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Veľmi pekného,<br/>nesmrteľného,<br/>kvet celého diela,<br/>by mohol poznať<br/>svojho Stvoriteľa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>By ťa miloval,<br/>v raji panoval<br/>a žil v blaženosti,<br/>v záhrade rajskej<br/>z tvojej láskavosti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Diabol zlostivý<br/>bol závistlivý,<br/>vidiac šťastie jeho,<br/>ktoré mal človek<br/>od Boha večného.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Úklady zlosti<br/>kládol v chytrosti,<br/>by človek zvábený<br/>rozkoše rajskej<br/>bol tiež pozbavený.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Nešľachetný had<br/>v taký veľký pád<br/>priviedol človeka<br/>skrz okúsenie<br/>jedného jablka.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Človek stráň kvetnú,<br/>milosť posvätnú<br/>a raj večný stratil,<br/>aby sa viac doň<br/>nikdy nenavrátil.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Pán Boh zjavil nám,<br/>že nás spasí sám<br/>skrze svojho Syna,<br/>by nám byť mohla<br/>odpustená vina.</lines>
+    </verse>
+  </lyrics>
+</song>

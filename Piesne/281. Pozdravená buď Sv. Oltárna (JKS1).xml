@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>281. Pozdravená buď Sv. Oltárna</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pozdravená buď, Sviatosť Oltárna,<br/>všetko stvorenie tebe sa klania,<br/>i všetci anjeli slávu spievajú,<br/>tebe na nebi svätí úctu dajú.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ako ťa uctím, Bože môj drahý,<br/>ktorý prebývaš v Sviatosti s nami?<br/>Ty si sa pokoril,<br/>k chlebu ponížil,<br/>zostúpil z neba, by tento svet ožil.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Drahý Ježišu, Spasi-telu môj,<br/>prosím ťa zbožne,<br/>teš ma, pri mne stoj.<br/>Zmiluj sa nado mnou, prosím ťa, Pane,<br/>nech mi je dané tvoje požehnanie.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Padám pred tebou tu na kolená,<br/>nehodný tvoj tvor,<br/>~ nič nezname-näm.<br/>Buď mne milostivý, ó veľký Bože,<br/>kto mi pomôže,<br/>len ty sám jediný.</lines>
+    </verse>
+  </lyrics>
+</song>

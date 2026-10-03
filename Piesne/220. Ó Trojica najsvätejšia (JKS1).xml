@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>220. Ó Trojica najsvätejšia</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó Trojica najsvätejšia,<br/>ó jednota najdivnejšia,<br/>daj, nech každý ťa vyznáva,<br/>Trojjednému chválu vzdáva.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zrána, slnko, keď vychádza<br/>až k večeru, keď zachádza,<br/>každodenne ťa slávime,<br/>vrelým srdcom velebíme.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tys' oheň a blesk slnečný,<br/>vyskúmať tvoj život večný<br/>nevie nik; máš slávy hojnosť<br/>a v jednote trojosobnosť.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Jasné slnko na tom svete,<br/>čo nám svieti, hreje v lete,<br/>pre trojjedno tvoje Božstvo<br/>je nejaké podobenstvo.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Otče, tys' jak blesk slnečný,<br/>Syn je sťaby lúč tvoj večný,<br/>Duch Svätý je oboch plameň<br/>až na veky vekov. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

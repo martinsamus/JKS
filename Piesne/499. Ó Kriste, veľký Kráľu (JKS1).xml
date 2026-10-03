@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>499. Ó Kriste, veľký Kráľu</title>
+    </titles>
+    <authors>
+      <author>JKS1</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Kriste, veľký<br/>Kráľu náš,<br/>čo svetom,<br/>nebom vládneš,<br/>ty božskej moci<br/>berlu máš<br/>a láskou večne<br/>vládneš.<br/>[:Ježišu, Kráľu,<br/>prijmi svoj ľud,<br/>vrelý ti lásky<br/>skladáme sľub:<br/>za tebou, Kráľu,<br/>vždy ísť chceme,<br/>za tebou<br/>vždy ísť chceme.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tys’ na zem prišiel<br/>z lásky k nám<br/>krv svoju za nás vyliať,<br/>bys’ stal sa spásy<br/>Kráľom nám,<br/>náš hriech si<br/>sám chcel prijať<br/>[:Ježišu, Kráľu,<br/>prijmi svoj ľud,<br/>vrelý ti lásky<br/>skladáme sľub:<br/>za tebou, Kráľu,<br/>vždy ísť chceme,<br/>za tebou<br/>vždy ísť chceme.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, v srdci svojom<br/>daj nám žiť,<br/>daj v lásku<br/>sa nám vnoriť,<br/>by tvojej vlády<br/>blysol svet,<br/>daj sily,<br/>môcť sa boriť!<br/>[:Ježišu, Kráľu,<br/>prijmi svoj ľud,<br/>vrelý ti lásky<br/>skladáme sľub:<br/>za tebou, Kráľu,<br/>vždy ísť chceme,<br/>za tebou<br/>vždy ísť chceme.:]</lines>
+    </verse>
+  </lyrics>
+</song>
