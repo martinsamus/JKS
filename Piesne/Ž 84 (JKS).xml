@@ -7,10 +7,22 @@
     <authors>
       <author>JKS</author>
     </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
   </properties>
   <lyrics>
     <verse name="v1">
+      <lines>Aké milé sú tvoje chrámy, Pane.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aké milé sú tvoje príbytky, Pane zástupov.</lines>
+    </verse>
+    <verse name="v3">
       <lines>Blažení tí, čo bývajú v tvojom dome, Pane.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hľa, Boží stánok je medzi ľuďmi.</lines>
     </verse>
   </lyrics>
 </song>

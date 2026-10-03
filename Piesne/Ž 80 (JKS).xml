@@ -13,7 +13,13 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Bože, obnov nás,<br/>rozjasni svoju tvár<br/>a budeme spasení.</lines>
+      <lines>Bože, obnov nás, rozjasni svoju tvár a budeme spasení.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rozjasni, Pane, svoju tvár a budeme spasení.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vinicou Pánovou je jeho ľud.</lines>
     </verse>
   </lyrics>
 </song>

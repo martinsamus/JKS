@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>|: Agnus Dei,<br/>qui tollis peccata mundi<br/>miserere nobis :|<br/><br/>|: Agnus Dei,<br/>qui tollis peccata mundi,<br/>dona nobis pacem,<br/>dona nobis pacem,<br/>dona nobis pacem :|</lines>
+      <lines>|: Agnus Dei,<br/>qui tollis peccata mundi<br/>miserere nobis :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>|: Agnus Dei,<br/>qui tollis peccata mundi,<br/>dona nobis pacem,<br/>dona nobis pacem,<br/>dona nobis pacem :|</lines>
     </verse>
   </lyrics>
 </song>

@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Duchu svätý volám príď<br/>oheň mojej duši daj<br/>oheň môjmu telu daj<br/>rozpáľ ma<br/>všemohúci Boh tu s nami je<br/>nekonečne milostivý je<br/>ukazuje dobrotivú tvár<br/>voči tým, ktorí milovať ho chcú</lines>
+      <lines>Duchu svätý volám príď<br/>oheň mojej duši daj<br/>oheň môjmu telu daj<br/>rozpáľ ma</lines>
+    </verse>
+    <verse name="c1">
+      <lines>všemohúci Boh tu s nami je<br/>nekonečne milostivý je<br/>ukazuje dobrotivú tvár<br/>voči tým, ktorí milovať ho chcú</lines>
     </verse>
   </lyrics>
 </song>

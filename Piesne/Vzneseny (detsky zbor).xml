@@ -10,7 +10,10 @@
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Vznešený, tak jemný<br/>iba Ty vieš ku nám byť.<br/>Zranení, zlomení<br/>bez obáv môžeme prísť.<br/><br/>Ty stále čakáš,<br/>novú nádej nám dáš.<br/>Ty odnímaš hriech,<br/>v tichu modlitba znie.</lines>
+      <lines>Vznešený, tak jemný<br/>iba Ty vieš ku nám byť.<br/>Zranení, zlomení<br/>bez obáv môžeme prísť.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ty stále čakáš,<br/>novú nádej nám dáš.<br/>Ty odnímaš hriech,<br/>v tichu modlitba znie.</lines>
     </verse>
   </lyrics>
 </song>
