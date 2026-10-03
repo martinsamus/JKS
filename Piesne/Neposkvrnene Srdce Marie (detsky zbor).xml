@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Neposkvrnene Srdce Marie</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nepoškvrnené Srdce Márie,<br/>Nepoškvrnené Srdce Márie,<br/>/: si svetlom a cestou,<br/>si svetlom a cestou,<br/>si svetlom a cestou nám na zemi.:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zasvätení kňazi Tebe, Mária,<br/>zasvätení kňazi Tebe, Mária,<br/>/: dávajú sa s láskou,<br/>dávajú sa s láskou,<br/>urob ich podobnými Kristovi.:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veriaci zasvätení Tebe<br/>sú zjednotení v tejto vážnej dobe,<br/>/: nech skoro zvíťazí,<br/>nech skoro zvíťazí<br/>Tvoje Nepoškvrnené Srdce!:/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Keď príde posledná hodina naša,<br/>keď príde posledná hodina naša,<br/>/: príď, Matka, nemeškaj,<br/>príď, Matka, nemeškaj,<br/>príď, Matka a priveď nás do neba.:/</lines>
+    </verse>
+  </lyrics>
+</song>

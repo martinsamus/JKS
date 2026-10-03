@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Premeň ma</title>
+      <title>Spolu s vínom a chlebom</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spolu s vínom a chlebom <br/>prinášam Ti, Pane seba.<br/>Spolu s vínom a chlebom<br/>túžim premeniť sa v Teba.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcem sa dívať na svet <br/>Tvojimi očami<br/>a ľuďom priniesť Ťa<br/>svojimi rukami.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ó premeň ma, prosím premeň ma...<br/>Srdce láskou spáľ,<br/>veď ma milosťou životom neistým.<br/>Ty nádej dávaš nám,<br/>stačí vnímať denne hlas,<br/>čo jediný povedie nás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keď sa víno s chlebom <br/>premení na Tvoje telo.<br/>Zrakom viery Ťa vidím,<br/>svoju lásku dávaš vrelo.</lines>
+    </verse>
+  </lyrics>
+</song>

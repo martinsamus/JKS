@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>452 Cirkev svätá citom radosti</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Cirkev svätá citom radosti dnes plesá, - <br/>so zápalom sviatočným znejú nebesá; -<br/>mučeníkom Pána - otvára sa brána -<br/>najblaženejšieho - nebeského rána. -<br/>Čujte náš hlas - z výšin večných krás, -<br/>svätí mučeníci - proste za nás! -<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Palma slávy telá sväté im zdobila; - <br/>slávnostne sa dvíha presvätá mohyla; -<br/>z a pravdu ste mreli, - bojovníci smelí,<br/>pred vami sa skláňa - kresťanský svet celý. -<br/>Čujte náš hlas - z výšin večných krás, -<br/>svätí mučeníci - proste za nás! -</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Trápenie a hrozné muky ste znášali, - <br/>meno Božie nebojácne ste hlásali. -<br/>Mučeníci Krista, - vaša duša čistá -<br/>v ríši nebies nech nám - večné miesto chystá. -<br/>Čujte náš hlas - z výšin večných krás, -<br/>svätí mučeníci, proste za nás!</lines>
+    </verse>
+  </lyrics>
+</song>

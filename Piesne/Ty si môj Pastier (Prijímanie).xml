@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Ty si môj Pastier</title>
+    </titles>
+    <authors>
+      <author>Prijímanie</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty si môj Pastier,<br/>v Tebe všetko mám, čo hľadám,<br/>novú nádej, ktorú v Teba vkladám,<br/>pravé šťastie prežívam.<br/>A moje kroky, vedieš istou cestou svojou<br/>a ma chrániš od prehratých bojov,<br/>Tvoje výhry poznávam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A ja som sa bránil, svoju pravdu mal<br/>a slávu sebe budoval.<br/>A brány šťastia otváral<br/>a všetko len sám.<br/>A Tvojim slovám, tým som neveril<br/>a so zlým stále zápasil,<br/>no dnes viem,<br/>že si to najlepšie, čo mám.</lines>
+    </verse>
+  </lyrics>
+</song>

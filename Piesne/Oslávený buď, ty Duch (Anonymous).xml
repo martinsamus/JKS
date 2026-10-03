@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Oslávený buď, ty Duch</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Oslávený, buď Ty, Duch, <br/>ktorý máš oheň, čo nás spája.<br/>Spievam a hrám,<br/>nech celý vesmír vie, že si Pán. Aleluja.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Duch Svätý, roznieť posvätné <br/>ohne pre nás zapálené.<br/>Služobníka neobíď, prosím Ťa,<br/>vojdi srdce mám pripravené.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Duch Svätý, odhaľ tajomstvo <br/>Otcovej lásky nám dané.<br/>Bože príď a uzdravuj zranené,<br/>vojdi srdce mám pripravené.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duch Svätý, príď a rozviaž v nás to, <br/>čo je hriechom spútané.<br/>Naprav k láske chodníky zblúdené,<br/>vojdi srdce mám pripravené.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duch Svätý, vezmi môj život <br/>do svojich rúk a sám ho chráň.<br/>Novú pieseň zaspievam v náručí<br/>tvojom zaplesám, srdce Ti dám.</lines>
+    </verse>
+  </lyrics>
+</song>

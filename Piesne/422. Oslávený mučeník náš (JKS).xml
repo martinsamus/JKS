@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>422. Oslávený mučeník náš</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Oslávený mučeník náš, - <br/>veľký svätý Florián, -<br/>ty sa na nás strážne dívaš, -<br/>ty si príklad čností nám. -</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Vo večnosti nebeskej ty, - <br/>oslávený prebývaš, -<br/>kde si cenia čnosti kvety -<br/>a kde blaho požívaš. -</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Od všetkého chráň nás zlého, - <br/>chráň nás najmä od ohňov, -<br/>v čase živlu škodlivého -<br/>buď nám mocnou ochranou. -</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Tvoj štít nech nás ochraňuje, - <br/>nech nám nedá zahynúť, -<br/>nech nás v žiali utešuje -<br/>a zaháňa viery blud. -</lines>
+    </verse>
+    <verse name="v3a">
+      <lines>Keď Boh mračná a blýskanie - <br/>s hromobitím zosiela, -<br/>pros, aby sa v požehnanie -<br/>vôľa božia zmenila. -</lines>
+    </verse>
+    <verse name="v3b">
+      <lines>Nech sme vierou pevní v žiali, - <br/>prosíme ťa, pomôž nám, -<br/>aby sme vždy pevne stáli, -<br/>hľadiac k nebies výšinám. -</lines>
+    </verse>
+    <verse name="v4a">
+      <lines>Naše vrúcne čuj volanie, - <br/>ctiteľov ti zverených, -<br/>vypros pravé nám pokánie -<br/>v potoky sĺz skrúšených. -</lines>
+    </verse>
+    <verse name="v4b">
+      <lines>Nedaj, aby ohne časné - <br/>a večné nás pálili, -<br/>ale s tebou v sláve neba -<br/>by sme Boha chválili.</lines>
+    </verse>
+  </lyrics>
+</song>

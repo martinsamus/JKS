@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Všade tam kde sú</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Všade tam,kde sú ľudia zídení<br/>v mene Ježišv láske zjednotení.<br/>Práve tam Boh zasľúbil,<br/>že bude prítomný.<br/>Dnes viem, ženáš Boh je<br/>na tomto mieste prítomný.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: Privítajme Pánav tomto chráme,<br/>nech ho Božia sláva naplní.<br/>Svojmu Bohu spievame<br/>a hráme pieseň spasených. :/</lines>
+    </verse>
+  </lyrics>
+</song>

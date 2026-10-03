@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>297. Zavítaj z nebies výsosti</title>
+    </titles>
+    <authors>
+      <author>Eucharistické</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.<br/>Zavítaj z nebies výsosti, ó Sviatosť, plná milosti; zavítaj, Jezu Kriste náš, nám svätej lásky hojnosť dáš.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.<br/>Ó príď k nám, naše spasenie, a obnov chvíle blažené; do srdca nášho zavítaj, milostí hojnosť všetkých daj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.<br/>Ty si náš pokrm najsladší, útecha v žitia bodľačí; ctíme ťa jak slasť najvyššiu, predrahý Kriste Ježišu!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.<br/>Ó Kriste, Kráľu premilý, daj, by Sme tebe slúžili; v poslednej žitia hodine k sebe nás prijmi, prosíme.</lines>
+    </verse>
+  </lyrics>
+</song>

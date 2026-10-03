@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:37">
+  <properties>
+    <titles>
+      <title>090. Tebe sa tu klaniame</title>
+    </titles>
+    <authors>
+      <author>Vianočná</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                                 90.<br/>Tebe sa tu klaniame,<br/>na kolená padáme.<br/>Ach, opatruj nás<br/>a vyslyš hlas náš,<br/>vrúcne ťa žiadame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                                 90.<br/>To zázračné zjavenie,<br/>Ježiša narodenie,<br/>dnes prišlo sláviť<br/>a jeho chváliť<br/>naše zhromaždenie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ofertórium 7.                               90.<br/>Nad Betlemom aký to blesk?<br/>Pozrite sa všetci!<br/>Nad ním je vždy ten istý lesk,<br/>divné sú to veci.<br/>Anjel spieva: „Glória!<br/>A pastieri hovoria:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>„Vstaňme a poďme ta! <br/>Hľa, dvanásta hodina práve odbila,<br/>darovala nám Syna Panna Mária,<br/>nám všetkým k radosti<br/>splnila žiadosti, čistá ľalia.“</lines>
+    </verse>
+    <verse name="v5">
+      <lines>A pastieri v tejto dvanástej hodine<br/>šli do Betlehema ku svätej Rodine;<br/>dávali mu dary, pred ním na zem padli<br/>a takto pobožne zaspievali:<br/>„Ježiško náš milý, krásny, drahý,<br/>prijmi od nás, prijmi tieto dary,<br/>ktoré ti tu teraz podávame,<br/>že si sa narodil, radosť máme.“</lines>
+    </verse>
+  </lyrics>
+</song>

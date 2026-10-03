@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Nepoškvrnená Mária</title>
+    </titles>
+    <authors>
+      <author>Večeradlo s Pannou Máriou</author>
+      <author>Veceradlo</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nepoškvrnená Matka plná milosti,<br/>Chceme pri tebe blízko stáť,<br/>načerpať z tvojich čností.<br/>Nepoškvrnená Mária Matka Fatimská,<br/>K tebe voláme zo Slovenska.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Volám Zdravas Mama.<br/>Padám na kolená.<br/>Ružencom si otváram cestu<br/>k Tebe požehnaná.</lines>
+      <lines>Svojim plášťom zahaľ nás,<br/>prosíme ORODUJ ZA NÁS.<br/>V našich srdciach nech zavládne mier,<br/>volám zo svojich pier.<br/>Mária ochraňuj nás.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-24T06:10:10">
+  <properties>
+    <titles>
+      <title>Svoje krokz royospievaj</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Svoje kroky rozospievaj, rozospievaj,rozospievaj.<br/>Chválami rozospievaj,rozospievaj,rozospievaj.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Vzdajme Pánu vďaky, <br/>za všetko, čo dáva,<br/>za všetko čo berie,<br/>patrí Pánu chvála.<br/>Vzdajme Pánu vďaky,<br/>že sa stará,aby<br/>nezostali v smrti,<br/>jeho ľudia slabí.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vzdajme Pánu vďaky<br/>ako Božie deti<br/>že v človeku láska<br/>ešte stále žije.<br/>Vzdajme Pánu vďaky<br/>povzbudzuje slovom,<br/>pripravuje miesto<br/>nám v živote novom.</lines>
+    </verse>
+  </lyrics>
+</song>

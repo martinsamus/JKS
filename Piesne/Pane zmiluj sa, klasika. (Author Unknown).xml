@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pane zmiluj sa, klasika.</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/:<chord name="D"/> Pane zmiluj<chord name="Emi"/> sa, <chord name="A"/> Pane zmiluj<chord name="D"/> sa.:/<br/>/<chord name="D"/>:Kriste zmiluj<chord name="G"/> sa,<chord name="Emi"/> Kriste<chord name="A"/> zmiluj<chord name="D"/> sa.<br/><chord name="Hmi"/> Pane zmiluj<chord name="Emi"/> sa, <chord name="A"/> Pane zmiluj<chord name="D"/> sa.:/</lines>
+    </verse>
+  </lyrics>
+</song>

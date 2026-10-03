@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:38">
+  <properties>
+    <titles>
+      <title>148. Kresťania, nariekajte</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                             148<br/>Kresťania, nariekajte,<br/>od žiaľu zamdlievajte<br/>|: plač, kvíľ srdce každého,<br/>Ježišovi verného :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                             148<br/>Nemá citu ľudskosti,<br/>nezná milosrdnosti,<br/>|: kto Kristove trpkosti<br/>neľutuje v žalosti. :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                             148<br/>Tela tvojho trýznenie,<br/>rúk, nôh, boku ranenie<br/>|: kto vidí bez ľútosti,<br/>pravej nemá ten čnosti :|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                             148<br/>Hľa, skaly sa pukajú,<br/>slnko, mesiac stmievajú:<br/>|: presmutný je svet celý,<br/>len hriešnik je veselý:|</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.                                             148<br/>Pokániu sa oddávaj<br/>a hriech svoj oplakávaj!<br/>|: hľa pre teba Kristus Pán<br/>vydáva sa na kríž sám :|</lines>
+    </verse>
+  </lyrics>
+</song>

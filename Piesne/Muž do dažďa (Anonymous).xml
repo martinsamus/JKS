@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Muž do dažďa</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>V dielni kreslí plány života<br/>stačí sen a všetko sa zamotá<br/>ceruzkou do nich kreslí Boh<br/>chcel len ženu, teraz chráni dvoch.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kameň, to je ťažký kaliber<br/>tuší, že láska nemá na výber<br/>Zdolá sedem morí aj zákon<br/>lebo srdce je viac ako on</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jozef, muž do dažďa<br/>silné paže a plášť mu postačia<br/>Aj z hodených polien spod nôh<br/>postaví dom, v ktorom býva Boh</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Držia sa za ruky, on a žena<br/>túžia vidieť jas Betlehéma<br/>aj keď každá z brán je zavretá<br/>svieti im na slame svetlo sveta</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Anjel, ten ochranca odveký<br/>čo vo sne nehlási len úteky<br/>Vždy medzi riadkami šepce v ňom<br/>že aj Jozef je strážnym anjelom</lines>
+    </verse>
+  </lyrics>
+</song>

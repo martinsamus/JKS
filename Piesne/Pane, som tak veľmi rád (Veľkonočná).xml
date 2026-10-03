@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pane, som tak veľmi rád</title>
+    </titles>
+    <authors>
+      <author>Veľkonočná</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pane, som tak veľmi rád,<br/>život s Tebou som už skúsil,<br/>tak Ti spievam pieseň chvál,<br/>poznať Teba vždy som túžil.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Z nebies zostúpil si k nám na túto zem,<br/>tu na kríži musels  mrieť aj za môj hriech.<br/>Kríž pred hrobom v krvi stál,<br/>z hrobu Otec si Ťa vzal,<br/>tak Ti spievam pieseň chvál.</lines>
+    </verse>
+  </lyrics>
+</song>

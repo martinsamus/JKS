@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Zachranar</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keď sa pred tebou hlbina zjaví,<br/>tak nezabúdaj, kto je Boh pravý.<br/>Ten, kto sa pozrie do Jeho očí,<br/>ten sa nebojí do vody skočiť.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tak môžu starci, ale aj mladí<br/>spoločne s Tebou po vode chodiť.<br/>Hlboká voda nám neublíži.<br/>Záchranár Ježiš nás drží.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ten kto sa pozrie do tvojich očí,<br/>Ten sa nebojí do vody skočiť.<br/>Hlboká voda nám neublíži.<br/>Záchranár Ježiš nás drží.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:ALELUJA,ALELUJA, ALELU. ALELUJA, A ALELU:/<br/><br/>/:Ale Ale Ale Alelujaaa:/</lines>
+    </verse>
+  </lyrics>
+</song>

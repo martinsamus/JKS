@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>rozsievač</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prikázal Boh dávno pustej pláni, aby dala plod.<br/>On nás rozsial ako zrno z dlaní z juhu po východ.<br/>Ako rozsievač nás rozsial všade na guľatú zem,<br/>vie o tom, čo bolo, je a bude, čaká žatvy deň.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jedno zrno padlo na kraj cesty, nevzklíčilo však,<br/>nevydalo žiadne ratolesti, vyzobal ho vták.<br/>Iné padlo na skalu, kde tŕnie rásť mu zhátalo.<br/>Svetla kde niet, klíčok ľahko strnie, hynúť začalo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Iba v Božej pôde zrno zreje, svetlo má i vzduch,<br/>úroda raz z neho veliká je, že až jasá duch.<br/>Hoci s plačom neraz sejem semä, nádej v Bohu mám, že raz stokrát viacej z dobrej zeme zrniek pozbieram.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chcem, Pane, rásť, chcem vydať klasy,<br/>slovo Tvoje je slovom spásy.<br/>Chcem, Pane rásť a dobre to viem,<br/>slovo Tvoje je slnko moje.</lines>
+    </verse>
+  </lyrics>
+</song>

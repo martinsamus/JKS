@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Sedembolestná</title>
+    </titles>
+    <verseOrder>v1 v2 b1 c1 v3 v4 b1 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, Tvojim ÁNO to začalo,<br/>Mária, samo spasenie nastalo.<br/>Mária, poslušnosťou povestná,<br/>Sedembolestná...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vedela si, čo to znamená,<br/>kríž vezme Syn na ramená.<br/>A meč Ti srdcom preniká,<br/>bolesť, smútok a panika.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mária, syna umierať videla,<br/>Mária, s vierou, že príde nedeľa.<br/>Mária, žena a Božia nevesta,<br/>Sedembolestná...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Proroctvo, útek, v chráme strata,<br/>cesta, kde pod našim hriechom padal,<br/>Jeho smrť a náruč Tvoja,<br/>s hrobom sa dal do boja,<br/>Tvoje srdce rany bolia...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref: Zdravas Mária, milosti plná, Pán s Tebou,<br/>požehnaná si a požehnaný je Plod Tvoj.<br/>Svätá Mária, pros za nás hriešnych<br/>teraz i v hodinu smrti našej.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Sedembolestná, sedembolestná, sedembolestná,<br/>oroduj za nás!</lines>
+    </verse>
+  </lyrics>
+</song>

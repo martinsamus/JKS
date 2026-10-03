@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Gloria_Vinbarg</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="A"/>Ľuďom <chord name="D"/>dobrej vôle<br/><chord name="A"/>pokoj na ze<chord name="h"/>mi,<br/>my Ťa c<chord name="e"/>hválime,<br/>vďaky vz<chord name="G"/>dávame,<br/>veď je <chord name="e"/>veľká Tvoja s<chord name="A"/>lá<chord name="A7"/>va!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="A"/>Ježiš, <chord name="D"/>Spasiteľ náš,<br/><chord name="A"/>Baránok Bo<chord name="h"/>ží,<br/>snímaš <chord name="e"/>sveta hriech,<br/>milosť<chord name="G"/> udeľ nám,<br/>prijmi p<chord name="e"/>rosby pokor<chord name="A"/>né<chord name="A7"/>-é.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="A"/>Veď len<chord name="D"/> Ty si svätý,<br/><chord name="A"/>veď len Ty si <chord name="h"/>Pán,<br/>Ty si <chord name="e"/>najvyšší so Svä<chord name="G"/>tým Duchom<br/>v sláve <chord name="e"/>Boha Otca.<chord name="A"/> A<chord name="A7"/>men.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:G<chord name="D"/>lór<chord name="G"/>ia, g<chord name="A"/>lór<chord name="D"/>ia,<chord name="G"/> in e<chord name="A"/>xelsis <chord name="D"/>deo! :/</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>František</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Jedny šaty, nohy bosé, umýva sa v rannej rose,<br/>chvály vzdáva, Bohu dáva srdce z lásky úprimnej.<br/>Úsmev stály z tváre žiari, raduje sa z Božej slávy,<br/>slnku spieva, keď sa stmieva, z hviezdami sa zhovára.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>R: František, František, vypros aj nám lásky dar,<br/>nech aj my ľúbime tak, ako nás ľúbi Pán. (2x)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. K Otcu svojmu ruky spína, volá k nemu, keď usína,<br/>aj keď vstane, volá: """"""""""""""""""""""""""""""""Pane, vďaka Ti, že svitol deň.<br/>Vďaka, že sme Tvoje deti, že nás voláš, ďakujem Ti,<br/>kvitnú kvety, slnko svieti, za všetko buď chválený!""""""""""""""""""""""""""""""""</lines>
+    </verse>
+  </lyrics>
+</song>

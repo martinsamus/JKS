@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Nas Pan_On je kralov Kral</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Náš Pán, On je kráľov Kráľ, jeho trón<br/>bude naveky stáť. On má<br/>všetku vládu a moc, náš Pán.<br/>On je kráľov Kráľ.</lines>
+    </verse>
+  </lyrics>
+</song>

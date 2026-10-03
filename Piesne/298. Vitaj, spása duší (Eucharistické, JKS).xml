@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>298. Vitaj, spása duší</title>
+    </titles>
+    <authors>
+      <author>Eucharistické</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Po pozdvihovali: 1.<br/>Vitaj, spása duší, Bože živý, zostúpil si z neba v tejto chvíli; pred tebou tu v prach padáme, o spasenie ťa žiadame.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Agnus: 2.<br/>Baránku, čo hriechy sveta snímaš, zmiluj sa nad nami a vyslyš nás;  odpusť naše neprávosti a prijmi nás do milosti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Požehnanie: 3.<br/>Obľúb si, ó Bože, našu obeť od nás tu nehodných a ju posväť, udeľ nám včuľ požehnania, neopusť nás do skonania.</lines>
+    </verse>
+  </lyrics>
+</song>

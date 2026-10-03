@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Počujem Tvoj Hlas</title>
+    </titles>
+    <verseOrder>v1 v2 v3 c1 v4 v5 c1 v6</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vidím Ťa<br/>Vidím Ťa v rannom slnku<br/>Vidím Ťa na nočnej oblohe<br/>Ty si môj nádych a výdych.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vidím Ťa - v suchu, keď čakám na dážď<br/>Tak nový život môže začať rásť.<br/>Nová milosť - každé ráno.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jediné slovo premení tmu na svetlo.<br/>Môj život môžeš zmeniť len Ty sám...</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Cítim to v kostiach<br/>Cítim oheň na duši<br/>Vidím Tvoju lásku si Nádherný<br/>Úžasný a Trpezlivý</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vidím Ťa,<br/>vidím Tvoju lásku<br/>Od východu až k západu<br/>nová milosť -každé ráno.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>ó-ó-ó</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Počujem Tvoj hlaaas<br/>Vo vánku vetra i vlnách.<br/>Počujem tvoj hlaaas<br/>Iba za ním pobežím.</lines>
+      <lines>Tak s nami skáč, skáč, skáč<br/>v rytme Božej slávy, celú noc, celý deň<br/>Tak s nami skáč, skáč, skáč<br/>V rytme Božej slávy. Toto je Pánov deň.</lines>
+    </verse>
+  </lyrics>
+</song>

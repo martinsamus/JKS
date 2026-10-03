@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Otče, prijmi chlieb</title>
+    </titles>
+    <authors>
+      <author>Obetné dary</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|:Otče, prijmi chlieb a víno tiež,<br/>my ho skladáme,<br/>pred Tvoj oltár dnes, aj dnes.:|<br/><br/>Tvoja láska nech zotrie každý hriech,<br/>Tvoja krv, Pane, nech nás očistí.<br/>Ty nám dávaš dnes<br/>svojho Syna niesť,<br/>Tvoja moc, Pane, nech nás zjednotí.</lines>
+    </verse>
+  </lyrics>
+</song>

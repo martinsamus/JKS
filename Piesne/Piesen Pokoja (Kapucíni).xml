@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-04T06:34:20">
+  <properties>
+    <titles>
+      <title>Piesen Pokoja</title>
+      <title>Piesen Pokoja</title>
+    </titles>
+    <authors>
+      <author>Kapucíni</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Stretnúť sa s ľuďmi ako brat<br/>vravieť im "ľudia, mám Vás rád"<br/>Dať im svoj úsmev, srdce tiež,<br/>pretože Pane, Ty ma miluješ</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>1. Urob ma tvorcom Pokoja<br/>    urážky nech ma nezlomia<br/>Tvoj pohľad nech ma nezraní<br/>nech Zmierenie je záver našich dní<br/></lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Milostiplná</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Milostiplná Mária, <br/>milostipná Mária,<br/>milostiplná,<br/>hľa dievča podľa tvojho slova.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Pohládzaš ruky čo neporania,<br/>Pohládzaš ruky čo neporania,<br/>Pohládzaš ruky čo neporania,<br/>kvety v tvojich záhradách.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Miluješ srdce, čo k hviezdam letí,<br/>Miluješ srdce, čo k hviezdam letí,<br/>Miluješ srdce, čo k hviezdam letí,<br/>spoznať ríšu Božích sfér.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>382. Tisíc ráz buď pozdravená</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tisíc ráz buď pozdravená, - ó, Mária, Mária! - <br/>Milión ráz velebená - buď, Matička spanilá! -<br/>Hviezda nebeská, - Pani anjelská, -<br/>Patrónka nášho Slovenska.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nad slnko si ty jasnejšia, ó, Mária, Mária! - <br/>Nad mesiac si lahodnejšia, - ó, Matička spanilá! -<br/>Hviezda nebeská, - Pani anjelská, -<br/>Patrónka nášho Slovenska.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hviezda jasná na svitaní, - ó, Mária, Mária!  - <br/>Neba, zeme mocná Pani, ó, Matička spanilá! -<br/>Hviezda nebeská, - Pani anjelská, -<br/>Patrónka nášho Slovenska.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Čistejšia si nad ľaliu, - ó, Mária, Mária! - <br/>Vonnejšia nad konvaliu, - ó, Matička spanilá! -<br/>Hviezda nebeská, - Pani anjelská, -<br/>Patrónka nášho Slovenska.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ty si Céder na Libane, - ó, Mária, Mária, - <br/>krásny Cyprus na Sione, - ó, Matička spanilá! -<br/>Hviezda nebeská, - Pani anjelská, -<br/>Patrónka nášho Slovenska.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tvoja pomoc buď vždy s nami, - ó, Mária, Mária! - <br/>Chráň vlasť našu pred vojnami, - ó, Matička spanilá! -<br/>Hviezda nebeská, - Pani anjelská, -<br/>Patrónka nášho Slovenska.</lines>
+    </verse>
+  </lyrics>
+</song>

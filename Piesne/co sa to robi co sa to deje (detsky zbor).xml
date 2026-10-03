@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>co sa to robi co sa to deje</title>
+    </titles>
+    <verseOrder>v1 v2 v1 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Čo sa to robí, čo sa to deje<br/>na oltári? Moja duša sa chveje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Toto je moje telo<br/>vezmi si ma celého.<br/>Toto je moja krv.<br/>Chcem aby si so mnou stále žil.</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Láska sa dáva nám<br/>na kríži pribitý sa ponúka,<br/>aby vykúpil človeka.</lines>
+      <lines>Láska sa dáva nám<br/>na kríži pribitý sa ponúka,<br/>aby nasýtil človeka.</lines>
+    </verse>
+  </lyrics>
+</song>

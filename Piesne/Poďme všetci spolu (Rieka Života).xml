@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Poďme všetci spolu</title>
+    </titles>
+    <authors>
+      <author>Rieka Života</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poďme všetci spolu <br/>ako jeden hlas,<br/>pozdvihnime tváre,<br/>k slnku upriam zrak.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vystúpme tam na Sion, <br/>Boží svätý vrch,<br/>sme mocné vojsko,<br/>čo chce chváliť ho.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Poďme chváliť ho, <br/>poďme chváliť ho,<br/>Ježiš je náš kráľ,<br/>poďme chváliť ho.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>More zahučí, <br/>nebo zazvoní,<br/>na slávu nášho Pána,<br/>tak poď chváliť ho.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Povstaň Božie vojsko, <br/>je čas začať boj,<br/>Spievajme hosana,<br/>poďme chváliť ho.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nepriateľa zničí, <br/>vraha porazí,<br/>kým mu zaznieva<br/>spev víťazný.</lines>
+    </verse>
+  </lyrics>
+</song>

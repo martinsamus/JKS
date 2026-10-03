@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pokojne do ticha modlitba znie</title>
+    </titles>
+    <authors>
+      <author>Pôstna</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Pokojne do ticha modlitba znie,<br/>že Pán je tu s nami, nad nami stále bdie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Keď Mária do Jeho rúk sa vložila,<br/>tak bez slov s dôverou k Nemu sa modlila</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó, Pane, Tvoja vôľa nech sa stane,<br/>my s Matkou s dôverou z vďaky Ti spievame.</lines>
+    </verse>
+  </lyrics>
+</song>

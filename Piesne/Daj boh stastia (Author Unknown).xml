@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Daj boh stastia</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Daj Boh šťastia tejto zemi, všetkým ľuďom v nej.<br/>Nech im slnko jasne svieti každý boží deň.<br/>[:Nech ich sused v láske má, nech im priazeň, pokoj dá.<br/>Daj Boh šťastia tejto zemi, všetkým ľuďom v nej.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Daj Boh šťastia celej zemi, všetkým národom.<br/>Nech im svetlo hviezdy lásky ožaruje dom.<br/>[:Hladným chleba dobrého, chorým zdravia pevného.<br/>Daj Boh šťastia celej zemi, všetkým národom.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dopraj, Bože, svojmu dielu večné trvanie.<br/>Nech sa samo nezahubí, všetci prosíme.<br/>[:Rybám čistej vody daj, vtáctvo a zver zachovaj.<br/>Dopraj, Bože, svojmu dielu večné trvanie.:]</lines>
+    </verse>
+  </lyrics>
+</song>

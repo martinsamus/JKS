@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Mária Milenky Band</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ty,ktorá máš jeho tvár,<br/>ty netrháš kalendár,<br/>chráň môj čas prchavý.<br/><p style="page-break-after: always;"/><br/>Ty, ktorá máš v rukách chlieb,<br/>ty strážiš láske tep,<br/>bráň ma keď sa unavím.<br/><p style="page-break-after: always;"/><br/>R: Mária, vieš o nás,<br/>daj, nech vždy blízko som.<br/>Voniaš jak chlieb,<br/>láska už príď,<br/>vstúp do izieb,<br/>naplň náš dom!<br/><p style="page-break-after: always;"/><br/>Ty, hľadaná v modlitbách,<br/>pred tvojím ,,áno" má strach<br/>múr, čo pevne nestojí.<br/><p style="page-break-after: always;"/><br/>Ty, nádherná z pokory<br/>ty mlčíš, Boh hovorí.<br/>Vzdám sa, chcem byť len tvojím.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

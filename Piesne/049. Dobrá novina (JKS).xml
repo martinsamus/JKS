@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:36">
+  <properties>
+    <titles>
+      <title>049. Dobrá novina</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>//Dobrá novina, - šťastná hodina.// - Čo sa tejto noci stalo? - Nebo svetu Svetlo dalo. - Dobrá novina, - šťastná hodina.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>//Počuli sme hlas, - ktorý tešil nás.// - Slovo v telo o polnoci - zrodilo sa z Božej moci. - Nám sa zjavilo, - by nás spasilo.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>//Jasnosť spanilá - nás osvietila.// - Žiara padla na salaše, - osvietila hory naše. - Dobrá novina, - šťastná hodina.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>//Panna predivná - z rodu Dávida.// - Spasiteľa čo nosila, - dnes nám ho aj porodila. - Dobrá novina, - šťastná hodina.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>//Bratia, spiechajme, - nič nemeškajme.// - Kľaknúc pred ním na kolená - privítajme svojho Pána. - Vitaj, spanilý - Ježiško milý!</lines>
+    </verse>
+  </lyrics>
+</song>

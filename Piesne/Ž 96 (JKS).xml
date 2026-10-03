@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:49">
+  <properties>
+    <titles>
+      <title>Ž 96</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zvestujte všetkým národom zázraky Pánove.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dnes sa nám narodil Spasiteľ, Kristus Pán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hľa, Pán, Boh prichádza so všetkou mocou.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Choďte do celého sveta a hlásajte evanjelium.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pán príde súdiť <br/>všetky národy.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tešte sa, nebesia, <br/>a plesaj, zem.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Vzdávajme Pánovi slávu a česť.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Do tmy na svet</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/> Do tmy na s<chord name="A"/>vet prišlo <chord name="e"/>k nám svetlo s<chord name="G"/>veta.<br/><chord name="D"/> Otvor môj z<chord name="A"/>rak nech vi<chord name="G"/>dím.<br/><chord name="D"/>Krásu lás<chord name="A"/>ky, v ktorej<chord name="e"/> srdce Ti sp<chord name="G"/>ieva,<br/>že s<chord name="D"/>láva a <chord name="A"/>moc Ti pat<chord name="G"/>rí.<chord name="G"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>K<chord name="D"/>ráľ všetkých <chord name="A"/>dní a tiež<chord name="e"/> najvyšší <chord name="G"/>vládca,<br/>s<chord name="D"/>lávnejší <chord name="A"/>nad nebe<chord name="G"/>sá.<br/><chord name="D"/>Ponížil <chord name="A"/>sa, prišiel<chord name="e"/> na Zem, čo s<chord name="G"/>tvoril,<br/>vz<chord name="D"/>dal sa slá<chord name="A"/>vy z lásky k <chord name="G"/>nám.<chord name="G"/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>/:Ja <chord name="A"/>nemám <chord name="h"/>dosť slov<chord name="G"/> opísať<br/>ce<chord name="A"/>nu, kto<chord name="h"/>rú Ťa <chord name="G"/>môj hriech stál:/ - 4x<br/><br/><chord name="A"/>Ref.: 4<chord name="h"/>x<chord name="G"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Prišli sme Ťa v<chord name="D"/>zývať, prišli sme sa sk<chord name="A"/>láňať,<br/>prišli sme Ti <chord name="h"/>vyznať: Si náš <chord name="G"/>Boh.<br/>Si dokonalá <chord name="D"/>láska, dokonale s<chord name="A"/>vätý,<br/>dokonale <chord name="h"/>nádherný ku <chord name="G"/>nám.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Ku krížu dvíham zrak - Nežne zlomený</title>
+    </titles>
+    <authors>
+      <author>Rieka Života</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ku krížu dvíham zrak,ku krížu viniem sa <br/>Pijem z hĺbky Tvojich rán, dielo kríža vyspievam<br/>Na ňom Spasiteľ môj, bitý, týraný<br/>V Ňom Boh Láska je a spravodlivý</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Z kríža Tvoj hlas volá ma,  pozýva na kolená <br/>Viac ja nemám slov, sa celý strácam<br/>V Tvojej láske,  čo nežne láme ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aký vzácny dar, život, ktorý mám <br/>Ten, čo Kristus sám skrze kríž mi daroval<br/>Zo smrti k životu si ma povolal<br/>Nie je viac už Tvoj hnev<br/>Ježišov kríž zmieril ma</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aký vzácny dar, život, ktorý mám <br/>Ten, čo Kristus sám skrze kríž mi daroval<br/>Zo smrti k životu si ma povolal<br/>Nie je viac už Tvoj hnev<br/>Ježišov kríž zmieril ma</lines>
+    </verse>
+    <verse name="e1">
+      <lines>V úžase z kríža vyznať chcem <br/>Jak úžasná spásna láska a veľká Tvoja vernosť je</lines>
+    </verse>
+  </lyrics>
+</song>

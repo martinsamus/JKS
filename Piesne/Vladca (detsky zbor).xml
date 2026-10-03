@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Vladca</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c2 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Každý z nás dúfa v súcit a bezhraničnú lásku,<br/>ó, Pane, zmiluj sa. Každý z nás túži prijímať<br/>milosť odpustenia a nádej spásy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Biedny som, Ty ma prijímaš, všetok môj strach a pády,<br/>ó, Kriste zmiluj sa. Za Tebou túžim kráčať,<br/>si moja pevná nádej, dnes sa Ti dávam.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vládca, vrchmi môže hýbať,<br/>môj Boh je najmocnejší, má moc zachrániť nás.<br/>Víťaz, pôvod večnej spásy,<br/>porazil smrť, z hrobu vstal, Ježiš víťazne vstal.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/:Zažiar svetlom, nech Ťa svet vidí, spievaj,<br/>Tebe sláva, Kráľ môj víťazný, Ježiš!:/</lines>
+    </verse>
+  </lyrics>
+</song>

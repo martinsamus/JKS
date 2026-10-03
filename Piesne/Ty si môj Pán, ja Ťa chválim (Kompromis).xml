@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Ty si môj Pán, ja Ťa chválim</title>
+    </titles>
+    <authors>
+      <author>Kompromis</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|: Ty si môj Pán :|<br/>|: Ja Ťa chválim :|<br/>|: Už mi chýbaš :|<br/>|: Príď k nám :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>R: Sme hladní, Pane príď,<br/>ukáž nám Svoju tvár.<br/>Ty vieš, čo nám chýba.<br/>Pomôž deťom svojim vstať.</lines>
+    </verse>
+  </lyrics>
+</song>

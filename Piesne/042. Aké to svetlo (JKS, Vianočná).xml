@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:36">
+  <properties>
+    <titles>
+      <title>042. Aké to svetlo</title>
+    </titles>
+    <authors>
+      <author>Vianočná</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                                 42.<br/>Aké to svetlo<br/>odrazu vzlietlo<br/>ponad nás?<br/>/:Aký to bájny,<br/>neobyčajný<br/>počuť hlas?:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                                 42.<br/>Badáme všetci,<br/>podivné veci<br/>dajú sa.<br/>/:Čudesné žiare<br/>tu cez chotáre<br/>stelú sa.:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                                 42.<br/>A tú tvár jasnú,<br/>súčasne krásnu<br/>vidíte?<br/>/:Či, bratia, i vy<br/>strach úzkostlivý<br/>cítite?:/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                                 42.<br/>Ó, neľakaj sa,<br/>pastierska chasa,<br/>s vami Pán!<br/>/:Ja, anjel jeho,<br/>blaha všetkého,<br/>spievam vám.:/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.                                                 42.<br/>Dnes objavil sa,<br/>dnes narodil sa<br/>Spasiteľ.<br/>/:Váš a celého<br/>rodu veľkého<br/>tešiteľ.:/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6.                                                 42.<br/>Hľa, tu blesk jasný,<br/>tam plod prekrásny<br/>v jasličkách.<br/>/: Dieťa, syn Boží,<br/>na sene leží<br/>v plienočnách.:/</lines>
+    </verse>
+  </lyrics>
+</song>

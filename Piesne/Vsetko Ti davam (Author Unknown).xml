@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Vsetko Ti davam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="E "/> Všetko<chord name="H"/> ti dávam, <chord name="cis"/>Najvyšší,<br/>všetko<chord name="A"/> pon[ ]úkam, mô<chord name="E"/>j Pán,<br/>[ ] z l<chord name="H"/>ás[ ]ky dar<chord name="cis"/>y prinášam,<br/>s láskou<chord name="A"/> kladiem na olt<chord name="E"/>ár,<chord name="H"/><chord name="cis"/><chord name="A"/><br/>[ ] klad<chord name="E"/>iem<chord name="H"/> na<chord name="cis"/> oltá<chord name="A"/>r.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="E "/> Tajoms<chord name="H"/>tvo[ ] lás<chord name="cis "/>ky, spás<chord name="A"/>y [ ]dar v ch<chord name="E"/>lebe, víne podávaš,<br/>[ ] za<chord name="H"/> to, Otče, <chord name="cis"/>vďačím[ ]e, žehn<chord name="A"/>aj celý ž<chord name="E"/>ivo<chord name="H"/>t n<chord name="cis"/>áš,<chord name="A"/><br/>[ ]cel<chord name="E"/>ý ž<chord name="H"/>ivo<chord name="cis"/>t náš<chord name="A"/>.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>[ ] R.<chord name="E "/>Môj Boh<chord name="H"/> si ty, môj Pán večný,<br/>[ ] chcem<chord name="fis"/> ťa chváliť, tvo<chord name="A"/>jim byť.<br/>[ ] Ty sí<chord name="E"/>l mi daj, tvoj p<chord name="H"/>okrm lieči,<br/>[ fis] ostaň vždy so <chord name="A "/>mnou, môj Pán.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>[ ] R.<chord name="E "/>Môj Boh<chord name="H"/> si ty, môj Pán večný,<br/>[ ] chcem<chord name="fis"/> ťa chváliť, tvo<chord name="A"/>jim byť.<br/>[ ] Ty sí<chord name="E"/>l mi daj, tvoj p<chord name="H"/>okrm lieči,<br/>[ fis] ostaň vždy so <chord name="A "/>mnou, môj Pán.<br/>[ fis] Môj Boh si ty.<chord name="A "/>..</lines>
+    </verse>
+  </lyrics>
+</song>

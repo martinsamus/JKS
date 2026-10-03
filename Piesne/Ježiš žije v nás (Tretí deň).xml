@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Ježiš žije v nás</title>
+    </titles>
+    <authors>
+      <author>Tretí deň</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja viem, on zachránil ma, ja viem, on očistil ma,<br/>ja verím, ja verím. On v nás porazil strach,<br/>zlo v nás zmenil na prach, ja verím, ja verím.<br/>Ježiš je víťaz, tak choď a chválu mu vzdaj.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:Ježiš žije v nás, žije v nás. :/<br/>Dosť bolo pádov, zober zbraň a choď!<br/>Tak zaútočme chválou a poďme tancovať.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ježiš žije v nás!</lines>
+    </verse>
+  </lyrics>
+</song>

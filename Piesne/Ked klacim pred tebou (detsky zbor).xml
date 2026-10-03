@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Ked klacim pred tebou</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Keď kľačím pred tebou, v srdci svojom radosť mám.<br/>Ó, Mária,  Pani naša, svieť mi na ceste v tmách.<br/><br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>R: Ave Maria, gratia plena, Dominus tecum, benedictatum.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Pani naša dobrá, ty vieš, ako ťaží žiaľ.<br/>Horké slzy, ľudský nevďak, svieť mi na ceste v tmách.</lines>
+    </verse>
+  </lyrics>
+</song>

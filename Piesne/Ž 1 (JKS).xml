@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Ž 1</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blažený človek, <br/>čo v Pána skladá dôveru.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Blažený človek, <br/>čo v zákone Pánovom má záľubu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Napodobňujme Boha ako jeho milované deti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pane, kto nasleduje teba, bude mať svetlo života.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tomu, kto zvíťazí, <br/>dám jesť zo stromu života.</lines>
+    </verse>
+  </lyrics>
+</song>

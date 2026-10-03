@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>vesel vianocne doby</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Veselej vianočnej doby, spievajme bratia koledy.<br/>O tom, čo sa v noci stalo, že sa ľuďom narodilo dieťatko.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Dnes sa Ježiš Kristus narodil, aby nás z hriechu oslobodil.<br/>/: Poďme bratia nemeškajme, Ježiškovi sa klaňajme malému:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ježiško náš drahý zrodený, svet ťa zvelebuje spasený.<br/>/: Božie, male, drahé dieťa, spievame Ti, prosíme Ťa, žeh</lines>
+    </verse>
+  </lyrics>
+</song>

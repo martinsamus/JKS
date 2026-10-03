@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Ž 16</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ukáž mi, Pane, cestu života.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moje srdce sa raduje <br/>a plesá moja duša.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ochráň ma, Bože, <br/>k tebe sa utiekam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty, Pane, si moje jediné dobro.</lines>
+    </verse>
+  </lyrics>
+</song>

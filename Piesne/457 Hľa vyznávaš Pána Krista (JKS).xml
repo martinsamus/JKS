@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>457 Hľa vyznávaš Pána Krista</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Hľa, vyznávač Pána Krista, - <br/>jemu Cirkev slávnosť chystá, -<br/>dnes odmenu berie hojnú -<br/>tam u Krista Pána trónu.  -</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vyznávača meno sväté - ... -<br/>buď slávené, -<br/>a skrz česť i chválu jeho -<br/>slávme Boha milostného. -</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Bože, svätý ten v milosti - <br/>proti svetu i márnosti -<br/>vždy pevný stál a bojoval, -<br/>svoju vieru vždy zachoval. -</lines>
+    </verse>
+    <verse name="v4">
+      <lines>On bol čistý, - ponížený, - <br/>za Ježiša rozhorlený, -<br/>učil nás skrz život zbožný, -<br/>ako máme byť pobožní. -</lines>
+    </verse>
+  </lyrics>
+</song>

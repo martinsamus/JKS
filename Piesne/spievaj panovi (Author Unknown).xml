@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>spievaj panovi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spievaj<chord name="D"/> Pánovi pieseň <chord name="A"/>novú,<br/>leb<chord name="e "/>o vykona<chord name="h"/>l veci zázračné,<br/>ví<chord name="D"/>ťazstvo[ ] je dielom jeho p<chord name="A"/>ravice<br/>a <chord name="G"/>jeho svä<chord name="A"/>tého ramena<chord name="h"/>. R:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pá<chord name="G"/>n oznámi<chord name="A"/>l svoju spá<chord name="h"/>su,<br/>pr<chord name="G"/>ed očami<chord name="A"/> pohanov vy<chord name="h"/>javil spravodlivosť.<br/>Ro<chord name="G"/>zpamätal<chord name="A"/> sa na svoj<chord name="h"/>u dobrotu<br/>a <chord name="G"/>na svoju<chord name="A"/> vernosť vo<chord name="h"/>či Izraelovi. R:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Uz<chord name="G"/>reli vše<chord name="A"/>tky končiny<chord name="h"/> zeme<br/>sp<chord name="G"/>ásu nášh<chord name="A"/>o Boha.<chord name="h"/><br/>Na<chord name="G"/> chválu <chord name="A"/>Božiu jasaj<chord name="h"/>, celá zem;<br/>pl<chord name="G"/>esajte, <chord name="A"/>radujte sa <chord name="h"/>a hrajte. R:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>[ ] R: /: Sp<chord name="h"/>ievaj Pánovi, spievaj Pánovi<br/><chord name="G"/> pieseň novú, <chord name="D"/>aleluja,<br/><chord name="e"/> vykonal veci<chord name="A"/> zázračné,<chord name="G"/> al<chord name="A"/>eluj<chord name="h"/>a. :/<br/><chord name="e"/> <chord name="A"/> D <chord name="G"/> <chord name="A"/> A<chord name="h"/></lines>
+    </verse>
+  </lyrics>
+</song>

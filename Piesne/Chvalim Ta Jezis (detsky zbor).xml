@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Chvalim Ta Jezis</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>/:Ani oko nevidelo, ani ucho nepočulo<br/>čo má Boh pripravené pre nás:/<br/>Pre tých, ktorí milujú, pre tých ktorí vzývajú meno Pána,<br/>pre tých, ktorí uveria, pre tých ktorí chvália tvoje meno Pane.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Chválim ťa Ježiš:/ 4x</lines>
+    </verse>
+  </lyrics>
+</song>

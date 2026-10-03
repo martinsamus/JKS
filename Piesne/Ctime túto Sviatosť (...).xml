@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Ctime túto Sviatosť</title>
+    </titles>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ctíme túto Sviatosť slávnu, zbožne skloňme kolená,<br/>bohoslužbu starodávnu, nahraď nová, vznešená;<br/>pomôž zmyslom, ktoré slabnú, viera s láskou spojená.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otcu, Synu jedinému chvála buď a plesanie,<br/>sláva moc a česť ich menu, tak aj dobrorečenie;<br/>od obidvoch Poslanému, rovnaké buď uctenie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Baránok Boží, spása pre všetkých<br/>Kráľ neba i zeme, láskou víťazíš.<br/>Ja skláňam sa, ja skláňam sa, ja skláňam sa.</lines>
+    </verse>
+  </lyrics>
+</song>

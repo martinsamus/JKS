@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Chvalim Ta Jezis</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G "/> /:Ani oko<chord name="D"/> nevidelo, ani ucho nepočulo<br/>čo <chord name="C"/>má Boh <chord name="D"/>pripravené pre nás:/<br/>Pre<chord name="G"/> tý<chord name="D"/>ch, ktorí<chord name="C"/> milu<chord name="D"/>jú, pre<chord name="G"/> tých<chord name="D"/> ktorí <chord name="C"/>vzývajú<chord name="D"/> meno Pána,<br/>pre<chord name="G"/> tý<chord name="D"/>ch, ktorí <chord name="C"/>uver<chord name="D"/>ia, pr<chord name="G"/>e tý<chord name="D"/>ch ktorí<chord name="C"/> chvália tvoje<chord name="D"/> meno Pane.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="G "/> Chvá<chord name="D"/>lim ťa<chord name="C"/> Ježi<chord name="D"/>š:/ 4x</lines>
+    </verse>
+  </lyrics>
+</song>

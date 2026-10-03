@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Vyvyšujem Teba Pane</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vyvyšujem Teba, Pane, nad týmto dňom.<br/>Vyvyšujem Teba, Pane, nad každým človekom,<br/>vyvyšujem Teba, Pane, nad všetkým, čo stvorené je,<br/>vyvyšujem Teba, Pane, nad svojím životom.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vyvyšujem Teba, Pane, nad týmto dňom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vyvyšujem Tvoje meno,<br/>nad každé meno. - 4x</lines>
+    </verse>
+  </lyrics>
+</song>

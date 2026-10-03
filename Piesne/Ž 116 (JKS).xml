@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:49">
+  <properties>
+    <titles>
+      <title>Ž 116</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pred tvárou Pána <br/>budem kráčať v krajine žijúcich.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Čím sa odvďačím Pánovi za všetko, čo mi dal?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Obetu chvály ti, Pane, prinesiem.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prinesiem ti, Pane, obetu chvály.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Tento kalich dobrorečenia <br/>je účasťou na Kristovej krvi.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>V Pánových očiach má veľkú cenu smrť jeho svätých.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Vezmem kalich spásy <br/>a budem vzývať meno Pánovo.</lines>
+    </verse>
+  </lyrics>
+</song>

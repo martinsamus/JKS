@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Ž 17</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Až raz vstanem zo sna, uzriem tvoju tvár, Pane.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja v spravodlivosti <br/>uzriem tvoju tvár, Pane.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nakloň ku mne svoj sluch <br/>a vypočuj moje slová.</lines>
+    </verse>
+  </lyrics>
+</song>

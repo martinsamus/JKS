@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>stastie zdravie</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Šťastie, zdravie, pokoj svätý vinšujeme vám,<br/>všetkým ľuďom dobrej vôle, všetkým stvoreniam.<br/>Zďaleka k vám ideme, novinu vám nesieme,<br/>že sa Kristus Pán narodil v meste Betleme.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V jasliach leží sám Syn Boží na slame,v zime,<br/>v tmavej noci o polnoci dieťa nevinné.<br/>Ó, Ježišku premilý, daj nám všetkým milosti,<br/>by sme rástli v láske k tebe, vo viere, čnosti.</lines>
+    </verse>
+  </lyrics>
+</song>

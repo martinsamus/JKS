@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Môj Boh, vďaka tebe dýcham</title>
+    </titles>
+    <authors>
+      <author>Prijímanie</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Môj Boh, vďaka tebe dýcham,<br/>pre teba tu som<br/>a viem, láskou si ma získal, k sebe priviedol.<br/>Smútok je preč, šťastím ma napĺňaš,<br/>učíš ma láskou žiť.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tvoja láska je silnejšia než vietor,<br/>ona vyššia je, než najvyšší štít,<br/>hlbšia je, než dno oceánov,<br/>zmelina môj svet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ona zmenila môj svet,<br/>ona zmení aj tvoj svet.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Ty ma nesieš sám</title>
+    </titles>
+    <authors>
+      <author>Richard Čanaky</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">TY ma nesieš sám,<br/>Tebe veriť smiem.<br/>TY mi pomáhaš<br/>keď ma láka hriech.</lines>
+      <lines><br/>TY sa dotýkaš hviezd<br/>aj detských sĺz<br/>TY pochopiť vieš.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tebe ustúpia<br/>temné mraky s tmou<br/>ty utíšiš búrky nado mnou.<br/>Tebe nemôže vziať<br/>Tvoju slávu nik,<br/>ani tvoj majestát.:/</lines>
+    </verse>
+    <verse name="c2a">
+      <lines>Ja chválu Tebe vzdám<br/>pred iným sa neskloním<br/>Tvoje meno v srdci mám<br/>Tvoje meno vyslovím!</lines>
+    </verse>
+    <verse name="c2b">
+      <lines>Ja chválu Tebe vzdám<br/>aby Tvoj Duch prúdil mnou<br/>aby uzdravený bol,<br/>kto sa skloní pred Tebou!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Chválu Tebe vzdám,<br/>Chválu Ti vzdám.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Si nádherný</title>
+    </titles>
+    <authors>
+      <author>ESPÉ</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vo svitaní zriem vždy Tvoju tvár<br/>Vo farbách rána Tvoje oči spoznávam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zem táto prebúdza sa vo svetle dňa<br/>Zrak upieram na nebesá<br/>Si nádherný</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mesačná noc, tá Tvojou je<br/>Galaxie svietia, planéty sú v pohybe</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Užasnutí a pod záplavou hviezd <br/>My vyznávame s nimi dnes<br/>Si nádherný</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hľadíme s vďakou na Tvoj vzácny kríž<br/>Kde zomrel si za nás a potom zmŕtvych vstal Ježiš</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Dnes Otcov nebeský trón je aj Tvoj<br/>My chystáme sa za Tebou<br/>Si nádherný</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Na prahu večnosti raz budeme stať<br/>Kde smrť ani slzy nám už nenaženú strach</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Po svoju nevestu si prídeš Ty sám<br/>Tam chceme hľadieť na Tvoju tvar<br/>Si nádherný</lines>
+    </verse>
+  </lyrics>
+</song>

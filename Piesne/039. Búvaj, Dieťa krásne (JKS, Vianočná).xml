@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:36">
+  <properties>
+    <titles>
+      <title>039. Búvaj, Dieťa krásne</title>
+    </titles>
+    <authors>
+      <author>Vianočná</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                                 39.<br/>Búvaj, Dieťa krásne,<br/>uložené v jasle<br/>búvaj, búvaj, Pachoľa;<br/>milostivé Jezuľa!<br/>Budeme ťa kolísať,<br/>abys` mohol dobre spať.<br/>Ježišku náš milý, aby sa ti snili<br/>veľmi krásne sny, veľmi krásne sny.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                                 39.<br/>Drozdy a hrdličky,<br/>chystajte pesničky,<br/>nech sa Dieťa poteší<br/>na tom našom salaši.<br/>Spev škovránka, slávika,<br/>k tomu pekná muzika;<br/>my budeme s vami spievať za jasľami<br/>Synu milému, Synu milému.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                                 39.<br/>Hory, ticho buďte,<br/>dieťa nezobuďte,<br/>nech si ono podrieme<br/>na slame a na sene.<br/>Aj vy, milé fialky,<br/>zaváňajte do diaľky,<br/>zavejte mu vône, Pánovi na tróne,<br/>ticho, sladúčko, ticho, sladúčko.</lines>
+    </verse>
+  </lyrics>
+</song>

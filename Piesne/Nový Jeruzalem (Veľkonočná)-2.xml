@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Nový Jeruzalem</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Veľkonočná</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.<br/>Ty si nás stvoril, dal si nám život,<br/>dal si hviezdy, slnko nad hlavou.<br/>Si náš Pán, dávaš lásku,<br/>chceme ísť za Tebou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>R:<br/>Aleluja, aleluja, ale - aleluja,<br/>ale -aleluja, aleluja, aleluja</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2.  <br/>Mal si nás rád, dal si nám všetko,<br/>potom si videl náš hrozný pád.<br/>Videl si nás blúdiť v tmách,<br/>však Ty nás máš stále rád.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3.<br/>Vďaka Ti, Pane, za nový život,<br/>za nové mesto, nový Jeruzalem.<br/>Vojdú tam tí, čo vrátili sa späť,<br/>ja tam tiež bývať chcem.</lines>
+    </verse>
+  </lyrics>
+</song>

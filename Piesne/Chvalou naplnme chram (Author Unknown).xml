@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Chvalou naplnme chram</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="F C"/> Kráčajúc v de<chord name="B"/>jiná<chord name="B"/>ch, pevn<chord name="C"/>e stáť rad<chord name="d"/>ostní<br/>je<chord name="B"/> výsado<chord name="C"/>u pre <chord name="A"/>tých, kt<chord name="d"/>orí s<chord name="B "/>poznali<chord name="C"/>, kto je Kráľ.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Se<chord name="B"/>m do Pá<chord name="C"/>nových<chord name="A"/> rúk odl<chord name="d"/>ož ťa<chord name="B "/>rchu a <chord name="C"/>kríž<br/>a <chord name="B"/>s nádej<chord name="C"/>ou, čo<chord name="A"/> vníma c<chord name="d"/>ieľ, <chord name="B "/>Božiu t<chord name="C"/>vár uvidíš.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bo<chord name="B"/>h pravý<chord name="C"/> pokoj<chord name="A"/> dá, čis<chord name="d"/>tým p<chord name="B "/>rúdom j<chord name="C"/>e Pán,<br/>le<chord name="B"/>n on m<chord name="C"/>a s lá<chord name="A"/>skou pri<chord name="d"/>vedie<chord name="B "/> k nebe<chord name="C"/>ským pastvinám.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: <chord name="F"/>Chvá<chord name="B"/>lou n<chord name="C"/>aplňme c<chord name="A"/>hrám, lebo <chord name="d"/>Pá<chord name="B"/>n je b<chord name="g"/>lízko<chord name="C"/>.<br/><chord name="F"/>Chvá<chord name="B"/>lou<chord name="C"/> naplňme<chord name="A"/> chrám, lebo <chord name="d"/>vchádza <chord name="C"/>náš Pá<chord name="F"/>n.:/</lines>
+    </verse>
+  </lyrics>
+</song>

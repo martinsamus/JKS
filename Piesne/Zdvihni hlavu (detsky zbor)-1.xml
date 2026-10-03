@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-20T07:11:19">
+  <properties>
+    <titles>
+      <title>Zdvihni hlavu</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Budem ťa chrániť.<br/>A budem ťa viesť.<br/>Nemusíš báť sa už nových ciest.<br/>Rozdávaj radosť, pokoj a smiech.<br/>A povedz to všetkým:<br/>„BUĎTE RADOSTNÍ"</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Zdvihni hlavu a pozeraj sa hore,<br/>Boh práve robí v tebe niečo nové.<br/>Neobzeraj sa! Nevrav: „ Na to nemám!"<br/>Zostaň pri mne. Ja si ťa nedám.</lines>
+    </verse>
+  </lyrics>
+</song>

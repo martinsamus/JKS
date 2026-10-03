@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Hosana, hosana, hosana na výsostiach</title>
+    </titles>
+    <verseOrder>v1 v2</verseOrder>
+    <ccliNo>240310</ccliNo>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[:H<chord name="F"/>osana, h<chord name="C"/>osana,<chord name="d"/> hosana na<chord name="B"/> výso<chord name="C"/>stiach!:]<br/><chord name="B"/> Vyv<chord name="C"/>yšujeme<chord name="F"/> Ťa,<chord name="B"/> Ježiš<chord name="C"/> vzývame<chord name="F"/> Ťa,<br/><chord name="B"/> všetci <chord name="C"/>chválu Ti<chord name="F"/> vzd<chord name="A7"/>áva<chord name="d"/>me,<br/><chord name="B"/> Hosana na<chord name="C"/> výso<chord name="F"/>stiach.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="B"/> [: Sláva,<chord name="C"/> sláv<chord name="F"/>a, sláva Kráľovi Kráľov :]<br/><chord name="B"/> Vyvyšujem<chord name="C"/>e Ťa,<chord name="F"/> Ježiš vzývame Ťa,<br/><chord name="B"/> všetci ch<chord name="C"/>válu <chord name="F"/>Ti vzdávame,<br/><chord name="B"/> sláva Krá<chord name="C"/>ľovi <chord name="F"/>Kráľov.</lines>
+    </verse>
+  </lyrics>
+</song>

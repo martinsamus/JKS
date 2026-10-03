@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-21T07:22:21">
+  <properties>
+    <titles>
+      <title>Pane ymiluj sa-moravské</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pane, zmiluj sa.<br/>Kriste, zmiluj sa.<br/>Pane, zmiluj sa.</lines>
+    </verse>
+  </lyrics>
+</song>

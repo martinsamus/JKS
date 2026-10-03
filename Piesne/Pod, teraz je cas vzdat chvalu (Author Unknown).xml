@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pod, teraz je cas vzdat chvalu</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/> Poď,<chord name="D5"/> teraz je čas vzda<chord name="G(D2)"/>ť chvá<chord name="D"/>lu,<br/><chord name="A"/> poď, srdce svoje mu s<chord name="e"/> láskou<chord name="G"/> daj.<br/><chord name="D"/> Poď,<chord name="D5"/> taký aký si<chord name="G(D2)"/> chváľ<chord name="D"/> Ho,<br/><chord name="A"/>poď, predstúp pred Kráľa <chord name="e"/>prijme<chord name="G"/> ťa.<chord name="D"/> Poď!<chord name="D7"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="D"/> Poď,<chord name="D5"/> teraz je čas vzdať<chord name="G(D2)"/> chvál<chord name="D"/>u,<br/><chord name="A"/> poď, srdce svoje mu <chord name="e"/>s lásko<chord name="G"/>u daj. Tak<chord name="D"/> poď!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:<chord name="G"/>Každý jazyk v ten deň vyz<chord name="D"/>ná: Ty si Pán!<br/><chord name="G"/>Každý Ti raz úctu v<chord name="D"/>zdá.<br/><chord name="G"/>Tým, čo teraz s láskou Ťa hľa<chord name="h"/>dajú,<br/>Ty<chord name="e7"/> poklad vzácny<chord name="A4"/> dá-<chord name="A"/>áš. :/</lines>
+    </verse>
+  </lyrics>
+</song>

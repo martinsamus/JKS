@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Otváram srdce</title>
+    </titles>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>[: Otváram srdce dokorán,<br/>nech prúdi Tvoj Duch,<br/>nech prúdi Tvoj Duch. :]</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tam, kde vstúpiš Ty, tma sa vytratí<br/>a strach už nemá moc, ovládať každý krok.<br/>Tam, kde vládneš Ty, láska víťazí, a dáva silu ísť.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>[: So srdcom otvoreným, znovu bežíme za Tebou. :]</lines>
+    </verse>
+  </lyrics>
+</song>

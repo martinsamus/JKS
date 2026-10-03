@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:38">
+  <properties>
+    <titles>
+      <title>185.</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. K večeri sa zbližuje, ó kresťania, s pobožnosťou, <br/>k oltáru pristupujte, zve vás Ježiš s úprimnosťou<br/>|: k stolu, pri ktorom seba dáva za pokrm z neba :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Tak, hľa, nás Pán miloval z nesmierneho zmilovania, <br/>to, čo na smrť venoval, telo, dal v dar požívania<br/>|: Chcel nas urobiť šťastných, zásluh smrti účastných :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. V prevelebnej Sviatosti z lásky veľkej kým dokonal, <br/>prehojný on milostí poklad svojim verným podal,<br/>|: kto ju hodne prijíma, slasti večné prežíva :|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Moc hodného prijímania v láske božej utvrdzuje, <br/>úklad diablov rozháňa, zlé žiadosti oslabuje,<br/>|: napomáha v slabosti, dodáva nám milosti :|</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Poďte už s dôvernosťou, ó kresťania spravodliví, <br/>priblížte sa s radosťou, v láske v Krista vždy horliví,<br/>|: prijmite chlieb nebesky, pravý pokrm anjelský :|</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Toto je ten chlieb Boží, ktorý dušu posilňuje, <br/>svätú milosť v nás množí, večnú spásu udeľuje,<br/>|: pristúpte len z vrúcnosti k tomu zdroju milosti :|</lines>
+    </verse>
+  </lyrics>
+</song>

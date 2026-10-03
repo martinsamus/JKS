@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Tí, čo sú smädní</title>
+    </titles>
+    <authors>
+      <author>Rieka Života</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tí, čo sú smädní, zoslabnutí<br/>Nech nájdu prameň<br/>a ponoria srdcia v ňom</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Smútok a bolesť sa odplavia z nás<br/>Na vlnách lásky<br/>voláme z hĺbky zas:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Príď, ó, Ježiš, príď...</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Duchu Svätý, príď...</lines>
+    </verse>
+  </lyrics>
+</song>

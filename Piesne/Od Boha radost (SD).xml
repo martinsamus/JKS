@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Od Boha radost</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>SD</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/> Od<chord name="C"/> Bo<chord name="D"/>ha <chord name="G"/>radosť, radosť v srdiečku mám (KDE?)<br/><br/><chord name="D"/> V srdiečku mám. (KDE?)<br/><br/><chord name="G"/> V srdiečku mám.Od Boha radosť, radosť v srdiečku mám (KDE?)<br/><br/><chord name="D "/> V srdieč<chord name="G"/>ku r<chord name="G7"/>adosť mám.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Som t<chord name="C"/>aký šťastný, tak veľmi šťa<chord name="G"/>stný,<br/>že v <chord name="D"/>srdci radosť od Boha <chord name="G"/>MÁÁÁ<chord name="G7"/>M.<br/>Som taký<chord name="C"/> šťastný, tak veľmi š<chord name="G"/>ťastný,<br/>že v s<chord name="D"/>rdci radosť od Boha má<chord name="G"/>m.[(GCG)]</lines>
+    </verse>
+  </lyrics>
+</song>

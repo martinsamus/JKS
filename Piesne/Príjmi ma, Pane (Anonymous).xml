@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Príjmi ma, Pane</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prijmi ma, Pane, takú, aká som,<br/>cez kňazské dlane buď mi pokrmom.<br/>Premeň ma, Pane, vtlač mi obraz svoj<br/>navždy do srdca, Bože môj</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prijmi nás, Pane takých, akí sme,<br/>cez kňazské dlane sa Ťa nasýťme.<br/>Urob z nás, Pane takých, akých chceš,<br/>veď iba Ty to dokážeš</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Z chleba, vína pre nás, Pane, zrazu - si Ty sám,<br/>keď sa tento zázrak stane, v úžase padám (na kolená)<br/>Keď sa chlieb a víno na Tvoj život premení,<br/>premeň aj nás, nech sme spasení.</lines>
+    </verse>
+  </lyrics>
+</song>

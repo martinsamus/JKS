@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Spievam Tebe Pane Boze moju modlitbu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c2</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Spievam Tebe, Pane Bože,<br/>moju modlitbu.<br/>Prosiť Ťa dnes chcem za moju<br/>dobrú mamičku-</lines>
+      <lines>aby vždy šťastná bola,<br/>aby sa vždy usmievala,<br/>aby ocko ju vždy ľúbil,<br/>aby Tvoj pokoj v duši mala.<br/>Otče na nebi, vypočuj ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">Veľkú prosbu mám dnes aj za<br/>môjho otecka -<br/>daj mu prácu, daj mu silu<br/>zvládnuť každý nový deň,</lines>
+      <lines>keď sa ráno prebudí,<br/>Tvoja milosť nech ho naplní,<br/>keď nevládze už ďalej ísť,<br/>Tvoja ruka nech ho podrží.<br/>Otče na nebi vypočuj ma.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Žehnaj nás a buď vždy s nami.<br/>Ty si náš Pán, Ty nás ochrániš.<br/>Žehnaj nás a buď vždy s nami.<br/>Otče na nebi, vypočuj ma.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Žehnaj nás a buď vždy s nami.<br/>Ty si náš Pán, Ty nás ochrániš.<br/>Žehnaj nás a buď vždy s nami.<br/>Ja veľmi dobre viem, že máš nás rád.</lines>
+    </verse>
+  </lyrics>
+</song>

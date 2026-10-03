@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:36">
+  <properties>
+    <titles>
+      <title>052. Do mesta Betlema</title>
+    </titles>
+    <authors>
+      <author>Vianočná</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                                 52.<br/>Do mesta Betlema pospiechajme,<br/>pri jasliach kolená zohýbajme.<br/>/:Kristu v sviatosti,<br/>v poníženosti:/ sa klaňajme.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                                 52.<br/>Z neba k nám zostúpil, nás miloval,<br/>aby nás vykúpil, telo si vzal.<br/>/:Mnohé úzkosti<br/>v ľudskej bytosti: / okusoval.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                                 52.<br/>V jasliach si vložený narodený,<br/>by hriešnik stratený bol spasený.<br/>/:V tejto Sviatosti<br/>si nám z milosti:/ sprítomnený.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                                 52.<br/>Predrahý Spasiteľ, Kriste milý,<br/>daj duši i telu ráznej sily.<br/>/:Chcem ťa milovať<br/>a nasledovať:/ v každej chvíli.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.                                                 52.<br/>Deň čo deň ku smrti sa blížime,<br/>nech ťa v radovaní tam uzrieme<br/>/:v Betleme večnom,<br/>v speve srdečnom:/ teba ctíme.</lines>
+    </verse>
+  </lyrics>
+</song>

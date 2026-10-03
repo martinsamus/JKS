@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Spievam Tebe Pane Boze moju modlitbu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><chord name="D"/>Spievam Tebe, Pane Bože,<br/><chord name="G"/>moju modlitbu.<br/><chord name="D"/>Prosiť Ťa dnes chcem za moju<br/><chord name="G"/>dobrú mamičku-</lines>
+      <lines>aby <chord name="e"/>vždy šťastná <chord name="A"/>bola,<br/>aby sa v<chord name="D"/>ždy usmi<chord name="h"/>evala,<br/>aby<chord name="e"/> ocko ju vždy <chord name="A"/>ľúbil,<br/>aby Tvoj<chord name="D"/> pokoj v duši<chord name="h"/> mala.<br/><chord name="D"/>Otče na ne<chord name="G"/>bi, v<chord name="A"/>ypočuj<chord name="D"/> ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional"><chord name="D"/>Veľkú prosbu mám dnes aj za<br/><chord name="G"/>môjho otecka -<br/><chord name="D"/>daj mu prácu, daj mu silu<br/>z<chord name="G"/>vládnuť každý nový deň,</lines>
+      <lines>keď sa <chord name="e"/>ráno pr<chord name="A"/>ebudí,<br/>Tvoja <chord name="D"/>milosť nech ho<chord name="h"/> naplní,<br/>keď <chord name="e"/>nevládze už<chord name="A"/> ďalej ísť,<br/><chord name="D"/>Tvoja ruka nech ho <chord name="h"/>podrží.<br/><chord name="D"/>Otče na n<chord name="G"/>ebi vy<chord name="A"/>počuj<chord name="D"/> ma.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="G"/>Žehnaj <chord name="A"/>nás a <chord name="D"/>buď vždy s n<chord name="h"/>ami.<br/><chord name="G"/>Ty si náš <chord name="A"/>Pán, <chord name="D"/>Ty nás ochrá<chord name="D7"/>niš.<br/><chord name="G"/>Žehnaj <chord name="A"/>nás a <chord name="D"/>buď vždy s n<chord name="h"/>ami.<br/><chord name="D"/>Otče na ne<chord name="G"/>bi, vy<chord name="A"/>počuj <chord name="D"/>ma.</lines>
+    </verse>
+    <verse name="c2">
+      <lines><chord name="G"/>Žehnaj <chord name="A"/>nás a <chord name="D"/>buď vždy s n<chord name="h"/>ami.<br/><chord name="G"/>Ty si náš <chord name="A"/>Pán, <chord name="D"/>Ty nás ochrá<chord name="D7"/>niš.<br/><chord name="G"/>Žehnaj <chord name="A"/>nás a <chord name="D"/>buď vždy s n<chord name="h"/>ami.<br/>Ja <chord name="D"/>veľmi dobre v<chord name="G"/>iem, že <chord name="A"/>máš nás <chord name="D"/>rád.</lines>
+    </verse>
+  </lyrics>
+</song>

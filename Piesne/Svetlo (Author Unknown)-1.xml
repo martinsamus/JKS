@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Svetlo</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ja v srdci svetlo mám, nech stále vo mne plá,<br/>ja v srdci svetlo mám, nech stále vo mne plá,<br/>ja v srdci svetlo mám, nech stále vo mne plá,<br/>či je hmla, či je noc, či je tma</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Kamkoľvek pôjdem len, nech stále vo mne plá,<br/>kamkoľvek pôjdem len, nech stále vo mne plá,<br/>kamkoľvek pôjdem len, nech stále vo mne plá,<br/>či je hmla, či je noc, či je tma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Dal mi ho Ježiš sám, nech stále vo mne plá,<br/>dal mi ho Ježiš sám, nech stále vo mne plá,<br/>dal mi ho Ježiš sám, nech stále vo mne plá,<br/>či je hmla, či je noc, či je tma.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. This little light of mine, I’m gonna let it shine,<br/>this little light of mine, I’m gonna let it shine,<br/>this little light of mine, I’m gonna let it shine,<br/>let it shine, let it shine, let it shine.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Everywhere I go, I’m gonna let it shine,<br/>everywhere I go, I’m gonna let it shine,<br/>everywhere I go, I’m gonna let it shine,<br/>let it shine, let it shine, let it shine.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Jesus gave it to me, I’m gonna let it shine<br/>jesus gave it to me, I’m gonna let it shine,<br/>jesus gave it to me, I’m gonna let it shine,<br/>let it shine, let it shine, let it shine.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Trouble knocking at my door today</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3 c1 v4 c2</verseOrder>
+    <authors>
+      <author>ANJ omša</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Trouble knocking at my door today<br/>I ain´t gonna let it in<br/>And worry wanna steal my joy away<br/>But I ain´t gonna let it win</lines>
+    </verse>
+    <verse name="v2">
+      <lines>B: ´Cause on my best day, I´m a child of God<br/>On my worst day, I´m a child of God<br/>Oh, every day is a good day<br/>And You´re the reason why</lines>
+    </verse>
+    <verse name="v3">
+      <lines>And when I count the problems that I see<br/>Hope looks all, but gone (yeah)<br/>But when I count the ways You´re good to me<br/>You got me counting all day long, oh, yeah!</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">CH: I´m so blessed, I´m so blessed<br/>Got this heartbeat in my chest<br/>No, it doesn´t matter about the rest<br/>If I got You, Lord, I´m so blessed</lines>
+      <lines>CH: I´m so blessed, I´m so blessed<br/>Got this heartbeat in my chest<br/>No, it doesn´t matter about the rest<br/>If I got You, Lord, I´m so blessed</lines>
+    </verse>
+    <verse name="c2">
+      <lines>CH: I´m so blessed, I´m so blessed<br/>Got this heartbeat in my chest<br/>No, it doesn´t matter about the rest<br/>If I got You, Lord, I´m so blessed</lines>
+    </verse>
+  </lyrics>
+</song>

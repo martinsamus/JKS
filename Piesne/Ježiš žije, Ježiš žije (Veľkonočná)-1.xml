@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Ježiš žije, Ježiš žije</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Veľkonočná</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>R: |: Ježiš žije! Ježiš žije!<br/>všetci ľudia nech to vedia: Ježiš žije! :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Všetci z mŕtvych vstaneme, (3x)<br/>jak On. Aleluja, bratia!<br/>Vtedy, až sa skončí čas,<br/>Ježiš Kristus príde zas<br/>a my všetci z mŕtvych vstaneme jak On.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. A On s nami zostane, (3x)<br/>náš Pán. Aleluja, bratia!<br/>Nech sa každý pridá k nám,<br/>nikto nemusí byť sám,<br/>Ježiš s nami zostane, jak sľúbil nám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. On je veľký pomocník, (3x)<br/>aj tvoj. Aleluja bratia!<br/>Otázniky, ktoré máš,<br/>všetko, s čím sa stretávaš!<br/>Ježiš chce byť pomocníkom všetkých nás.</lines>
+    </verse>
+  </lyrics>
+</song>

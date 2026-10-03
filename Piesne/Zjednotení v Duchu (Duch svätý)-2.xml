@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Zjednotení v Duchu</title>
+    </titles>
+    <authors>
+      <author>Duch svätý</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Zjednotení v Duchu, zjednotení s ním, <br/>zjednotení v Duchu, zjednotení s ním,<br/>prosíme by jednota bola obnovená v nás,<br/>aby svet celý poznal svedkov Kristových v nás,<br/>aby svet celý uzrel lásku v nás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Pôjdeme verne spolu, podaj mi svoju dlaň, <br/>pôjdeme verne spolu, podaj mi svoju dlaň,<br/>budeme ľuďom hlásať radostnú zvesť nádeje,<br/>že náš Pán kráča s nami, že náš Pán s nami je,<br/>že nás všetkých nekonečne miluje.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Pán nám dáva poslanie, posvätiť tento svet, <br/>Pán nám dáva poslanie posvätiť tento svet,<br/>chrániť dôstojnosť ľudskú, ktorou Boh obdaril nás,<br/>rozvíjať dary srdca, rozvíjať viery jas,<br/>šíriť lásku Krista, ktorý žije v nás.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Nech znie chvála Otcovi, ktorý stvoril náš svet, <br/>nech znie chvála Otcovi, ktorý stvoril náš svet,<br/>chvála buď Ježišovi, ktorý je náš Spasiteľ.<br/>Duchu tiež vzdajme chválu, ktorý prebýva v nás,<br/>Duchu vzdajme chválu, ktorý žije v nás.</lines>
+    </verse>
+  </lyrics>
+</song>

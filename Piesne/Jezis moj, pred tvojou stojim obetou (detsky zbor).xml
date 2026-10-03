@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Jezis moj, pred tvojou stojim obetou</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 c2</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ježiš môj pred tvojou stojím obetou,<br/>stal si sa bláznom zomrieť si šiel,<br/>mnohokrát ja žasnem ako máš nás rád<br/>a /:stojím tu dnes ešte raz :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Najvyšší si teraz Ježiš na nebi,<br/>nebeský vládca raz budem tam stáť,<br/>teraz však tu žasnem ako máš ma rád<br/>a /:chválu Ti vzdám ešte raz:/</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: A znova hľadím na kríž kde si svoj život dal,<br/>som pokorený láskou srdce zlomené mám,<br/>znova ďakujem Ti, ďakujem svoj život Ti dám. :/</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/: Vďaka za tvoj kríž, vďaka za tvoj kríž,<br/>vďaka za tvoj kríž priateľ môj. :/</lines>
+    </verse>
+  </lyrics>
+</song>

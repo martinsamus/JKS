@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pieseň k Duchu Svätému</title>
+    </titles>
+    <authors>
+      <author>Večeradlo s Pannou Máriou</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu Svätý príď z neba<br/>a vydať ráč zo seba.<br/>Žiaru svetla pravého,<br/>žiaru svetla pravého.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Príď k nám Otče strápených,<br/>darca darov sľúbených,<br/>Svetlo  srdca bôľneho,<br/>svetlo srdca bôľneho.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Najvernejší Tešiteľ,<br/>poslal ťa nám Spasiteľ,<br/>Ty sladké občerstvenie,<br/>Ty sladké občerstvenie.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Príď k nám, príď k nám, Duchu Svätý,<br/>príď k nám Duchu Presvätý.</lines>
+    </verse>
+  </lyrics>
+</song>

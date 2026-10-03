@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-16T05:48:15">
+  <properties>
+    <titles>
+      <title>Diamant</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>My diamant v srdci vzácny strážime a radostnú pieseň spievame, sme šťastní a vôbec to neskrývame a Máriu stále voláme.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Ja viem, že len s Tebou to dokážem vždy kráčať tou cestou, na ktorej Ježiš kraľuje.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja chcem vždy len smutným bratom rozprávať, že len s vierou môžu život krásny mať.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Som šťastný, nie sám, tú radosť všetkým vysielam a chcem dnes zablúdeným krásnu Pannu privolať.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Len žiar a svieť všetkým ľuďom v tmách, nech kráčajú tou cestou, ktorou kráčal Kristus sám.</lines>
+    </verse>
+  </lyrics>
+</song>

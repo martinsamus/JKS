@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>Boh je tak blízko nás</title>
+    </titles>
+    <authors>
+      <author>Advent</author>
+      <author>Začiatok</author>
+      <author>Pôstna</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|: Boh je tak blízko nás,<br/>Boh je tak blízko nás,<br/>Boh je v nás. :|<br/><br/>|: Ty si ten dar od Otca nám,<br/>Ty si tá láska, čo prišla k nám,<br/>Ty si nás z hriechu vykúpiť chcel,<br/>Emanuel. :|</lines>
+    </verse>
+  </lyrics>
+</song>

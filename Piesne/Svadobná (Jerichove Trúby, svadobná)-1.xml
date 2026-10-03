@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Svadobná</title>
+    </titles>
+    <authors>
+      <author>Jerichove Trúby</author>
+      <author>svadobná</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Keď dievča v bielom závoji stane si s tebou pred oltár,<br/>Jej nežné „Áno“ zazvoní, dáte si seba ako dar.<br/>Ó... dáte si seba ako dar.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A potom spolu životom, po ceste, ktorá svietiť má<br/>Pôjdete spolu v dobrom, zlom, až kdesi hore do neba,<br/>Ó... až kdesi hore do neba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>|: Nech Boh stále bdie nad vami, Nech vám svoju milosť dá<br/>Aby ste kráčali vždy jeho cestami, tam je láska úprimná :|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>+ na záver      tam je láska úprimná    2x</lines>
+    </verse>
+  </lyrics>
+</song>

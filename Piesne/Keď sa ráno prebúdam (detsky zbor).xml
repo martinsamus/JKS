@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Keď sa ráno prebúdam</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Keď sa ráno zobúdzam ty ma s láskou pohladíš<br/>a keď večer zaspávam na čielko mi dávaš kríž.<br/>Keď som smutná potešíš s tebou učím sa a hrám<br/>je to super mamka, že ťa mám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Ja keď občas smutná som<br/>rýchlo bežím za ockom je môj dobrý kamarát<br/>pomáha mi toľkokrát. Veľa vecí opraví<br/>dobrodružstvá pripraví.<br/>S ockom je vždy veľa zábavy.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>R. Vďaka za ocka, vďaka za mamu,<br/>dobre že mám ho, dobre že mám ju.<br/>Prosím ťa Bože, požehnaj<br/>nás nech v našej rodine<br/>môžme spolu tešiť sa a rásť.</lines>
+    </verse>
+  </lyrics>
+</song>

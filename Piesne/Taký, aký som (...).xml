@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Taký, aký som</title>
+    </titles>
+    <verseOrder>v1 o1 c1 o2</verseOrder>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dvíham ruky aj keď k zemi padám<br/>dnes túžim vzdať Ti chválu,<br/>nechať všetko, prísť k Tebe Kráľ</lines>
+    </verse>
+    <verse name="o1">
+      <lines>A hľadám Teba aj keď seba strácam,<br/>na všetko čo je za mnou zabúdam<br/>za Tebou utekám</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Taký aký som,<br/>nahý pred Tebou,<br/>nechám sa premeniť,<br/>nechám sa láskou zlomiť.</lines>
+    </verse>
+    <verse name="o2">
+      <lines>Vzdávam sa svojich predstáv,<br/>Vzdávam sa svojich snov,<br/>Žiaden strach a žiaden vzdor<br/>Celý som Tvoj</lines>
+    </verse>
+  </lyrics>
+</song>

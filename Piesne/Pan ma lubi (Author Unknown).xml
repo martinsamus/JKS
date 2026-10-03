@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pan ma lubi</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="A E "/> Pán ma ľúbi<chord name="A "/>, ja to <chord name="D"/>viem a ja chcem žiť iba preň:/<br/><chord name="A "/> Na na na n<chord name="E"/>a na na- hu<br/><chord name="A "/> Na na na n<chord name="D"/>a na na -ššš<br/><chord name="A "/> Na na na n<chord name="E "/>a na na<chord name="A "/> - <chord name="E"/> , c<chord name="A"/>hcem žiť iba preň.<br/><chord name="A "/> Ježiš<chord name="D "/> ma ľúb<chord name="A E "/>i, //J<chord name="A "/>ežiš m<chord name="D"/>a ľúbi, //Ježiš ma ľúbi /<br/><chord name="A "/> Chcem<chord name="E "/> ži<chord name="A"/>ť iba preň.</lines>
+    </verse>
+  </lyrics>
+</song>

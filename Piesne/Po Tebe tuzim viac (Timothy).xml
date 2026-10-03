@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Po Tebe tuzim viac</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Timothy</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Po Tebe<chord name="F#mi"/> túžim viac<chord name="D"/><br/>môj Boh a <chord name="A"/>Pán,<br/>v nádvoriach<chord name="F#mi"/> Boha živé<chord name="D"/>ho<br/>chcem prebý<chord name="A"/>vať.</lines>
+      <lines>Tiahni ma,<chord name="F#mi"/> pobežím<chord name="D"/><br/>za Tebou <chord name="A"/>rád,<br/>veď sladšia<chord name="F#mi"/> ako víno <chord name="D"/>je<br/>Tvoja lás<chord name="A"/>ka.<chord name="E"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Zobuď ma<chord name="F#mi"/> ranným slnkom<br/><chord name="D"/> oblej ma lúč<chord name="A"/>ami<chord name="E"/>.<br/>Nech moja<chord name="F#mi"/> tvár mi žiari<br/><chord name="D"/> od Tvojej návšte<chord name="A"/>vy.<chord name="E"/></lines>
+      <lines>Nech oblak<chord name="F#mi"/> Božej slávy<br/><chord name="D"/>môj svet mi napl<chord name="A"/>ní.<chord name="E"/><br/>Prebuď, čo<chord name="F#mi"/> vo mne drieme,<chord name="D"/><br/>obnov, čo vo mne <chord name="A"/>spí<chord name="E"/>.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Dnes chcel by som Ti dat</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dnes ch<chord name="D"/>cel by som Ti <chord name="A"/>dať <chord name="h"/>to, čo v srdci <chord name="G"/>mám.<br/><chord name="D"/> Dávam na ol<chord name="h"/>tár k Tvojim <chord name="A"/>nohám kráľov <chord name="D"/>Kráľ.<br/><br/>Dnes k<chord name="D"/>ladiem svoje <chord name="A"/>sny, ja sa zr<chord name="h"/>iekam svojich <chord name="G"/>práv,<br/>už<chord name="D"/> nechcem pyšný<chord name="h"/> stáť, chcem <chord name="A"/>nový živo<chord name="DD4"/>t mať...</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keď <chord name="D"/>túto pieseň h<chord name="A"/>rám, pod <chord name="h"/>krížom stojím <chord name="G"/>sám<br/>a <chord name="D"/>všetky bohatst<chord name="h"/>vá za s<chord name="A"/>meti pokla<chord name="D"/>dám.<br/><br/>Chcem<chord name="D"/> poznať Teba <chord name="A"/>Kráľ, slávu <chord name="h"/>mena, ktoré <chord name="G"/>máš,<br/>tá<chord name="D"/> radosť neko<chord name="h"/>nčí, aj keď s <chord name="A"/>Tebou trpieť<chord name="DD4"/> mám...</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: A<chord name="Hmi"/> dá <chord name="A"/>-á-vam<chord name="D"/> všetko,<chord name="G"/> to čo <chord name="D"/>mám,<chord name="Hmi"/> Tebe, <chord name="A"/>kráľ.:/[(G2]<chord name="A4)"/></lines>
+    </verse>
+  </lyrics>
+</song>

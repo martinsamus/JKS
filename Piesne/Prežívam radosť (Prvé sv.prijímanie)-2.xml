@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Prežívam radosť</title>
+    </titles>
+    <authors>
+      <author>Prvé sv.prijímanie</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Prežívam RADOSŤ, radosť v srdci svojom.<br/>Kde? V srdci svojom. Kde? V srdci svojom.<br/>Prežívam radosť, radosť v srdci svojom.<br/>Kde? V srdci svojom JU mám.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>R: |: Som taký šťastný, tak veľmi šťastný, <br/>že Ježiša už v srdci svojom mám. :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>POKOJ</lines>
+    </verse>
+    <verse name="v4">
+      <lines>ŠŤASTIE</lines>
+    </verse>
+    <verse name="v5">
+      <lines>LÁSKU</lines>
+    </verse>
+  </lyrics>
+</song>

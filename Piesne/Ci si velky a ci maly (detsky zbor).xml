@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Ci si velky a ci maly</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1 v2 v3</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Či si veľký a či malý, taký akurát.<br/>Boh ťa má rád.<br/><br/>Či si tučný a či chudý, taký akurát.<br/>Boh ťa má rád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On ťa miluje keď sa smeješ,<br/>On ťa miluje aj keď plačeš,<br/><br/>On ťa miluje keď sa mračíš,<br/>On ťa miluje aj keď spíš.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Je to jedno jak sa cítiš<br/>a jak vyzeráš,<br/>Boh ťa má rád.</lines>
+    </verse>
+  </lyrics>
+</song>

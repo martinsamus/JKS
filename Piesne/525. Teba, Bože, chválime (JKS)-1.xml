@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>525. Teba, Bože, chválime</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                525.<br/>Teba, Bože, chválime,<br/>Teba, Pána, vyznávame,<br/>meno tvoje slávime,<br/>vrúcne vďaky ti vzdávame;<br/>|: teba, Otca večnosti,<br/>zem celá vždy chváli, ctí. :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                525.<br/>Cherubíni, anjeli<br/>bez prestania oslavujú;<br/>Serafíni horliví<br/>""""Svätý!"""" stále prespevujú:<br/>|: svätý Boh na výsosti<br/>presvätý Pán mocností :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                525.<br/>Plné sú zem, nebesá<br/>tvojej slávy, velebnosti,<br/>apoštolský zbor plesá<br/>a velebí ťa z vďačnosti.<br/>|: Proroci sa klaňajú,<br/>mučeníci česť vzdávajú :|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                525.<br/>Teba, Otca slávneho,<br/>Cirkev svätá zvelebuje,<br/>Syna tvojho pravého<br/>v celom svete vychvaľuje;<br/>|: tak i Ducha Svätého,<br/>Tešiteľa verného. :|</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.                                525.<br/>Slávy Kráľ si, Kriste náš<br/>Otca Syn si od večnosti;<br/>večnej slávy berlu máš,<br/>stúpils' k nám na svet z výsosti;<br/>|: skrze smrť a vzkriesenie<br/>získal si nám spasenie. :|</lines>
+    </verse>
+  </lyrics>
+</song>

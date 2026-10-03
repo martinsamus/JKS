@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Túžim priniesť na oltár</title>
+    </titles>
+    <authors>
+      <author>Richard Čanaky</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Túžim priniesť na oltár, <br/>život, čo v sebe mám,<br/>tvojou láskou zlomený,<br/>chcem Ťa chváliť, môj Pán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chcem Ti vydať práve dnes <br/>každú časť života,<br/>viem, že prijmeš každý dar<br/>zlomeného srdca.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Povedz, čo Ti smiem dať, <br/>čo priniesť Ti smiem,<br/>si môj láskavý Kráľ,<br/>ja len miznúci tieň,</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ježiš, viac nemám slov, <br/>pieseň doznieva tiež,<br/>aj keď nehodný som,<br/>chcem Ti niečo priniesť.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Možno len tichý plač, <br/>len bolesť, čo mám,<br/>svoju hĺbku srdca Ti dám,<br/>môj láskavý Pán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kvôli Tebe dýchať smiem, <br/>môj dlh splatil si sám,<br/>život svoj si za môj dal,<br/>bol to víťazný plán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vzal si hanbu z mojich pliec, <br/>bol to posledný boj,<br/>otvoril si bránu nebies,<br/>dnes som iba tvoj.</lines>
+    </verse>
+  </lyrics>
+</song>

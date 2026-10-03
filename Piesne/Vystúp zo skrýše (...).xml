@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Vystúp zo skrýše</title>
+    </titles>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vystúp zo skrýše, si tu vítaný<br/>Nemusíš skrývať to, čo ja vidím<br/>Dôvody máš, no ja ich utíšim<br/>bol si spútaný, ja ťa oslobodím</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Ja som ľúbil ťa skôr, než lásku si znal<br/>vždy s tebou som bol, predsa kríž som si vzal<br/>a na teba len som myslel v tej chvíli<br/>keď z hrobu som vstával</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Tak zbav sa tých pút, veď víťazstvo máš<br/>Strhol som závoj, nech môžeš prísť viac<br/>nie je dôvod stáť v diali, odvážne kráčaj<br/>tvoj domov volá ťa</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Budem ti svetlom, keď stratíš sa v tme<br/>osvetlím všetko, čo nejasné je<br/>nemusíš báť sa mojej blízkosti<br/>prosím len, zahoď svoj strach, do mojich rúk sa vrhni</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kým domov bežíš, čo lásku drží<br/>ostáva len príbehom dávnym<br/>Pozri, tvoj domov som ja sám<br/>tak stále kráčaj tvoj domov je blízko, príď</lines>
+    </verse>
+  </lyrics>
+</song>

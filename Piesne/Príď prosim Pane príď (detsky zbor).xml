@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Príď prosim Pane príď</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v1 c1 v3</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Príď, prosím Pane, príď.<br/>Mám pripravený chrám.<br/>Vstúp, prosím Pane, vstúp,<br/>otváram ti srdce dokorán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Príď, prosím Pane, príď.<br/>Otváram ti srdce dokorán.<br/>V malom chlebe prebývaš,<br/>chceš byť pokrmom mojej duše<br/>mám ťa rád.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Príď...</lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">Čistý ako krištáľovo priezračný prúd.<br/>Kŕdeľ malých detí s tebou túži sa stretnúť.<br/>Prvýkrát nasýtiš dušu, naplníš svoj chrám.<br/>Ja radosť mám, radosť mám...</lines>
+      <lines>/: Príď, Pane Ježišu,<br/>naplň mi telo i dušu,<br/>aby som bol s tebou<br/>šťastný naveky:/</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Celý svet nech jasá</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Celý svet nech jasá chválou,<br/>nech sa raduje zem, Boh je úžasný Pán.<br/>Jemu aj obloha chválu spieva, raduj sa tiež,<br/>hraj, aleluja.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Boh z nebies sa nám dáva,<br/>zem zohrial jeho lúč,<br/>ak mu spievame sláva,<br/>pokoj vchádza do našich sŕdc.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Raz sme tápali v tmách,<br/>dnes už môžeme rásť,<br/>takto pôsobí Boh:<br/>svojou zázračnou silou v nás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vzdávajúc spevom chválu,<br/>vstaňme tak ako on,<br/>hlas otvára nám bránu,<br/>naše zmŕtvychvstanie je Pán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nech každý spozná Pána,<br/>Ježiš je večný Kráľ,<br/>piesňou ho treba chváliť,<br/>pravú radosť nám daroval.</lines>
+    </verse>
+  </lyrics>
+</song>

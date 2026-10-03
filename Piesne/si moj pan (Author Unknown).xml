@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>si moj pan</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty si stvoril strom aj kvet slniečko aj cely svet,<br/>vysadil si aj naš sad, mam ťa rad.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty si nebu hviezdy dal,<br/>každy hriech si zo mňa sňal,<br/>odpustil si tolkokrat, mam ťa rad.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty si vtakom piesne dal,<br/>aby som sa radoval,<br/>si môj verny kamarad, mam ťa rad.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Si môj Pán, Ježiš kraľ,<br/>každý deň sa zhováram s tebov rád</lines>
+    </verse>
+  </lyrics>
+</song>

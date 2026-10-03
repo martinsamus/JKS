@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>On je Jahve</title>
+    </titles>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kto sa nad vodami vznáša, v svojich dlaniach mesiac má ...<br/>Každú temnotu a zlo svetlom slnka zaháňa.<br/>Komu patria výšky hôr, kto je v hĺbke zeme tiež-<br/>Kto je väčší ako vesmír, mojej duše Milenec</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boh - Stvoriteľ, On je Jahve, Veľký Jasom, On je Jahve,<br/>Náš pánov Pán, On je Jahve. Kvet Sáronu, On je Jahve,<br/>Spravodlivý, On je Jahve, Trojjediný, On je Jahve .</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto je Ten, s kým vždy som šťastný, kto je Ten, v kom pokoj mám.<br/>Kto je Ten, čo poteší ma, slzy v radosť premieňa.<br/>Kto vždy pozná moje túžby, v mojom vnútri pozná ma.<br/>Kto ma sýti, keď som hladný, tým, čo srdce napĺňa.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty si Svätý, Nekonečný, a naveky vládu máš,<br/>každé koleno sa skloní, Tvoje meno každý vyzná.<br/>Zástup svätých vzdá Ti chválu, pred tvoj trón sa zhromaždí.<br/>Tvoj ľud na zemi sa zíde, Tvoje meno ohlási.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Davaj pozor</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Dávaj pozor malé oko, čo v<chord name="A"/>idíš,<br/><chord name="A7"/>dávaj pozor malé oko, čo v<chord name="D"/>idíš!<br/>Pán sa z<chord name="G"/> Neba pozerá, aká <chord name="D"/>je tvoja viera,<br/><chord name="A"/>dávaj pozor malé oko, čo v<chord name="D"/>idíš!</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="A"/>Dávaj pozor malé ucho, čo <chord name="D"/>čuješ,<br/><chord name="A"/>Dávaj pozor malé ucho, čo <chord name="D"/>čuješ!<br/><chord name="A"/>Pán sa z Neba pozerá, aká <chord name="D"/>je tvoja viera,<br/><chord name="A"/>dávaj pozor malé ucho, čo <chord name="D"/>čuješ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="A"/>Dávaj pozor malý jazyk, čo<chord name="D"/> vravíš,<br/><chord name="A"/>Dávaj pozor malý jazyk, čo<chord name="D"/> vravíš!<br/><chord name="A"/>Pán sa z Neba pozerá, aká <chord name="D"/>je tvoja viera,<br/><chord name="A"/>dávaj pozor malý jazyk, čo<chord name="D"/> vravíš!</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="A"/>Dávaj pozor malá ruka, čo <chord name="D"/>robíš,<br/><chord name="A"/>Dávaj pozor malá ruka, čo <chord name="D"/>robíš!<br/><chord name="A"/>Pán sa z Neba pozerá, aká <chord name="D"/>je tvoja viera,<br/><chord name="A"/>dávaj pozor ruka, čo robíš<chord name="D"/>!</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="A"/>Dávaj pozor malá noha, kam<chord name="D"/> ideš,<br/><chord name="A"/>Dávaj pozor malá noha, kam<chord name="D"/> ideš!<br/><chord name="A"/>Pán sa z Neba pozerá, aká <chord name="D"/>je tvoja viera,<br/><chord name="A"/>dávaj pozor ruka, kam ideš<chord name="D"/>!</lines>
+    </verse>
+  </lyrics>
+</song>

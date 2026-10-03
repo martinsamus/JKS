@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Ty si mi radosť dal.</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty si mi radosť dal,<br/>Ty si mi radosť dal.<br/>Ježiš, Ty si Pán a Kráľ,<br/>Ty si mi radosť dal.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>...lásku...<br/>...vieru...<br/>...pokoj...<br/>...nádej...<br/>...život...<br/>...seba...<br/>...všetkol...</lines>
+    </verse>
+  </lyrics>
+</song>

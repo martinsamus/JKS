@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pan Boh v prvom prikaze</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ja so Pán a Otec tvoj. Dobrý, múdry všetko viem.<br/>Skrz otecka, mamičku ja ťa nežne milujem.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moja duša, srdiečko je len Božia záhradka,<br/>V ňom Boh so mnou prebýva a často ma pohladká</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pán Boh v prvom príkaze sám o sebe hovorí,<br/>ak si na to pomyslím, srdiečko sa rozhorí.<br/>Srdiečko sa rozhorí.</lines>
+    </verse>
+  </lyrics>
+</song>

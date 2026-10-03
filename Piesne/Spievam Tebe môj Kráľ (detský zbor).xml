@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-23T05:47:44">
+  <properties>
+    <titles>
+      <title>Spievam Tebe môj Kráľ</title>
+    </titles>
+    <authors>
+      <author>detský zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spievam tebe, môj Kráľ, spievam ti pieseň chvál,<br/>/:by som ťa zvelebil a tvoje meno oslávil, Pane, úctu ti vzdal. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vieru posilni nám, všetkým bratom, sestrám,<br/>/: ktorých si ty stvoril a krvou svojou vykúpil, zblížil ich tak k nebesám. :/<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nádej dodaj silnú, nech sa k tebe priľnú,<br/>/: tí, čo ťa milujú a tvoju pravdu hľadajú i spásu neomylnú. :/</lines>
+    </verse>
+    <verse name="v4">
+      <lines> Láska nech je živá, mocná, nie márnivá,<br/>/: náš život nech napraví a pre nebo nás pripraví, silná, opravdivá. :/</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-30T05:43:06">
+  <properties>
+    <titles>
+      <title>Ó Mária s tebou chcem žiť</title>
+    </titles>
+    <authors>
+      <author>CZS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Mária, s Tebou chcem žiť, S Tebou kráčať, Bohu patriť. Dňom i nocou len pri mne stoj, Nech vyhrám nad satanským zlom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kry nás svojím plášťom, pritúľ biednych nás, <br/>pred oklamným svetom, chráň nás v každý čas.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teba všetci zvelebujú, s úctou k Tebe prichádzajú.<br/>Buď nám Matkou, Prespanilá, oroduj za nás u Syna.</lines>
+    </verse>
+  </lyrics>
+</song>

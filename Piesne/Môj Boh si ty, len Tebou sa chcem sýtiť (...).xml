@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Môj Boh si ty, len Tebou sa chcem sýtiť</title>
+    </titles>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Môj Boh si ty, len Tebou sa chcem sýtiť, môj Boh si Ty, aj keď Ťa nevidím, necítim, nepočujem, si tu, prítomný.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Dobro dávaš robiť mi, prehliadať druhých chyby, len s láskou hľadieť na svet, Tebou Pane nechám sa niesť.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Slovami prehováraš cezo mňa, za to Ti vďaka. Slovami prihováraš sa ku mne cez iných, za to Ti vďaka.</lines>
+    </verse>
+    <verse name="o1">
+      <lines>A tí majstri, čo majú dar spojiť slová do knihy, s nimi učím sa vnímať Ťa, učím sa prijímať Ťa, učím sa z Tvojho Slova, za to Ti najväčšia vďaka, chcem Ťa poznať viac a viac a viac. . .</lines>
+    </verse>
+  </lyrics>
+</song>

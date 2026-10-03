@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:37">
+  <properties>
+    <titles>
+      <title>106. Nový rok beží</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                               106.<br/>Nový rok beží,<br/>v jasličkách leží: Ktože to?<br/>/:Ježiško malý,<br/>obetovaný, na zemi.:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                               106.<br/>Leží Dieťatko,<br/>to Nemluvniatko: Kdeže, kde?<br/>/:V Betleme meste,<br/>tam ho zaiste nájdete.: /</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                               106.<br/>Anjeli, chváľte,<br/>sladko spievajte: ako, čo?<br/>/:Sláva na nebi,<br/>pokoj na zemi buď ľuďom!: /</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                               106.<br/>Už sa radujme,<br/>Bohu ďakujme: A za čo?<br/>/:Že nám zjavené<br/>to meno ctené: Ježiško.:/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.                                               106.<br/>Ježiško malý,<br/>prijmi tie chvály na zemi,<br/>/:daj po časnosti<br/>večnej radosti na nebi.:/</lines>
+    </verse>
+  </lyrics>
+</song>

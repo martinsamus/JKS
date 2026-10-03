@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Svätý,  svätý,  Všemohúci</title>
+    </titles>
+    <authors>
+      <author>Rieka Života</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Svätý,  svätý,  všemohúci<br/>si bol a prídeš zas.<br/>Ty Boh slávny, hoden sám si,<br/>svätých piesní chvál.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sväté meno máš a iného niet<br/>milosrdný si a chrániš svet<br/>V tebe pravda je, ty si spravodlivý.<br/>svätý,  svätý Boh si ty.<br/>Svätý,  svätý Boh si ty.</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Všetká česť a úcta ti náleží,<br/>všetku moc a múdrosť ty máš.</lines>
+    </verse>
+  </lyrics>
+</song>

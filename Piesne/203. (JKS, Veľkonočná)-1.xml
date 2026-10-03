@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:39">
+  <properties>
+    <titles>
+      <title>203.</title>
+    </titles>
+    <authors>
+      <author>Veľkonočná</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Radujme sa všetci zbožne, úctu Bohu tu predložme, slávme jeho zmŕtvychvstanie. Aleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Prosme ho skrz sväté rany, bol za nás ukrižovaný, by nás z hriechov oslobodil. Aleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. On je víťaz v tejto chvíli: Ježiš Kristus, náš Pán milý, Spasiteľ a Vykupiteľ. Aleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Zvestovala nám to žena, kajúcnica Magdaléna, že Pán Ježiš z hrobu povstal:Aleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

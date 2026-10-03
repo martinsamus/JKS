@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Duchu Svätý, príď z neba</title>
+    </titles>
+    <verseOrder>v1 v2 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1Duchu Svätý, príď z neba a vydať ráč zo seba <chord name="žiaru svetla pravého.:"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">2Príď k nám, Otče strápených, Darca darov sľúbených,</lines>
+      <lines>[: svetlo srdca bôlneho.:] Príď k nám atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">3Najvernejší tešiteľ,</lines>
+      <lines break="optional">poslal ta nám Spasiteľ;</lines>
+      <lines>[:ty sladké občerstvenie.:] Príď k nám atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines break="optional">4V práci si poľahcenie, v sparne si ovlaženie,</lines>
+      <lines>[:v plači si potešenie.:] Príď k nám atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines break="optional">5Svetlo, plné radosti, naplň srdca temnosti,</lines>
+      <lines>[:ľudu tebe verného.:] Príď k nám atď.</lines>
+    </verse>
+    <verse name="v6">
+      <lines break="optional">6Bez pomocnej milosti človek žije v hriešnosti,</lines>
+      <lines>[:nie je v ňom nič dobrého.:] Príď k nám atď.</lines>
+    </verse>
+    <verse name="v7">
+      <lines break="optional">7Očist duše pramene, zaviaž, čo je znavené,</lines>
+      <lines>[:uzdrav, čo je ranené.:] Príď k nám atď.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>R:Príď k nám, príď k nám, Duchu Svätý, príď k nám Duchu presvätý.</lines>
+    </verse>
+  </lyrics>
+</song>

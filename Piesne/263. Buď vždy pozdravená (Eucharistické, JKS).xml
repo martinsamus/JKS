@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>263. Buď vždy pozdravená</title>
+    </titles>
+    <authors>
+      <author>Eucharistické</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                             263.<br/>Buď vždy pozdravená, čistá Hostia,<br/>v ktorej je ukryté tajomstvo Krista.<br/>Ach, vitaj, môj Kriste, Boh neomylný,<br/>srdce mi daj čisté, ducha posilni!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                             263.<br/>Teba pozdravujem srdca z celého,<br/>Boha, okrem teba, nemám iného.<br/>Ach, vitaj, môj Kriste, Boh neomylný,<br/>srdce mi daj čisté, ducha posilni!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                             263.<br/>Ó nesmierna láska, Pane môj milý,<br/>ktorý sa ukrývaš v tejto Hostii.<br/>Ach, vitaj, môj Kriste, Boh neomylný,<br/>srdce mi daj čisté, ducha posilni!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                             263.<br/>Tebe, Bože drahý, srdce venujem,<br/>bo ťa nadovšetko, Kriste milujem.<br/>Ach, vitaj, môj Kriste, Boh neomylný,<br/>srdce mi daj čisté, ducha posilni!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.                                             263.<br/>Ty si môj Boh pravý, ty si Spasiteľ,<br/>tys' Kráľ všetkej slávy a Vykupiteľ.<br/>Ach, vitaj, môj Kriste, Boh neomylný,<br/>srdce mi daj čisté, ducha posilni!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:38">
+  <properties>
+    <titles>
+      <title>161.</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ó zármutku, srdca smútku, nemám slzy vydávať? Môj Syn Boží vskutku má sa pochovávať.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ó prebeda. Boh umiera na kríži a v bolesti, ale tak nám vyviera spasenie z milosti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ó človeče, tvoje zlosti v múky, v smrť ho vydali, ktorého ťa vo večnosti hrozne mučiť mali.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ó deň smutný, deň žalostný, deň preveľkých súžení, v ktorom Pán milostivý hrozne bol mučený!</lines>
+    </verse>
+  </lyrics>
+</song>

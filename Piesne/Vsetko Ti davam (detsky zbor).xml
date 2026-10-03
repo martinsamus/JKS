@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Vsetko Ti davam</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Všetko ti dávam, Najvyšší,<br/>všetko ponúkam, môj Pán,<br/>z lásky dary prinášam,<br/>s láskou kladiem na oltár,<br/>kladiem na oltár.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tajomstvo lásky, spásy dar v chlebe, víne podávaš,<br/>za to, Otče, vďačíme, žehnaj celý život náš,<br/>celý život náš.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>R.Môj Boh si ty, môj Pán večný,<br/>chcem ťa chváliť, tvojim byť.<br/>Ty síl mi daj, tvoj pokrm lieči,<br/>ostaň vždy so mnou, môj Pán.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>R.Môj Boh si ty, môj Pán večný,<br/>chcem ťa chváliť, tvojim byť.<br/>Ty síl mi daj, tvoj pokrm lieči,<br/>ostaň vždy so mnou, môj Pán.<br/>Môj Boh si ty...</lines>
+    </verse>
+  </lyrics>
+</song>

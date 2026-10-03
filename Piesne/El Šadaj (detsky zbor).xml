@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-17T06:03:27">
+  <properties>
+    <titles>
+      <title>El Šadaj</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>El Shaddai, El shaddai, El Eljona Adonai,<br/>večné meno, Pane, máš, ku nám v sláve prichádzaš.<br/>El Shaddai, El shaddai, El Eljona Adonai,<br/>od vekov až naveky, El Shaddai.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1. Viem, že ty si Syna dal, on hriechy na kríži sňal, obetu dal za nás sám, <br/>život večný je náš Pán. Ty si Pán Boh, ktorý vie, poznáš srdce úprimné,<br/> z pút našich oslobodíš nás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>To, čo Otec prisľúbil, v Synovi sám naplnil.<br/>Nikto z ľudí netuší, že sa Mesiáš zjavil.<br/>Veľká je moc Pánova, veľká láska Kristova,<br/>dokonané je pre nás, dokonané je pre nás.</lines>
+    </verse>
+  </lyrics>
+</song>

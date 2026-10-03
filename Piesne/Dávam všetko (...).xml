@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Dávam všetko</title>
+    </titles>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dnes chcel by som Ti dať to, čo v srdci mám,<br/>dávam na oltár k Tvojim nohám, kráľov Kráľ,</lines>
+    </verse>
+    <verse name="o1">
+      <lines>dnes kladiem svoje sny, ja sa zriekam svojich práv,<br/>už nechcem pyšný stáť, chcem nový život mať.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>[: A dávam všetko, to čo mám, Tebe, Kráľ. :]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keď túto pieseň hrám, pod krížom stojím sám<br/>a všetky bohatstvá za smeti pokladám,</lines>
+    </verse>
+    <verse name="o2">
+      <lines>chcem poznať Teba Kráľ, slávu mena, ktoré máš,<br/>tá radosť nekončí, aj keď s Tebou trpieť mám.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>[: A dávam všetko, to čo mám, Tebe, Kráľ. :]</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pod, teraz je cas vzdat chvalu</title>
+    </titles>
+    <verseOrder>v1 c1 v2</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poď, teraz je čas vzdať chválu,<br/>poď, srdce svoje mu s láskou daj.<br/>Poď, taký aký si chváľ Ho,<br/>poď, predstúp pred Kráľa prijme ťa. Poď!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Poď, teraz je čas vzdať chválu,<br/>poď, srdce svoje mu s láskou daj. Tak poď!</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:Každý jazyk v ten deň vyzná: Ty si Pán!<br/>Každý Ti raz úctu vzdá.<br/>Tým, čo teraz s láskou Ťa hľadajú,<br/>Ty poklad vzácny dá-áš. :/</lines>
+    </verse>
+  </lyrics>
+</song>

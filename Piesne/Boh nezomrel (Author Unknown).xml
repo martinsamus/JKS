@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>Boh nezomrel</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/> Boh nezomrel, Ježiš žije!<br/><chord name="A"/> Boh nezomrel, <chord name="D"/>Ježiš žije!<br/><chord name="D"/> Boh nezomrel, Ježiš žije!<br/><chord name="A"/> Ruky jemu daj, nohy jemu daj,<br/><chord name="A"/> srdce jemu daj, dušu jemu daj, hej!<br/><chord name="G"/> On mojím P<chord name="A"/>áno<chord name="D"/>m je.</lines>
+    </verse>
+  </lyrics>
+</song>

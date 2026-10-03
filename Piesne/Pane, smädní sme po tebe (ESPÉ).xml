@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pane, smädní sme po tebe</title>
+    </titles>
+    <authors>
+      <author>ESPÉ</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pane, smädní sme po Te-be,<br/>Pane, smädní sme po Te-be.<br/>Pane, smädní sme po Te-be.<br/>Pane, smädní sme po Te-be.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: Nech táto osla-va naplní uli-ce,<br/>chceme tanco-vať z lásky ku Te-be. :/</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/: A všetko čo mám, dám na ol-tár,<br/>svoj život ne-siem pred Tvoju tvár. :/</lines>
+    </verse>
+  </lyrics>
+</song>

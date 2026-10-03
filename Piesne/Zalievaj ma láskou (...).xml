@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Zalievaj ma láskou</title>
+    </titles>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Zalievaj ma láskou ako záhradu, sady, polia<br/>Zalievaj ma láskou nech všetko rastie, kvitne, vonia</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Zalievaj ma láskou horké slzy odplav preč<br/>Zalievaj ma láskou ňou mi srdce lieč</lines>
+    </verse>
+    <verse name="c1a">
+      <lines>Buď mojím Pánom Ježiš, dnes sa vzdávam,<br/>dnes Ťa volám príď.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>K tvojim nohám Ježiš, korunu skladám,<br/>chcem navždy tvojím (tvoja) byť.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>301. Príď, ó, Pane milý, príď mi do srdiečka</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.<br/>Príď, ó, Pane milý,<br/>príď mi do srdiečka,<br/>nech sa rozplápolí,<br/>nech sa rozplápolí<br/>/:duša moja všetka!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.<br/>Príď mi do srdiečka<br/>a prebývaj vo mne,<br/>nechže som ja navždy,<br/>nechže som ja navždy<br/>/:dieťa tvoje verné!:/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.<br/>Požehnaj ma, Otče,<br/>pokrm duší nastoľ,<br/>daj, by cit ku tebe,<br/>daj, by cit ku tebe<br/>/:vo mne vždy viac rástol.:/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.<br/>Naplň dušu moju,<br/>láska svätá tvoja,<br/>tak budem silne stáť,<br/>tak budem silne stáť<br/>/:a nebáť sa boja.:/</lines>
+    </verse>
+  </lyrics>
+</song>

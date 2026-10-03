@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Obet svoju Velkonocnu</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="A"/>Obeť svoju<chord name="E"/> veľk<chord name="A"/>onočnú<chord name="D"/> osla<chord name="A"/>vu<chord name="F#"/>jme <chord name="h"/>kre<chord name="E"/>sťan<chord name="A"/>ia,<br/><chord name="E"/> Pán za<chord name="E7"/> nás dal <chord name="A"/>krv n<chord name="E"/>evinnú, c<chord name="A"/>hváľme<chord name="D"/> ho<chord name="h"/> bez<chord name="A"/> pr<chord name="E"/>est<chord name="A"/>an[&gt;&gt;]ia.[(E7)]</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="A"/>Ovce našiel<chord name="E"/> už Ba<chord name="A"/>ránok, <chord name="D"/>nás o<chord name="A"/>ve<chord name="F#"/>čky <chord name="h"/>str<chord name="E"/>aten<chord name="A"/>é.<br/><chord name="E"/> Zmieril<chord name="E7"/> nás so <chord name="A"/>svojim<chord name="E"/> Otcom, <chord name="A"/>hriechy <chord name="D"/>nám<chord name="h"/> sú <chord name="A"/>zhl<chord name="E"/>ade<chord name="A"/>né[&gt;&gt;].<chord name="medzihra"/>[:][/:]<chord name="A"/><chord name="D"/><chord name="A"/><chord name="E"/>[:/]</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="A"/>Súboj divný v<chord name="E"/>iedli <chord name="A"/>spolu <chord name="D"/>život<chord name="A"/> i<chord name="F#"/> smrť<chord name="h"/> uk<chord name="E"/>rut<chord name="A"/>ná.<br/><chord name="E"/> Pán ž<chord name="E7"/>ivota <chord name="A"/>mrie i v<chord name="E"/>stáva, s<chord name="A"/>mrť nás<chord name="D"/> už <chord name="h"/>viac<chord name="A"/> ne<chord name="E"/>spu<chord name="A"/>tn[&gt;&gt;]á.[(E7)]</lines>
+    </verse>
+    <verse name="v4">
+      <lines><chord name="A"/>Povedzže nám,<chord name="E"/> ó, Má<chord name="A"/>ria, <chord name="D"/>čos´ vi<chord name="AF#"/>dela<chord name="h"/> na<chord name="E"/> ces<chord name="A"/>te?<br/><chord name="E"/> „Hrob som <chord name="E7"/>zrela<chord name="A"/> osl<chord name="E"/>avený,<chord name="A"/> kameň<chord name="D"/> ne<chord name="h"/>bol<chord name="A"/> na<chord name="E"/> mie<chord name="A"/>st[&gt;&gt;]e."<chord name="medzihra:"/>[/:]<chord name="A"/><chord name="D"/><chord name="A"/><chord name="E"/>[:/]</lines>
+    </verse>
+    <verse name="v5">
+      <lines><chord name="A"/>Videla som <chord name="E"/>svedkov <chord name="A"/>z neba,<chord name="D"/> na ka<chord name="AF#"/>meni <chord name="h"/>se<chord name="E"/>de<chord name="A"/>li.<br/><chord name="E"/> Plachtu, v <chord name="E7"/>ktorej <chord name="A"/>Pán bol <chord name="E"/>v hrobe, <chord name="A"/>sklad<chord name="D"/>ali<chord name="h"/> už<chord name="A"/> a<chord name="E"/>nje<chord name="A"/>li[&gt;&gt;].[(E7)]</lines>
+    </verse>
+    <verse name="v6">
+      <lines><chord name="A"/>Vstal Pán Kristus,<chord name="E"/> nádej<chord name="A"/> moja!<chord name="D"/> Čuj a p<chord name="AF#"/>lesaj,<chord name="h"/> ó, <chord name="E"/>sve<chord name="A"/>te!<br/><chord name="E"/> Náhl<chord name="E7"/>ite do<chord name="A"/> Gali<chord name="E"/>leje, <chord name="A"/>tam ho<chord name="D"/> aj<chord name="h"/> vy<chord name="A"/> uz<chord name="E"/>rie<chord name="A"/>te[&gt;&gt;]!<chord name="medzihra:"/>[/:]<chord name="A"/><chord name="D"/><chord name="A"/><chord name="E"/>[:/]</lines>
+    </verse>
+    <verse name="v7">
+      <lines><chord name="A"/>Vieme, že Pán z<chord name="E"/> mŕtvych<chord name="A"/> už vstal, <chord name="D"/>Kristus <chord name="A"/>náš<chord name="F#"/>: A<chord name="h"/>le<chord name="E"/>lu<chord name="A"/>ja!<br/><chord name="E"/> Milo<chord name="E7"/>stivý <chord name="A"/>buď, Kráľ <chord name="E"/>Kristus: <chord name="A"/>Sláva<chord name="D"/> ti,<chord name="h"/> a<chord name="A"/>le<chord name="E"/>lu<chord name="A"/>ja!</lines>
+    </verse>
+  </lyrics>
+</song>

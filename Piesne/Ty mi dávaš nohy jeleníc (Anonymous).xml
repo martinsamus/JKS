@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Ty mi dávaš nohy jeleníc</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ty mi dávaš nohy jeleníc, <br/>s Tebou naberiem denne nových síl,<br/>s Tebou preskočím múry trápenia<br/>a mojej duši dáš pečať víťazstva.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Kde nádej zomrela,<br/>vzkriesenie zatrúbi<br/>a hymnu slobody<br/>mi do úst položíš.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Nikto už nevezme,<br/>čo si mi zasľúbil,<br/>so žalmom na perách<br/>zaspávam v pokoji.</lines>
+    </verse>
+  </lyrics>
+</song>

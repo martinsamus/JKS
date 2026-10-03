@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>446. Večnou slávou venčený</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Večnou slávou venčený - <br/>tam medzi svätými, -<br/>František, buď uctený -<br/>piesňami našimi! -<br/>Ty si čnosťou prevzácnou -<br/>získal nebies radosť, -<br/>s tebou Boha uctiť raz -<br/>vrúcna naša žiadosť. -</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Krista si navštevoval - <br/>v každej žitia chvíli, -<br/>chudobu si miloval, -<br/>po nebi dychtivý. -<br/>Opustil si márnosti, -<br/>sveta lahodnosti. -<br/>Bohu si sa daroval -<br/>o dušu pečlivý. -</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Stálym tela mŕtvením - <br/>bol si mučeníkom -<br/>a čistoty vznešeným -<br/>vždycky milovníkom; -<br/>proti sveta márnos-   tiam, -<br/>tela náklonnostiam, -<br/>bol si vždycky udatným, -<br/>smelým bojovníkom. -</lines>
+    </verse>
+    <verse name="v4">
+      <lines>František, vzor čistoty, - <br/>ty kvet prerozmilý, -<br/>posluš- nosti, dobroty -<br/>príklad náš spanilý! -<br/>Srdce plné zbožnosti a poníženosti -<br/>mal si, preto ťa čnosti do neba zvýšili. -</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Serafínov prečistá - <br/>láska ťa zdobila, -<br/>trpiac muky za Krista -<br/>milosť poznačila -<br/>piatimi ťa ranami -<br/>a spasenia znakmi, -<br/>tak bola tvoja veľká -<br/>svätosť nám zjavená. -</lines>
+    </verse>
+  </lyrics>
+</song>

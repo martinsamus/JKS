@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Môj Ježiš</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Môj Ježiš, si spásou <br/>a nie je nik ako Ty<br/>chcem v každý čas<br/>tak ako dnes<br/>Teba chváliť Pán môj rád</lines>
+    </verse>
+    <verse name="v2">
+      <lines>môj Majster, si štítom,<br/>záchrancom si, Pokoj môj<br/>všetko čo viem,<br/>všetko čo mám,<br/>Tebe dávam Pán môj rád</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Sám si môj Boh, celá zem nech vidí<br/>sláva a moc, majestát Ti patrí<br/>hory pre trónom sa skláňajú<br/>a Ty sám vládneš slávne</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Spievam Ti rád, <br/>že si Pán môj a Kráľ<br/>navždy chcem stáť, Teba stále mať rád<br/>nič nie je viac ako láska čo dal si nám...</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Môj Ježiš, si spásou <br/>a nie je nik ako Ty<br/>chcem v každý čas<br/>tak ako dnes<br/>Teba chváliť Pán môj rád</lines>
+    </verse>
+    <verse name="v4">
+      <lines>môj Majster, si štítom,<br/>záchrancom si, Pokoj môj<br/>všetko čo viem,<br/>všetko čo mám,<br/>Tebe dávam Pán môj rád</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Poďme spolu za hviezdov</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poďme spolu za hviezdou, ty so mnou a ja s Tebou,<br/>pobežíme spolu tam, kde sa nám narodil Pán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prinesiem mu koníka z medového perníka,<br/>keď Ti bude máličko, dám Ti svoje srdiečko.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aj my králi z Východu spievame Ti koledu:<br/>Hajaj búvaj dieťatko, zavri očká, spi sladko.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>V Betleheme za noci, hlásali to proroci,<br/>že sa nám narodí Kráľ, by nám večný život dal.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Otce nas</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/> Otče<chord name="Hmi"/> náš,<chord name="Emi"/> ktorý si na<chord name="A"/> nebesiach,<br/><chord name="D"/> posväť sa<chord name="Hmi"/> meno<chord name="Emi"/> Tvoje.<chord name="A"/><br/><chord name="D"/> Príď<chord name="Hmi"/> kráľov<chord name="Emi"/>stvo <chord name="A"/> Tv[(D]oje<chord name="Hmi"/>.<chord name="Emi"/><chord name="A"/><chord name="D)"/><chord name="vyhrávka"/><br/><chord name="A"/> Buď vôľa Tvoja ako<chord name="Dmi"/> v nebi, tak i na zemi<br/><chord name="A"/> chlieb náš každodenný<chord name="Dmi"/> daj nám dnes.<br/>A<chord name="Gmi"/> odpusť <chord name="A"/>nám,<chord name="Gmi"/> naše vi<chord name="A"/>ny,<br/><chord name="A"/> ako i my odpúšťame<chord name="A7"/> svojím vinníkom<br/>A<chord name="D"/> neuveď<chord name="Hmi"/> nás, do<chord name="Emi"/> pokuše<chord name="A"/>nia,<br/><chord name="D"/> ale<chord name="Hmi"/> zbav nás<chord name="Emi"/> zlé<chord name="A"/>-é[(D] ho.<chord name="Hmi"/><chord name="Emi"/><chord name="A"/><chord name="D)"/><chord name="vyhrávka"/></lines>
+    </verse>
+  </lyrics>
+</song>

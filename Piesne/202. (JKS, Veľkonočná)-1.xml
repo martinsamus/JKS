@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:39">
+  <properties>
+    <titles>
+      <title>202.</title>
+    </titles>
+    <authors>
+      <author>Veľkonočná</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Radujte sa, ó kresťania, z víťazstva preslávneho, z podivného zmŕtvychvstania Krista, Syna Božieho. Aleluja, spievajme, chvála buď mu srdečná, od stvorenia radostného jemu česť nekonečná!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Plesaj, nebo i tvár zeme i hriešnici plesajme, plesaj, všetko sveta plemä, všetci chválu vzdávajme. Aleluja, spievajme Kristu z mŕtvych vstalému, za milosť mu po­ďakujme, Ježišovi drahému.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ježišu, ty Kráľ jasnosti ktorýs' slávne z hrobu vstal, premohol si moc temnosti, spasenie si svetu dal. Pomáhaj nám, bezradným, do neba, kde kraľuješ s Bohom Otcom, s Duchom Svätým a naveky panuješ.</lines>
+    </verse>
+  </lyrics>
+</song>

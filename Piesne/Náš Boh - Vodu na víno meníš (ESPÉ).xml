@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Náš Boh - Vodu na víno meníš</title>
+    </titles>
+    <authors>
+      <author>ESPÉ</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vodu na víno meníš<br/>otváraš oči slepým<br/>nikto nie je ako Ty<br/>Zasvietiš v tmách životom<br/>z prachu nás dvíhaš slovom<br/>nikto nie je ako Ty</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Náš Boh je väčší,<br/>On je silnejší,<br/>Pane, si viac než čo tento svet dáva<br/>rany nám liečiš,<br/>mocný a slávny<br/>náš Boh, si náš Pán</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zasvietiš v tmách životom<br/>z prachu nás dvíhaš slovom<br/>nikto nie je ako Ty.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Veď keď náš Boh je za nás<br/>nemôže vládnuť strach<br/>keď náš Boh je s nami<br/>kto môže stáť proti nám?</lines>
+    </verse>
+    <verse name="b2">
+      <lines>kto môže stáť proti nám?</lines>
+    </verse>
+    <verse name="b3">
+      <lines>Veď keď náš Boh je za nás<br/>nemôže vládnuť strach<br/>keď náš Boh je s nami<br/>kto môže stáť proti nám?</lines>
+    </verse>
+  </lyrics>
+</song>

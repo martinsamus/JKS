@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:37">
+  <properties>
+    <titles>
+      <title>141. Môj Otče</title>
+    </titles>
+    <authors>
+      <author>Komunita Emanuel</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Môj Otče, môj Otče, ja sa ti oddávam.<br/>Staň sa tak, ako chceš ty sám.<br/>Čokoľvek robíš, vždy ti chválu vzdám,<br/>som pripravený, všetko prijímam,</lines>
+    </verse>
+    <verse name="c1">
+      <lines>lebo si môj Otec, ja dôverujem ti,<br/>lebo si môj Otec, patrím ti naveky.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Môj Otče, môj Otče, v teba dôveru mám.<br/>Dávam dušu do tvojich rúk.<br/>Tebe ju dávam so všetkou láskou,<br/>jednu túžbu mám: patriť ti, môj Pán.</lines>
+    </verse>
+  </lyrics>
+</song>

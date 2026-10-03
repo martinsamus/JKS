@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Water</title>
+    </titles>
+    <verseOrder>v1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>ANJ omša</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Water, You turned into wine<br/>Opened the eyes of the blind<br/>There´s no one like You<br/>None like You</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Into the darkness, You shine<br/>Out of the ashes we rise<br/>There´s no one like You<br/>None like You</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Into the darkness, You shine<br/>Out of the ashes, we rise<br/>There´s no one like You<br/>None like You<br/>CH: 2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>CH: Our God is greater<br/>Our God is stronger<br/>God, You are higher than any other<br/>Our God is healer<br/>Awesome in power<br/>Our God, our God 2x</lines>
+    </verse>
+  </lyrics>
+</song>

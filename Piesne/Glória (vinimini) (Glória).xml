@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Glória (vinimini)</title>
+    </titles>
+    <authors>
+      <author>Glória</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>R: |: Glória, in exelsis Deo , glória, Deo domino. :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Chválime Ťa, velebíme Ťa, klaniame sa<br/>Ti, oslavujeme Ťa vzdávame Ti vďaky,<br/>lebo veľká je sláva Tvoja,<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pane, Bože kráľ nebeský, Boh otec všemohúc<br/>Pane Ježušu Kriste, Ty jednorodený Syn,<br/>Pán a Boh, Baránok Boží, Syn Otca:<br/></lines>
+    </verse>
+    <verse name="v5">
+      <lines>4.Veď len Ty si Svätý,  len Ty si Pán,<br/>len Ty si Najvyšší, Ježišu Kriste,<br/>s Duchom Svätým v sláve Boha Otca.<br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty snímaš hriechy sveta, zmiluj sa nad nami,<br/>ty snímaš hriechy sveta, príjmy našu upenlivú prosbu,<br/>ty sediš po pravici Otca, zmiluj sa nad nami</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Súcit nekonečný</title>
+    </titles>
+    <authors>
+      <author>Detský zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Súcit nekonečný, milosťou si ty<br/>Sladkým odpustením, vernosť bez hraníc<br/>vo mne prítomná<br/>Ty si Otec mocný, Kráľ, čo lieči nás<br/>Spasiteľ si nežný, Obeť prečistá<br/>za mňa slávená<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dnes sa dávam celý<br/>všetko, čím som, do tvojich rúk vkladám<br/>Ty si získal život môj<br/>svoje áno  dnes ti dávam</lines>
+    </verse>
+  </lyrics>
+</song>

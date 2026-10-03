@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>250. Poďte, obnovme obetu</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+      <author>Začiatok</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                             250.<br/>Poďte, obnovme obetu,<br/>ktorú Kristus nechal svetu.<br/>Otče, zmiluj sa nad nami,<br/>nad ľudom svojím biednym<br/>a daj nám svätej milosti,<br/>v dobrom stálostí.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                             250.<br/>Stvoriteľa oslavujme<br/>a srdcia mu obetujme.<br/>Otče, zmiluj sa nad nami,<br/>nad ľudom svojím biednym<br/>a daj nám svätej milosti,<br/>v dobrom stálostí.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glória: 3.                                 250.<br/>Sláva buď Bohu na nebi,<br/>Bože, ľud tvoj ťa velebí.<br/>Otče, zmiluj sa nad nami,<br/>nad ľudom svojím biednym<br/>a daj nám svätej milosti,<br/>v dobrom stálostí.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Evanjelium: 4.                         250.<br/>V srdci je nám zaštepené<br/>Ježiša sväté učenie.<br/>Otče, zmiluj sa nad nami,<br/>nad ľudom svojím biednym<br/>a daj nám svätej milosti,<br/>v dobrom stálostí.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Krédo: 5.                                 250.<br/>Veríme v Boha živého,<br/>v svätej Trojici skrytého.<br/>Otče, zmiluj sa nad nami,<br/>nad ľudom svojím biednym<br/>a daj nám svätej milosti,<br/>v dobrom stálostí.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ofertórium: 6.                         250.<br/>K tebe sa, Pane, modlíme,<br/>o dar milosti prosíme.<br/>Otče, zmiluj sa nad nami,<br/>nad ľudom svojím biednym<br/>a daj nám svätej milosti,<br/>v dobrom stálostí.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sanktus: 7.                              250.<br/>Spievajme »Svätý, presvätý,<br/>Boh Otec, Syn i Duch Svätý!«<br/>Otče, zmiluj sa nad nami,<br/>nad ľudom svojím biednym<br/>a daj nám svätej milosti,<br/>v dobrom stálostí.</lines>
+    </verse>
+  </lyrics>
+</song>

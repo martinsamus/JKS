@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Duchu Svätý, si tu vítaný</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nič ma neláka viac <br/>ako bližšie stáť.<br/>Nič sa nevyrovná tomu,<br/>čo si nám dal, v Tvojej blízkosti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja poznám a viem <br/>Tvoja láska je liek, v nej slobodný<br/>som a hanby už niet,<br/>v Tvojej blízkosti.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Duchu Svätý si tu vítaný, <br/>príď vtiahni nás tam kde<br/>tróniš Ty, Tvoja sláva prichádza<br/>dnes s túžbou k nám,<br/>zaplav láskou k Tebe naše srdcia, Kráľ.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Nech stále viac pred Tebou bázeň mám.<br/>Dnes túžim zažívať, aký dobrý Boh si k nám.</lines>
+    </verse>
+  </lyrics>
+</song>

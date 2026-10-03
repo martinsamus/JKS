@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Milosrdný</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1 v2 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Slávny Kráľ, liek môjho hriechu.<br/>Pokoj náš, čo dáva sa svetu.<br/>Príď, prebývaj v nás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Darca slov, čo vedú k spáse.<br/>Srdca kľúč, čo prichádza v láske.<br/>Príď, prebývaj v nás!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veríme, že s tebou nemáme sa čoho báť.<br/>Vieme, že dávaš nám viac, než si môžeme priať.<br/>Nekonečný, večný a láskavý Pán, si milosrdný.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Len Láska vie odpúšťať, pozná smiech, pozná aj plač.<br/>Nech Láskou sa každý z nás milosrdným môže stať.<br/>Si jedinou nádejou, všetkým čo môžeme mať.<br/>Prebývaj v nás, nech môžeme vo viere rásť.<br/>Milosrdný, milosrdný...</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Duchu Svaty prid z neba</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v6 v7 v8 v9 v10 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duchu Svätý, príď z neba<br/>a vyšli nám zo seba<br/>[:žiaru svetla pravého.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Príď k nám, Otče chudobných,<br/>Darca darov sľúbených,<br/>[:svetlo srdca bôľneho.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tešiteľ si najlepší,<br/>ó, hosť duše najsladší,<br/>[: ty sladké občerstvenie.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>V práci si poľahčenie,<br/>v sparne si ovlaženie,<br/>[:v plači si potešenie.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Svetlo oblažujúce,<br/>naplň myseľ aj srdce<br/>[:ľudu tebe verného.:]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Bez pomocnej milosti<br/>človek žije v hriešnosti,<br/>[:nie je v ňom nič dobrého.:]</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Očisť, čo je skalené,<br/>zavlaž, čo je znavené,<br/>[:uzdrav, čo je zranené.:]</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ohni, čo je stŕpnuté,<br/>zohrej, čo je skrehnuté,<br/>[:naprav, čo je zblúdené.:]</lines>
+    </verse>
+    <verse name="v9">
+      <lines>Daruj svojim veriacim,<br/>s dôverou ťa prosiacim,<br/>[:svätú milosť sedmorú.:]</lines>
+    </verse>
+    <verse name="v10">
+      <lines>Daj za čnosti odmenu,<br/>daj smrť dobrú, blaženú,<br/>[:daj nám radosť trvalú.:]</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Príď k nám, príď k nám<br/>Duchu Svätý,<br/>príď k nám Duchu presvätý.</lines>
+    </verse>
+  </lyrics>
+</song>

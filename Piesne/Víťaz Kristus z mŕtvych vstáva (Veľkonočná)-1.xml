@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Víťaz Kristus z mŕtvych vstáva</title>
+    </titles>
+    <authors>
+      <author>Veľkonočná</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Víťaz Kristus z mŕtvych vstáva, aleluja,<br/>vykúpenie dokonáva, ale-, ale-, aleluja.<br/><br/>Aleluja, aleuja, aleluja, aleluja,<br/>hrob je prázdny, aleluja.<br/>Svet je vykupený,<br/>spievajme aleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ženy sa k hrobu ponáhľali, aleluja,<br/>aby Pána pomazali, ale-, ale-, aleluja.<br/><br/>Aleluja, aleuja, aleluja, aleluja,<br/>hrob je prázdny, aleluja.<br/>Svet je vykupený,<br/>spievajme aleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ten, ktorého vy hľadáta, aleluja,<br/>už ho viac v hrobe nemáte,ale-, ale-, aleluja.<br/><br/>Aleluja, aleuja, aleluja, aleluja,<br/>hrob je prázdny, aleluja.<br/>Svet je vykupený,<br/>spievajme aleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

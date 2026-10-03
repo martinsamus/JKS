@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Čakám teba kráľ</title>
+    </titles>
+    <authors>
+      <author>MaranaTha</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ak viera hýbe vrchmi<br/>tak nech ustúpia<br/>vyhliadať sme ťa prišli<br/>čakáme na teba, na teba<br/>čakáme na teba<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aj keď stvorenia si Pánom<br/>srdce mi poznáš<br/>autorom si spásy<br/>od vekov rád ma máš<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Čakám teba,  Kráľ<br/>dlane mám<br/>dvihnuté do chvál<br/>Teba ctím, tebe len<br/>spievam Aleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty si všetko, čo si sľúbil<br/>si verný a pravdivý<br/>ty mi plníš všetky túžby<br/>chcem len s tebou byť<br/>s Tebou byť.</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Aleluja, aleluja.<br/>Aleluja, aleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

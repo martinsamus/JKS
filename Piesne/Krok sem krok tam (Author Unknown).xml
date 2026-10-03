@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Krok sem krok tam</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Krok sem, krok tam, Ježiš ma miluje.<br/>Napravo a naľavo, nech to každý vie.<br/>Zadupaj, zatlieskaj, radosť v srdci zahorí.<br/>Chyťme sa za ruky, veď v láske sme jednotní.</lines>
+    </verse>
+  </lyrics>
+</song>

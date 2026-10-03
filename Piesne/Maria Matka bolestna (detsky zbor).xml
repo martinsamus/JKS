@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Maria Matka bolestna</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, Matka bolestná,<br/>ty nás láske učíš,<br/>pod krížom stojíš žalostná,<br/>s Pánom svojím trpíš.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mária nanebovzatá,<br/>za nás stále prosíš,<br/>k pokániu voláš a žehnáš,<br/>ľudstvo v srdci nosíš.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kráľovná si ružencová,<br/>ty dáš nádej mnohým,<br/>ktorí chcú Krista v tichu nájsť,<br/>si im vzorom veľkým.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Á-ve Mária, gratia plena.<br/>A-ve Mária, gratia plena.</lines>
+    </verse>
+  </lyrics>
+</song>

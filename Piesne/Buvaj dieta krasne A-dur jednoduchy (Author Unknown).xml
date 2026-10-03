@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Buvaj dieta krasne A-dur jednoduchy</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="A"/>Búvaj, Dieťa<chord name="D"/> krás<chord name="E"/>ne,<chord name="A"/> uložené v<chord name="D"/> jas<chord name="E"/>le,<br/><chord name="A"/>búvaj, búvaj,<chord name="D"/> Pacho<chord name="E"/>ľa,<chord name="A"/> milostivé <chord name="D"/>Jezu<chord name="E"/>ľa!<br/><chord name="A"/>Budeme ťa<chord name="D"/> kolí<chord name="E"/>sať, <chord name="A"/>abys, mohol <chord name="E"/>dobre s<chord name="A"/>pať.<br/><chord name="A"/>Ježiško náš<chord name="D"/> mi-<chord name="E"/>lý,<chord name="A"/> aby sa ti <chord name="D"/>sni<chord name="E"/>li<br/><chord name="A"/>veľmi <chord name="D"/>krásne <chord name="E"/>sny,<chord name="A"/> veľmi <chord name="E"/>krásne <chord name="A"/>sny.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="A"/> Drozdy a hrd<chord name="D"/>lič<chord name="E"/>ky,<chord name="A"/> chystajte pe<chord name="D"/>snič<chord name="E"/>ky,<br/><chord name="A"/>nech sa Dieťa<chord name="D"/> pote<chord name="E"/>ší<chord name="A"/>,na tom našom<chord name="D"/> sal<chord name="E"/>aši.<br/><chord name="A"/>Spev škovránka,<chord name="D"/> sláv<chord name="E"/>ika, <chord name="A"/>k tomu pekná<chord name="E"/> muzi<chord name="A"/>ka!<br/><chord name="A"/>My budeme s<chord name="D"/> va<chord name="E"/>-mi<chord name="A"/> spievať za ja<chord name="D"/>sľa<chord name="E"/>-mi,<br/><chord name="A"/>Synu <chord name="D"/>mil<chord name="E"/>ému, <chord name="A"/>Synu<chord name="E"/> mi-lé<chord name="A"/>-mu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="A"/>Hory, ticho<chord name="D"/> buď<chord name="E"/>te,<chord name="A"/> Dieťa nezo<chord name="D"/>buď<chord name="E"/>te,<br/><chord name="A"/>nech si ono <chord name="D"/>podrie<chord name="E"/>me,<chord name="A"/> na slame a<chord name="D"/> na se<chord name="E"/>ne.<br/><chord name="A"/>Aj vy milé <chord name="D"/>fial<chord name="E"/>ky, <chord name="A"/>zaváňajte <chord name="E"/>do ďiaľ<chord name="A"/>ky,<br/><chord name="A"/>zavejte mu <chord name="D"/>vô-<chord name="E"/>ne,<chord name="A"/> Pánovi na <chord name="D"/>tró<chord name="E"/>ne,<br/><chord name="A"/>ticho, <chord name="D"/>sladúč<chord name="E"/>ko, <chord name="A"/>ticho, <chord name="E"/>sla-dúč<chord name="A"/>-ko.</lines>
+    </verse>
+  </lyrics>
+</song>

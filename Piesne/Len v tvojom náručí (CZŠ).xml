@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-30T05:37:14">
+  <properties>
+    <titles>
+      <title>Len v tvojom náručí</title>
+    </titles>
+    <authors>
+      <author>CZŠ</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Len v tvojom náručí chcem odpočívať, ó, Bože Stvoriteľ môj, veď srdce moje stále je nespokojné a  túži v tebe spočinúť.</lines>
+    </verse>
+    <verse name="v1">
+      <lines> Ktože ma naplní,<br/> kto mi srdce pozná,<br/> ktože mi odpovie, kto sa vo mne vyzná?<br/> Pane dobrotivý len ty ma obživíš,<br/> Bože, láska večná, krása nekonečná.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Moja duša smädná je, Bože, za tebou,<br/> napájaj ma prosím, svojou živou vodou.<br/> Svojho Ducha mi daj, nech ma unáša prúd,<br/> to v jeho objatí láske viem odomknúť.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bože, teraz chcem nájsť, tvoju lásku, čo chráni,<br/>veď keď nie si so mnou, ťažko pádom sa bránim.<br/>Nahraď plamene vášní Duchom milosrdným,<br/>uč ma podať pohár, uč ma byť posledným.</lines>
+    </verse>
+  </lyrics>
+</song>

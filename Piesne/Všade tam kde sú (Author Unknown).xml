@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Všade tam kde sú</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[(G)] Všade tam, kde<chord name="G"/> sú<chord name="D"/> ľudia zíde<chord name="G"/>ní <chord name="C"/><chord name="G"/><br/>v mene Je<chord name="G"/>žiš,<chord name="D"/> v láske zjednote<chord name="G"/>ní.<br/><chord name="Ami"/> Práve tam Boh<chord name="Emi"/> zasľúbil, <chord name="C"/> že bude prítom<chord name="G"/>ný,<br/><chord name="Ami"/> dnes viem, že<chord name="G"/> náš Boh je<chord name="C"/> na tomto<chord name="D4"/> mieste prítom<chord name="D"/>ný.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="C"/> /:Privítajme Pána v<chord name="G"/> tomto chráme,<br/><chord name="D"/> nech ho Božia sláva<chord name="Emi"/> naplní.<br/><chord name="C"/> Svojmu Bohu spiev<chord name="G"/>ame a hráme<chord name="D"/> pieseň spas<chord name="G"/>ených.:/</lines>
+    </verse>
+  </lyrics>
+</song>

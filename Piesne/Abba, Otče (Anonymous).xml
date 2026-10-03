@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>Abba, Otče</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ty si nás vytrhol, Pane,<br/>z pút hriechu i od seba samých<br/>a Kristus, stanúc’ sa bratom,<br/>nás naučil denne volať k tebe:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>R: Abba, Otče, Abba, Otče,<br/>Abba, Abba, Otče, Abba, Ot-če, (Otče)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Cirkev je ako strom života,<br/>ktorý má korene vo večnosti.<br/>Ona preniká našu všednosť<br/>a zjavuje všetkým ľuďom teba.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Boh hojným darcom je života,<br/>on oslobodil všetkých od smrti.<br/>On privinul si nás k sebe<br/>a tak sme sa stali jeho deťmi.</lines>
+    </verse>
+  </lyrics>
+</song>

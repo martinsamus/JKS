@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>322. Svätý, svätý, svätý</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Svätý, svätý, svätý,<br/>nadovšetko svätý,<br/>Ježiš plný milosti,<br/>v prevelebnej Sviatosti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Na kolená padám,<br/>česť a chválu vzdávam,<br/>tebe, Bohu živému,<br/>v Sviatosti sa ti klaniam.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Skromné srdce svoje<br/>príbytkom ti dávam,<br/>sluhom tvojím pokorným<br/>až do smrti ostávam.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Duchu Svätý, príď</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>/:Duchu Svätý, príď, Duchu Svätý, príď.:/</lines>
+    </verse>
+    <verse name="v1">
+      <lines>/:Nech zavládne viera, <br/>nech zavládne nádej,<br/>nech zavládne láska v nás.:/</lines>
+    </verse>
+  </lyrics>
+</song>

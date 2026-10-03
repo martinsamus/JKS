@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>265. Ctím teba pobožne</title>
+    </titles>
+    <authors>
+      <author>Eucharistické</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                             265.<br/>Ctím teba pobožne, vrúcne ťa ctím,<br/>|: prítomný pod rúškom tu sviatostným! :|<br/>Tebe sa oddávam, celý som tvoj<br/>|: hľaď na mňa hriešneho, ó Bože môj. :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                             265.<br/>O tebe rozjímam, Boh môj a Pán,<br/>|:  stvorením pohŕdam, kéď teba mám. :|<br/>Teba chcem milovať, tebe česť vzdať,<br/>|: v tebe sa tešiť chcem a radovať. :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                             265.<br/>Ježišu, ktorý si len z lásky k nám<br/>|: za pokrm nám, hriešnym, seba dal nám. :|<br/>Nech žíznim po tebe, nebeská slasť,<br/>|: kiež hľadám v nebesiach pravdivú vlasť. :|</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                             265.<br/>Po smrti v nebi chcem tvoju zrieť tvár,<br/>|: ako dnes pozerám tu na oltár. :|<br/>S tebou chcem živý byť vo večnosti,<br/>|: prijmi ma láskavo do milosti. :|</lines>
+    </verse>
+  </lyrics>
+</song>

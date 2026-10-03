@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:49">
+  <properties>
+    <titles>
+      <title>Ž 103</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Milostivý a milosrdný je Pán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dobroreč, duša moja, svojmu Pánovi.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dobrorečte Pánovi, čo má trón v nebesiach.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Duša moja, <br/>dobroreč svojmu Bohu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Milosrdenstvo Pánovo je od večnosti <br/>voči tým, čo sa ho boja.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Milostivý a milosrdný je Pán.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pán kraľuje nad všetkými, trón má v nebesiach.</lines>
+    </verse>
+  </lyrics>
+</song>

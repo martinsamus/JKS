@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:36">
+  <properties>
+    <titles>
+      <title>026 V temnosti Otcovia</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>V temnosti Otcovia - tešte sa z Krista, - ktorý sa na svet prísť - z neba už chystá, - lebo už žiadaný - ten čas nastáva, - v ktorom sa Boží Syn - človekom stáva.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Čakaný Mesiáš, - z neba nám daný, - sa vtelí v živote - Márie Panny; - čoskoro bude žiť - tu medzi nami, - aby nám otvoril - nebeské brány.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Diabolskú všetku moc - zláme a pýchu - i ľudí zachráni - od pekla, hriechu; - kráľovstvo naveky - svoje založí - a šťastie časné i - večné rozmnoží.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nuž my sa pripravme - na príchod Pána - a prosme túžobne - dar zmilovania, - aby sme v pokání - privítali ho, - v podobe človeka - narodeného.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Prosme ho, keď príde - nakoniec k súdu, - by hriechy odpustil - nám, svojmu ľudu; - aby nás postavil - po pravej ruke, - aby sme nestáli - vo večnej muke.</lines>
+    </verse>
+  </lyrics>
+</song>

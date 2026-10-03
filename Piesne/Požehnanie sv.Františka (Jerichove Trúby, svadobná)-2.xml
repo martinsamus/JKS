@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Požehnanie sv.Františka</title>
+    </titles>
+    <authors>
+      <author>Jerichove Trúby</author>
+      <author>svadobná</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nech váš požehnáva Pán<br/>Nech vás ochraňuje Pán<br/>Nech vám ukáže svoju tvá-ááááá-ár<br/>A nech je milostivý k vám</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nech k vám obráti svoj zrak<br/>A svoj pokoj nech vám dá<br/>A preto volám ešte raz<br/>Nech vás požehnáva Pán			celé 3x</lines>
+    </verse>
+    <verse name="v3">
+      <lines>+ na záver      Nech vás požehnáva Pán   3x</lines>
+    </verse>
+  </lyrics>
+</song>

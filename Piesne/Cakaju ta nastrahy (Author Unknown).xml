@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Cakaju ta nastrahy</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/>Čakajú ťa <chord name="a"/>nástrahy <chord name="F"/>tohoto sve<chord name="G"/>ta,<br/><chord name="C"/> Mária ťa<chord name="a"/> volá,<chord name="F"/> poď, moje di<chord name="G"/>eťa. R.:</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/>Ona nám vždy <chord name="a"/>vyprosí <chord name="F"/>hojné milos<chord name="G"/>ti;<br/><chord name="C"/>na ňu sa spo<chord name="a"/>ľahni v<chord name="F"/> každej ťažko<chord name="G"/>sti. R.:</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/>Matka moja <chord name="a"/>láskavá, <chord name="F"/>ja ťa milu<chord name="G"/>jem,<br/><chord name="C"/>srdce svoje <chord name="a"/>mladé<chord name="F"/> tebe daru<chord name="G"/>jem. R.:</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:<chord name="F"/> Mária ma<chord name="G"/> ochraňuje,<chord name="C"/> ja sa neb<chord name="a"/>ojím,<br/><chord name="F"/>vrhnem sa pod <chord name="G"/>jej ochranný<chord name="C"/> pl<chord name="C7"/>ášť.<br/><br/><chord name="F"/>Ona podá <chord name="G"/>ruku a ja <chord name="C"/>smelo kráčam s <chord name="a"/>ňou,<br/><chord name="F"/>Mária je <chord name="G"/>Matkou najdrah<chord name="C"/>šou.[(1:C7)] :/</lines>
+    </verse>
+  </lyrics>
+</song>

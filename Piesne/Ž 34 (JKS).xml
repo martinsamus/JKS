@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Ž 34</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Skúste a presvedčte sa, <br/>aký dobrý je Pán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pán ma vyslobodil zo všetkej hrôzy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pán vyslobodí spravodlivých <br/>zo všetkých tiesní.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pána chcem velebiť v každom čase.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Úbožiak zavolal <br/>a Pán ho vyslyšal.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Velebiť budem Pána <br/>v každom čase.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Pane, buď pri tých,<br/>čo majú srdce skrušené.</lines>
+    </verse>
+  </lyrics>
+</song>

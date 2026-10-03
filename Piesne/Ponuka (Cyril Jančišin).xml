@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Ponuka</title>
+      <title>Vezmi si vezmi</title>
+    </titles>
+    <authors>
+      <author>Cyril Jančišin</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ježišu len tebe dám, <br/>dám ti celý život svoj<br/>a to jediné,<br/>čo mám ti ponúkam.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nechcem žiť len pre seba,<br/>veď pozývaš ma za sebou<br/>a ja s radosťou<br/>sa ti dávam, Pane môj</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Vezmi si, vezmi,<br/>moje plány a sny,<br/>cestou v mojom živote si Ty</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ísť za tebou, čo to znamená,<br/>zodrať si dlane a či kolená<br/>ukáž mi správnu cestu, Pane môj</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pozri sa na mňa a uvidíš,<br/>takto mi cítim to hovoríš<br/>a Ty si nás miloval až po kríž</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pane chcem byť konkrétny,<br/>veď v každom blížnom si Ty<br/>a kde inde ťa nájdem, ak nie v nich.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tak dobre, Pane, skúsim to,<br/>milovať ľudí ako Ty<br/>a nebáť sa dať i život pre druhých.</lines>
+    </verse>
+  </lyrics>
+</song>

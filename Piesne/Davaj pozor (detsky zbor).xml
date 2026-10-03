@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Davaj pozor</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dávaj pozor malé oko, čo vidíš,<br/>dávaj pozor malé oko, čo vidíš!<br/>Pán sa z Neba pozerá, aká je tvoja viera,<br/>dávaj pozor malé oko, čo vidíš!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dávaj pozor malé ucho, čo čuješ,<br/>Dávaj pozor malé ucho, čo čuješ!<br/>Pán sa z Neba pozerá, aká je tvoja viera,<br/>dávaj pozor malé ucho, čo čuješ!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dávaj pozor malý jazyk, čo vravíš,<br/>Dávaj pozor malý jazyk, čo vravíš!<br/>Pán sa z Neba pozerá, aká je tvoja viera,<br/>dávaj pozor malý jazyk, čo vravíš!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dávaj pozor malá ruka, čo robíš,<br/>Dávaj pozor malá ruka, čo robíš!<br/>Pán sa z Neba pozerá, aká je tvoja viera,<br/>dávaj pozor ruka, čo robíš!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dávaj pozor malá noha, kam ideš,<br/>Dávaj pozor malá noha, kam ideš!<br/>Pán sa z Neba pozerá, aká je tvoja viera,<br/>dávaj pozor ruka, kam ideš!</lines>
+    </verse>
+  </lyrics>
+</song>

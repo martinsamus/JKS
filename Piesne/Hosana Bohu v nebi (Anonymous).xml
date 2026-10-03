@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Hosana Bohu v nebi</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prichádza Kráľ slávy<br/>S kráľovstvom na nebesiach<br/>Celá zem volá len<br/><p style="page-break-after: always;"/><br/>On svojou vzácnou láskou<br/>Očistil nás z našich vín<br/>Celá zem spieva len</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Hosana, hosana, hosana Bohu v nebi.<br/>Hosana, hosana, hosana Bohu v nebi.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Povstáva Boží národ s odvahou a túžbou stáť,<br/>pevne stáť s vierou rásť.<br/>Prichádza nová nádej, prebudenie mŕtvych dní.<br/>Celá zem spieva len.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vezmi moje srdce dnes<br/>Chcem svoj život tebe dať<br/>A nechať sa viesť<br/>Milovať tak ako ty<br/>Ma ľúbiš</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zlom mi srdce pre svoj plán<br/>Všetko to čo mám iba tebe dám<br/>Veď ma cestou nádeje do večnosti.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Svaty - Pane Boze svetov nekonecnych</title>
+    </titles>
+    <verseOrder>v1 v2 c1 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Svätý,svätý,svätý, Pane Bože svetov nekonečných.<br/>Si slávny a skrývaš svoju slávu vo svojich dielach.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V mene Pánovom k nám dnes vchádzaš Ty požehnaný Pánov.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:Hosanna, Hosanna, Hosanna buď Kráľovi kráľov.:/</lines>
+    </verse>
+  </lyrics>
+</song>

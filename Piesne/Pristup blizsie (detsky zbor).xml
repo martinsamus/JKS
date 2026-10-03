@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Pristup blizsie</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pristúp bližšie, nebuď sám, vytvoríme niečo krásne.<br/>Každý z nás je Boží chrám, v každom z nás je niečo zvláštne!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vlož do dlane svoju dlaň, zjednoťme sa v Jeho mene.<br/>Boh zostúpil z neba k nám. Jeho Láska v každom drieme.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boh nás v rukách má, preto spievame a hráme.<br/>Nesie teba a mňa, veľkú radosť z toho máme</lines>
+    </verse>
+  </lyrics>
+</song>

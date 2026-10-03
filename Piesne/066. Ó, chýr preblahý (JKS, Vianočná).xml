@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:37">
+  <properties>
+    <titles>
+      <title>066. Ó, chýr preblahý</title>
+    </titles>
+    <authors>
+      <author>Vianočná</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                                 66.<br/>/:Ó, chýr preblahý,<br/>ó, čas predrahý!:/<br/>Zasľúbený dávno svetu<br/>Vykupiteľ, hľa, už je tu.<br/>Ó, chýr preblahý, ó, čas predrahý!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                                 66.<br/>/:Zvuky nebeské, spevy anjelské:/<br/>hlásia, že Syn Boží z neba<br/>v telo ľudské odel seba.<br/>Ó, chýr preblahý, ó, čas predrahý!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                                 66.<br/>/:V kraji beltemskom,<br/>v lone panenskom:/<br/>Syn sa zrodil prevznešený,<br/>človek s Bohom zjednotený.<br/>Ó, chýr preblahý, ó, čas predrahý!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                                 66.<br/>/:Sveta Stvoriteľ, Pán a Riaditeľ,:/<br/>nám podobným tvorom stal sa,<br/>aby za nás v obeť dal sa.<br/>Ó, chýr preblahý, ó, čas predrahý!</lines>
+    </verse>
+  </lyrics>
+</song>

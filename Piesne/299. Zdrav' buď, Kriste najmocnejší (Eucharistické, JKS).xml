@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>299. Zdrav' buď, Kriste najmocnejší</title>
+    </titles>
+    <authors>
+      <author>Eucharistické</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                             299<br/>Zdrav' buď, Kriste najmocnejší,<br/>zdravas', sladkosť nebeská,<br/>zdrav' buď, Ježiš náš najsladší,<br/>zdravas' radosť anjelská!<br/>K tebe hľadia Cherubíni,<br/>s tebou sa vždy radujú,<br/>tebe všetci Serafíni hlboko sa klaňajú.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                             299<br/>Tu prebývaš na oltári,<br/>Baránok ty nebeský,<br/>prijmi vďačne naše dary,<br/>žehnaj národ slovenský.<br/>Nech nás ruka tvoja vodí<br/>chráň nám mravy, chlieb a reč,<br/>daj, nech vlasti neuškodí<br/>ani bieda ani meč.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                             299<br/>Nám synom a dcéram rodným<br/>udeľ ducha svornosti<br/>a uštedri ľuďom hodným<br/>dni pokoja, hojnosti.<br/>Prosíme ťa, by zavládla<br/>medzi nami jednota,<br/>aby Cirkev objať mohla<br/>všetkých členov národa.</lines>
+    </verse>
+  </lyrics>
+</song>

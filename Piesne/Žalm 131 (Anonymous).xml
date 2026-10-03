@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:49">
+  <properties>
+    <titles>
+      <title>Žalm 131</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pane moje srdce sa nevystatuje<br/>Moje oči nehľadia povýšene.<br/>Neženiem sa za veľkými vecami,<br/>ani za divmi nedosiahnuteľnými</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:Ako nasýtené dieťa v matkinom náručí<br/>Ako nasýtené dieťa tak je moja duša vo mne:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ale ja som svoju dušu upokojil a utíšil<br/>Dúfaj Izrael v Pána odteraz až naveky.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:49">
+  <properties>
+    <titles>
+      <title>Ž 118</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Toto je deň Krista Pána, <br/>radujme sa, aleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kameň, čo stavitelia zavrhli, stal sa kameňom uholným.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Oslavujme Pána, <br/>lebo je dobrý,<br/>lebo jeho milosrdenstvo<br/>trvá naveky.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Požehanný, <br/>ktorý prichádza v mene Pánovom.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vzdávame ti vďaky, Pane, Bože milosrdný.</lines>
+    </verse>
+  </lyrics>
+</song>

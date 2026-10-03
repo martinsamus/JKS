@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Chcem vojsť do Tvojich brán</title>
+    </titles>
+    <authors>
+      <author>Začiatok</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chcem vojsť do Tvojich brán<br/>srdce plné vďaky mám,<br/>chcem vojsť s poctou do Tvojich nadvorí.<br/>Lebo viem, že to je deň,<br/>ktorý Pán daroval nám.<br/>A teším sa, že radosť dal mi Pán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>R.|: Že radosť dal mi Pán, že radosť dal mi Pán<br/>A teším sa, že radosť dal mi Pán. :|</lines>
+    </verse>
+  </lyrics>
+</song>

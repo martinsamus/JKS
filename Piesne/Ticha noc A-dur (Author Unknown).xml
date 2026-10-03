@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Ticha noc A-dur</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="A"/>Tichá noc, svätá noc. <chord name="E"/>Všetko <chord name="E7"/>spí, <chord name="A"/>všetko sní<chord name="A7"/>,<br/><chord name="D"/>sám len svätý bdie <chord name="A"/>dôverný pár, s<chord name="D"/>tráží Dieťatko, <chord name="A"/>nebeský dar.<br/><chord name="E"/>Sladký<chord name="E7"/> Ježiško <chord name="A"/>spí[F#mi<br/>], sní,<chord name="A"/> nebesky<chord name="E"/> ticho spí, <chord name="A"/>sní.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="A"/>Tichá noc, svätá noc.<chord name="E"/> Anj<chord name="E7"/>eli <chord name="A"/>zletel<chord name="A7"/>i,<br/><chord name="D"/>najprv pastierom <chord name="A"/>podali zvesť, <chord name="D"/>ktorá svetom dnes <chord name="A"/>dáva sa niesť:<br/><chord name="E"/>Kris<chord name="E7"/>tus, Spasiteľ<chord name="A"/> je[F#mi<br/>] tu, <chord name="A"/> Tešiteľ<chord name="E"/> sveta je<chord name="A"/> tu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="A"/>Tichá noc, svätá noc. <chord name="E"/>Nežná <chord name="E7"/>tvár <chord name="A"/>lásky žia<chord name="A7"/>r<br/><chord name="D"/>božsky rozsieva v <chord name="A"/>jasličkách tam.<chord name="D"/> Bije záchranná<chord name="A"/> hodina nám<br/><chord name="E"/>v tvojom <chord name="E7"/>zrodení,<chord name="A"/> Boh[F#mi<br/>] Syn. <chord name="A"/>Ježiško, <chord name="E"/>Láska, Boh <chord name="A"/>Syn!</lines>
+    </verse>
+  </lyrics>
+</song>

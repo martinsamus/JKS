@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Svaty - Pane Boze svetov nekonecnych</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G e"/> Svätý,s<chord name="h "/>vätý,s<chord name="C"/>vätý, Pane Bože <chord name="D"/>svetov nekonečných.<br/><chord name="C"/>Si slá<chord name="h"/>vny a s<chord name="C"/>krýv<chord name="e"/>aš svoju <chord name="C"/>slávu <chord name="A7"/>vo svojich <chord name="D"/>dielach.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V mene<chord name="e"/> Pánovom k<chord name="C"/> nám dnes <chord name="D"/>vchádzaš Ty požehnaný<chord name="G"/> Pánov.<chord name="D"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:H<chord name="G"/>osa<chord name="D"/>nna, H<chord name="G"/>osa<chord name="D"/>nna, H<chord name="C"/>osanna buď <chord name="D"/>Kráľovi <chord name="G"/>kráľov.:/</lines>
+    </verse>
+    <verse name="c2">
+      <lines>/:H<chord name="G"/>osa<chord name="D"/>nna, Ho<chord name="G"/>sa<chord name="D"/>nna, H<chord name="C"/>osanna buď <chord name="D"/>Kráľovi<chord name="G"/> kráľov.:/</lines>
+    </verse>
+  </lyrics>
+</song>

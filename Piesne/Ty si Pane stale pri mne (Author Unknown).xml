@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Ty si Pane stale pri mne</title>
+    </titles>
+    <verseOrder>v1 c1 v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="D"/>Ty si Pane s<chord name="A"/>tále pri mne,<chord name="G"/><br/>ja Ťa však<chord name="D"/> necítim.<br/><chord name="D"/> Ty sa mi<chord name="A"/> ukazuješ,<chord name="G"/><br/>ja Ťa vša<chord name="D"/>k nevidím.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>[:<chord name="G"/>Moje zatvrdlivé srdc<chord name="D"/>e nepustí Ťa k sebe,<br/><chord name="G"/> moje oči od mamony<chord name="D"/> sú zaslepené.<br/><br/><chord name="D"/> Daj mi dole<chord name="A"/> závoj z očí<chord name="G"/>, by som Ťa<chord name="D"/> uvidel<br/><chord name="D"/> a za Tebou,<chord name="A"/> ó, môj Pane<chord name="G"/>, vždy <chord name="A"/>rád som <chord name="D"/>šiel. :]</lines>
+    </verse>
+  </lyrics>
+</song>

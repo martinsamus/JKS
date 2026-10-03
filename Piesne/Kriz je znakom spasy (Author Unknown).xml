@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Kriz je znakom spasy</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="C"/> Sám si Pane<chord name="Emi"/> znášal<br/><chord name="F"/> ťarchu našich <chord name="G"/>vín.<br/><chord name="C"/> Sám si sa o<chord name="Emi"/>ddával<br/>z<chord name="F"/> lásky pod svoj<chord name="G"/> k<chord name="C"/>ríž.<chord name="G7"/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="C"/> Pozri, Pane,<chord name="Emi"/> hľa tu<br/><chord name="F"/> na mňa úbo<chord name="G"/>hého,<br/><chord name="C"/> pomôž znášať<chord name="Emi"/> ťarchu<br/><chord name="F"/>kríža tak ťaž<chord name="G"/>ké<chord name="C"/>ho.<chord name="G7"/></lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="C"/> Chcem aj ja niesť <chord name="Emi"/>svoj kríž,<br/><chord name="F"/>ťarchu svojich <chord name="G"/>vín.<br/><chord name="C"/> Krista vždy nasl<chord name="Emi"/>edovať,<br/><chord name="F"/>chcem byť stále s<chord name="G"/> N<chord name="C"/>ím.<chord name="G7"/></lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="C"/> Kríž je znakom<chord name="Emi"/> spásy, <chord name="F"/>kríž ten dreve<chord name="G"/>ný,<br/><chord name="C"/> Kristom nesený z<chord name="Emi"/> lásky, <chord name="F"/>krvou zmáča<chord name="G"/>ný <chord name="C"/>za nás.<chord name="G7"/></lines>
+    </verse>
+  </lyrics>
+</song>

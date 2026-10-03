@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Ci si velky a ci maly</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v1 v2 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">a D G</lines>
+      <lines><chord name="G"/> Či si [ ]veľký<chord name="e "/> a či <chord name="G "/>malý, t<chord name="e"/>aký aku<chord name="G"/>rát.<br/><chord name="e"/> Boh ť<chord name="a"/>a má rád.<br/><br/>Či<chord name="a "/> si tučný a či <chord name="D"/>chudý, <chord name="a"/>taký aku<chord name="D"/>rát.<br/><chord name="a"/> Boh <chord name="D"/>ťa má<chord name="G"/> rád.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>On ťa miluje keď sa smeješ,<br/>O<chord name="C"/>n ťa miluje aj keď plačeš,<br/><br/><chord name="a"/>On ťa miluje keď sa mračíš,<br/>On ť<chord name="D"/>a miluje aj keď spíš.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Je t<chord name="G"/>o jedno jak s<chord name="e"/>a cítiš<br/>a ja<chord name="G"/>k vyzer<chord name="e"/>áš,<br/>B<chord name="a"/>oh ť<chord name="D"/>a má <chord name="G"/>rád.<br/><chord name="G"/> <chord name="e"/> <chord name="G"/> <chord name="e"/> <chord name="a"/> <chord name="D"/> <chord name="G"/> ;medzihra</lines>
+    </verse>
+  </lyrics>
+</song>

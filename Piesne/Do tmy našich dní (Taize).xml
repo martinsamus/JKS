@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Do tmy našich dní</title>
+    </titles>
+    <authors>
+      <author>Taize</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Do tmy našich dní, nám dávaš svoj oheň, <br/>ktorý viac nezhasne,  ktorý nikdy nezhasne.</lines>
+    </verse>
+  </lyrics>
+</song>

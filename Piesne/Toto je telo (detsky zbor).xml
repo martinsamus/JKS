@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Toto je telo</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Keď už poslanie spásy vrcholí,<br/>Ježiš pozdvihol víno a chlieb.<br/>Ono krvou a telom sa stáva,<br/>aby do svetla mohli sme prejsť.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Na zem zostúpil, v chlebe sa delí,<br/>v sebe dedičstvo nám daroval,<br/>aby nikto z nás neminul cieľ,<br/>aby nikto z nás nehladoval.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.Iba vo viere rozpoznať musím,<br/>že si skutočne tu prítomný,<br/>v tomto posvätnom chlebe a víne,<br/>Vykupiteľ môj oslávený.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.Naše ústa nech vždy ohlasujú<br/>veľký zázrak čo urobil Pán,<br/>že nás zapálil ohnivou láskou,<br/>že sa ponúka svetu i nám.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>R:Toto je telo a toto je krv,<br/>čo dávaš za mňa na oltár, Spasiteľ môj,<br/>pravý Boh za pokrm ľuďom sa dal,<br/>aby večný život v nás zachoval.</lines>
+    </verse>
+  </lyrics>
+</song>

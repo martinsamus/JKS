@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Ž 40</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+    <songbooks>
+      <songbook name="Kurima Žalmy"/>
+    </songbooks>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Hľa, prichádzam, Pane, chcem plniť tvoju vôľu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hľa prichádza Pán <br/>plniť Božiu vôľu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pane, príď mi čím skôr na pomoc.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zvestujeme Pánovu smrť, kým nepríde v sláve.</lines>
+    </verse>
+  </lyrics>
+</song>

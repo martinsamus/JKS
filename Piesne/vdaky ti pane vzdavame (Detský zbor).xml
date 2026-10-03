@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>vdaky ti pane vzdavame</title>
+    </titles>
+    <authors>
+      <author>Detský zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Vďaky Ti, Pane, vzdávame vďaky, Tebe, čo kraľuješ v nebi na veky.<br/>1. Pretože dal si nám vieru...<br/>2. Pretože dal si nám nádej...<br/>3. pretože dal si nám lásku...<br/>4. Pretože dávaš nám chleba...<br/><br/><br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Vďaky Ti, Pane, vzdávame vďaky, Tebe, čo kraľuješ v nebi na veky.<br/>5. Pretože odpúšťaš hriechy...<br/>6. Pretože dávaš nám Život...<br/>7. Pretože stále si s nami...<br/>8. Pretože môžeme spievať...<br/>9. Preto buď s nami na veky...</lines>
+    </verse>
+  </lyrics>
+</song>

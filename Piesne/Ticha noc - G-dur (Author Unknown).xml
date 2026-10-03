@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Ticha noc - G-dur</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="G"/>Tichá noc, svätá noc. <chord name="D"/>Všetko <chord name="D7"/>spí, <chord name="G"/>všetko sní<chord name="G7"/>,<br/><chord name="C"/>sám len svätý bdie <chord name="G"/>dôverný pár, s<chord name="C"/>tráží Dieťatko, <chord name="G"/>nebeský dar.<br/><chord name="D"/>Sladký<chord name="D7"/> Ježiško <chord name="G"/>spí[Emi<br/>], sní,<chord name="G"/> nebesky<chord name="D"/> ticho spí, <chord name="G"/>sní.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="G"/>Tichá noc, svätá noc.<chord name="D"/> Anj<chord name="D7"/>eli <chord name="G"/>zletel<chord name="G7"/>i,<br/><chord name="C"/>najprv pastierom <chord name="G"/>podali zvesť, <chord name="C"/>ktorá svetom dnes <chord name="G"/>dáva sa niesť:<br/><chord name="D"/>Kris<chord name="D7"/>tus, Spasiteľ<chord name="G"/> je[Emi<br/>] tu, <chord name="G"/> Tešiteľ<chord name="D"/> sveta je<chord name="G"/> tu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="G"/>Tichá noc, svätá noc. <chord name="D"/>Nežná <chord name="D7"/>tvár <chord name="G"/>lásky žia<chord name="G7"/>r<br/><chord name="C"/>božsky rozsieva v <chord name="G"/>jasličkách tam.<chord name="C"/> Bije záchranná<chord name="G"/> hodina nám<br/><chord name="D"/>v tvojom <chord name="D7"/>zrodení,<chord name="G"/> Boh[Emi<br/>] Syn. <chord name="G"/>Ježiško, <chord name="D"/>Láska, Boh <chord name="G"/>Syn!</lines>
+    </verse>
+  </lyrics>
+</song>

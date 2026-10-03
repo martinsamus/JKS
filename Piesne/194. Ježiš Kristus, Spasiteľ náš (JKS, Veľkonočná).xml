@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:38">
+  <properties>
+    <titles>
+      <title>194. Ježiš Kristus, Spasiteľ náš</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+      <author>Veľkonočná</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                             194<br/>Ježiš Kristus, Spasiteľ náš,<br/>smrť premohol za nás,<br/>slávne z mŕtvych vstal,<br/>tým zlosť prekonal.<br/>Aleluja, aleluja, aleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                             194<br/>Sám bez hriechu sa narodil,<br/>z hriechu vyslobodil,<br/>s Otcom zmieril nás Vykupiteľ náš.<br/>Aleluja, aleluja, aleluja.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                             194<br/>Oslavujme zmŕtvychvstanie<br/>tvoje, Kriste Pane:<br/>česť ti vzdávame,<br/>vrúcne spievame.<br/>Aleluja, aleluja, aleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                             194<br/>Jezu Kriste, Spasitelu,<br/>vyslyš Cirkev celú,<br/>skrz jej vedenie daj nám spasenie.<br/>Aleluja, aleluja, aleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

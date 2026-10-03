@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Svätá Madonna</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Večeradlo s Pannou Máriou</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nájdeš miesta v našej zemi,<br/>kam sa radi vraciame,<br/>kde kraľuje láskavá tvár<br/>Matky Božej - Márie.<br/>Zrak má smutný, ubolený,<br/>ako by Ťa prosila,<br/>a do materskej ochrany volala.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Madonna, Svätá Madonna,<br/>chcem Tvojím dieťaťom byť,<br/>ó, dovoľ, Svätá Madonna,<br/>v náručie svoje sa skryť.</lines>
+    </verse>
+    <verse name="v2">
+      <lines break="optional">V jej náručí nájdeš pokoj<br/>a ochrániš sa od zla,<br/>veď pre všetky svoje deti</lines>
+      <lines>Ona srdce veľké má.<br/>A ochráni Ťa od hriechu,<br/>keď jej srdce daruješ,<br/>keď jej vrúcne opakuješ slová tie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines break="optional">Dnes keď vôkol nás nepokoj,<br/>kde sa človek schúliť má,<br/>kde sa vrhnúť, keď nie k Matke,<br/>ktorá útechu Ti dá.</lines>
+      <lines>Ó, Madonna, prosíme Ťa,<br/>milosť svoju dietkam daj,<br/>a vypočuj, keď spievame, prosiac Ťa.</lines>
+    </verse>
+  </lyrics>
+</song>

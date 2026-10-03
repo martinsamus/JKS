@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Obeta srdca</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2</verseOrder>
+    <authors>
+      <author>Obetné dary</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Túžim priniesť na oltár<br/>život, čo v sebe mám,<br/>Tvojou láskou zlomený,<br/>chcem Ťa chváliť môj Pán.<br/>Chcem Ti vydať práve dnes,<br/>každú časť života,<br/>viem, že prijmeš každý dar<br/>zlomeného srdca.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>R: Povedz, čo Ti smiem dať, čo priniesť Ti smiem? Si môj láskavý Kráľ, ja len miznúci tieň.<br/>Ježiš viac nemám slov, pieseň doznieva tiež, aj keď nehodný som, chcem Ti niečo priniesť.<br/>Možno len tichý plač, len bolesť, čo mám, svoju hĺbku srdca Ti dám  môj láskavý Pán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Kvôli Tebe dýchať smiem,<br/>môj dlh splatil si sám.<br/>Život svoj si za môj dal,<br/>bol to víťazný plán.<br/>Vzal si hanbu z mojich pliec,<br/>bol to posledný boj,<br/>otvoril si bránu nebies,<br/>dnes som iba Tvoj.</lines>
+    </verse>
+  </lyrics>
+</song>

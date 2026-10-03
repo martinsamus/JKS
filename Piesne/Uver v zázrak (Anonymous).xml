@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Uver v zázrak</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Môže i na pustej púšti živá tráva rásť, zarodiť i planý figovník.<br/>Môže hviezda, ktorú cez deň vôbec nevidíš, v noci žiariť jasom ohnivým.<br/>Môže i na skalnej pôde krásny kvet vyrásť, mravec uniesť ťažké bremená.<br/>Môže i uprostred dažďa slnko preblesknúť, môže dúfať človek strápený.<br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: Uver v zázrak vykúpenia, <br/>pozri, Boh chcel: chromí chodia,<br/>slepí vidia, hluchí počujú. :/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Môže človek nepozvaný na hostinu prísť, lotor sprava byť zachránený.<br/>Môže ovcu zablúdenú dobrý pastier nájsť, život zmeniť hriešnik bývalý.<br/>Môže viera malá ako zrnko horčičné konať divy, veci zázračné.<br/>Môže láska ani za zbraň nepokladaná vydobiť kráľovstvo nebeské.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Otče náš</title>
+    </titles>
+    <authors>
+      <author>Večeradlo s Pannou Máriou</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional">Otče náš, ktorý si na nebesiach, <br/>posväť sa meno tvoje,<br/>Príď kráľovstvo Tvoje.<br/>Buď vôľa tvoja ako v nebi,<br/>tak i na zemi.</lines>
+      <lines>Chlieb náš každodenný daj nám dnes<br/>a odpusť nám naše viny,<br/>ako i my odpúšťame svojim vinníkom<br/>a neuveď nás do pokušenia,<br/>ale zbav nás zlého. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

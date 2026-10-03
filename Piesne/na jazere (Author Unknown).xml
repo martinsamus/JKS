@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>na jazere</title>
+    </titles>
+    <verseOrder>v1 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na jazere je veľká búrka,<br/>Ježiš so mnou v loďke je. 2x</lines>
+    </verse>
+    <verse name="c1">
+      <lines>On za ruku drží ma,<br/>loďka sa nekolembá.<br/>Na jazere je veľká búrka,<br/>Ježiš so mnou v loďke je. 2x</lines>
+    </verse>
+  </lyrics>
+</song>

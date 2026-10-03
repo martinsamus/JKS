@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Raduj sa, nebies Kráľovná</title>
+    </titles>
+    <authors>
+      <author>Modlitby</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Raduj sa, nebies Kráľovná, aleluja.<br/>Lebo koho si nosila, aleluja,<br/>z mŕtvych vstal, jak predpovedal, aleluja.<br/>Pros, aby nás k sebe prijal, aleluja.<br/><br/>K: Raduj sa a veseľ sa, Panna Mária, aleluja.<br/>Ľ: Lebo Pán skutočne z mŕtvych vstal, aleluja.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>M o d l i m e  s a:<br/>Bože, ty si zmŕtvychvstaním tvojho Syna,<br/>nášho Pána Ježiša Krista, potešil celý svet;<br/>prosíme ťa, daj, aby sme na príhovor<br/>jeho Rodičky Panny Márie dosiahli<br/>radosti večného života.<br/>Skrze Krista, nášho Pána.<br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>

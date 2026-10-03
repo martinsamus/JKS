@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-16T05:39:23">
+  <properties>
+    <titles>
+      <title>Prichádzame k Tebe Pane</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1a">
+      <lines>Prichádzame k Tebe, Pane, so srdcom plným radosti<br/>a spoločne Ti chceme poďakovať. </lines>
+    </verse>
+    <verse name="v1">
+      <lines>Za dni, ktoré nám dávaš Ti ďakujeme.<br/>Za všetky plody zeme Ti ďakujeme.<br/>A tiež za prácu, za radosti života Ti ďakujeme.</lines>
+    </verse>
+    <verse name="c1b">
+      <lines>Prichádzame k Tebe, Pane, so srdcom plným radosti<br/>a spoločne Ti chceme poďakovať.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Za všetky Tvoje slová Ti ďakujeme.<br/>Lebo si nám dal život, Ti ďakujeme.<br/>A tiež za Cirkev, ktorá nás spája, Ti ďakujeme.</lines>
+    </verse>
+    <verse name="c1c">
+      <lines>Prichádzame k Tebe, Pane, so srdcom plným radosti<br/>a spoločne Ti chceme poďakovať. <br/></lines>
+    </verse>
+  </lyrics>
+</song>

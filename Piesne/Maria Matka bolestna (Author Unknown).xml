@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Maria Matka bolestna</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="a"/> Mária,<chord name="G"/> Matka boles<chord name="C"/>tná,<chord name="d"/><br/>ty nás <chord name="G"/>láske<chord name="C"/> učíš,<br/><chord name="d"/> pod krížom s<chord name="G"/>tojíš žalos<chord name="C"/>tná,<br/>s<chord name="d"/> Pánom svojím <chord name="E"/>trpíš.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="a"/> Mária<chord name="G"/> nanebovz<chord name="C"/>atá,<chord name="d"/><br/>za nás <chord name="G"/>stále<chord name="C"/> prosíš,<br/><chord name="d"/> k pokániu<chord name="G"/> voláš a žeh<chord name="C"/>náš,<chord name="d"/><br/>ľudstvo v srdci <chord name="E"/>nosíš.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="a"/> Kráľovná<chord name="G"/> si ruženc<chord name="C"/>ová,<chord name="d"/><br/>ty dáš<chord name="G"/> nádej<chord name="C"/> mnohým,<br/><chord name="d"/> ktorí chcú <chord name="G"/>Krista v tichu <chord name="C"/>nájsť,<chord name="d"/><br/>si im vzorom <chord name="E"/>veľkým.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="a"/> Á<chord name="G"/>-ve Má<chord name="C"/>ria, <chord name="d"/>gratia ple<chord name="E"/>na.<chord name="a"/><br/>A<chord name="G"/>-ve<chord name="C"/> Már<chord name="a"/>ia, <chord name="d"/>gratia<chord name="E"/> ple<chord name="a"/>na.</lines>
+    </verse>
+  </lyrics>
+</song>

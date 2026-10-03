@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Tvar potom a krvou</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tvár potom a krvou zmáčanú, bolesťou, čo za nás dal. Hlavu mal korunou<br/>zráňanú a kríž si na plecia vzal<br/>Tí, ktorí citia s ním hlavy klonia a boja sa prísť k Nemu<br/>A vtedy zraky sa upreli na jednu jedinú ženu</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Žena sa cez zástup prediera o chvíľu stojí pred ním<br/>Šatkou mu jeho tvár utiera, odvahy a lásky čin<br/>Vojaci kruto ju odsotia a ľud sa na nich len díva<br/>To sama ešte nič netuší, nevie, čo pri sebe skrýva</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kráčala tou cestou krížovou a v ruke si držala<br/>Plátenú šatku, ktorou Jeho tvár láskavo pohladila<br/>Jediná z nihc mala odvahu utrieť tú strápenú tvár<br/>/: A On jej na šatke plátenej obraz svoj zanechal:/</lines>
+    </verse>
+  </lyrics>
+</song>

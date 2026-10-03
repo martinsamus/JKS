@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Je krásne dávať</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v2 v4 v2</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Je krásne ísť a rozdať<br/>viac, než káže zvyk,<br/>a v dávaní sa tešiť,<br/>dávať, kým nik nevidí.<br/><br/>Ráno vstať a vidieť<br/>úsmev v tvári brata,<br/>nájsť ho tam aj večer skrášlený,<br/>keď cez deň trápenie ho očistí.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>R: Hej, Bohu vďaka nech znie,<br/>hej, Bohu vďaka, že prišiel k nám,<br/>nie je to zlé.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Je krásne hlásať všetko,<br/>čím sa náš Boh blysol<br/>z lásky k nám a že ju<br/>stále k nám a k svetu má.<br/><br/>Dá sa zvládnuť život,<br/>dá sa znášať bolesť<br/>s nádejou, že zbierka prísľubov,<br/>čo nechal v písme Pán je pravdivá.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Je krásne šíriť svetom<br/>túto slávnu zvesť,<br/>že Pán je Láska a že<br/>láskou stále žije v nás.<br/><br/>Nádherné je poznať,<br/>nádherné je učiť krásnu zvesť,<br/>že Ježiš práve nás si vybral,<br/>práve v nás chce bratov nájsť.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Zvelebujte Pána</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zvelebujte Pána,  ľudské srdcia ako zvony.<br/>Padni na kolená pred ním, človek ubiedený.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>On osuší tvoje slzy, v trápení ťa neopustí.<br/>U jeho nôh padni v prah, lebo je Boh všemohúci.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nemá hraníc jeho múdrosť svätý, svätý, plný lásky.<br/>Spievaj Pánu, zem, vzdávaj Pánu chválu, všetko s nami.</lines>
+    </verse>
+  </lyrics>
+</song>

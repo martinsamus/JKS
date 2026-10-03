@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Je stale pritomna</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Je stále prítomná tvoja láska.<br/>Radostne spievame o tvojej sláve.<br/>[: Nech pieseň zazvoní v každej chvíli,<br/>teba chválim, Pane môj, ako najlepšie viem. :]</lines>
+    </verse>
+  </lyrics>
+</song>

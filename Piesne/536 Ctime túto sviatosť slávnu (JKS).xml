@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>536 Ctime túto sviatosť slávnu</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ctime túto sviatosť slávnu,<br/>zbožne skloňme kolená,<br/>bohoslužbu starodávnu<br/>nahraď nová, vznešená;</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>pomôž zmyslom, <br/>ktoré slabnú,<br/>viera s láskou spojená.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Otcu, Synu jedinému<br/>chvála buď a plesanie,<br/>sláva, moc a česť ich menu,<br/>taktiež dobrorečenie;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>od obidvoch Poslanému<br/>rovnaké buď uctenie.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

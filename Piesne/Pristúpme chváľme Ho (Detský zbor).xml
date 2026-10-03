@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Pristúpme chváľme Ho</title>
+    </titles>
+    <authors>
+      <author type="words">Detský zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pristúpme, chváľme Ho, On je Syn Boží a lásky dar,<br/>On život svoj dal rád, zamiloval si nás.<br/>Nech zvučí pieseň chvál, ako obetu Ti skladáme,<br/>tú radosť nemôže dať nik, ktorú Ty dávaš nám.<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>R: /: Pristúpme, chváľme Ho, slávme Ho,<br/>On je Kráľov Kráľ,<br/>piesňou chvály zvelebujme Ho. :/</lines>
+    </verse>
+  </lyrics>
+</song>

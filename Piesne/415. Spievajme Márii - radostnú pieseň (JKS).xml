@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>415. Spievajme Márii - radostnú pieseň</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spievajme Márii - radostnú pieseň, - <br/>ona nám zavráti - žalosti tieseň. -<br/>Stala sa Kráľovnou z vôle Boha, -<br/>prekrásna Mária ružencová! -</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dal nám ju Spasiteľ - v chvíli presmutnej, - <br/>lúčiac sa na kríži - v muke bolestnej. -<br/>Stala sa Kráľovnou z vôle Boha, -<br/>prekrásna Mária ružencová!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Hľa, tvoja Matička! - tak zneli slová - <br/>pod krížom Jánovi, - keď Kristus zvolal. -<br/>Stala sa Kráľovnou z vôle Boha, -<br/>prekrásna Mária ružencová!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Celý svet kresťanský - Matkou ju vzýva - <br/>a srdce ľudské k nej - láskou oplýva. -<br/>Stala sa Kráľovnou z vôle Boha, -<br/>prekrásna Mária ružencová!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kto sa k nej utiekal, - počuť nebolo, - <br/>že by neprijala - prosby niekoho. -<br/>Stala sa Kráľovnou z vôle Boha, -<br/>prekrásna Mária ružencová!</lines>
+    </verse>
+  </lyrics>
+</song>

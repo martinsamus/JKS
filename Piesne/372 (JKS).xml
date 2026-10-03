@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>372</title>
+      <title>Pred vekmi zvolená</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Pred vekmi zvolená Pani anjelská, slávou ozdobená Hviezda nebeská! <br/>My sa k tebe utiekame, Panna Mária, vrúcnym srdcom ti spievame: Salve, Regina!<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Žila si na svete v čnosti, svätosti, ó, Ruža v rozkvete, plná milosti! Vyvolená Matka Krista, Panna nevinná, zdravas´, zdravas´, Panna čistá: Salve, Regina!<br/><br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>K tebe bol poslaný posol anjelský, by niesol presvätý pozdrav nebeský, že jak panna, tak zvestoval, porodíš Syna, pokorne ťa pozdravoval: Salve, Regina!<br/><br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Prekrásna Ľalia, Panna spanilá, nebeská Mária, Matka premilá! Ráč za nás vždy orodovať u svojho Syna, večne ti chcem prespevovať: Salve, Regina! <br/><br/></lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ku tebe v úzkosti všetci voláme, zo srdca vernosti my ťa vzývame; chválu, česť ti prinášame, Panna nevinná, pieseň slávy ti spievame: Salve, Regina!</lines>
+    </verse>
+  </lyrics>
+</song>

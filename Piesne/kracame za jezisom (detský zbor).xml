@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>kracame za jezisom</title>
+    </titles>
+    <authors>
+      <author>detský zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>R./Nie som sám, v nebi priateľov mám.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>1.Kráčame za Ježišom, do krajiny hrdinov, <br/>kráčame za Ježišom s mamkou Máriou.<br/>Kráčame za Ježišom aj so svätým Jozefom<br/>Kráčame za Ježišom po stopách svätcov.<br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Kráčame za Ježišom aj so svätým Františkom<br/>Kráčame za Ježišom s Dominikom Sáviom<br/>Kráčame za Ježišom s malou sestrou Imeldou.<br/>Kráčame za Ježišom s Ankou i s Carlom.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

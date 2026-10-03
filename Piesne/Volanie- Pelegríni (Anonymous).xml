@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-18T15:54:16">
+  <properties>
+    <titles>
+      <title>Volanie- Pelegríni</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>1: Zvoláva nás Pán, zvonivou piesňou Pastier náš.<br/>Volá tu pred oltár brat, sestra, poď, aj ty ho spoznáš. <br/><p style="page-break-after: always;"/><br/>R: Priateľu poď, len neváhaj, nevieš čo strácaš, ak odmietaš.<br/>Pokoj a radosť vždy nájdeš, len povedz, idem, lásku spoznáš. <br/><p style="page-break-after: always;"/><br/>2:Priateľom je všetkým nám, môže byť aj tvoj, stačí mať rád. <br/>Premení dušu v kvitnúci sad. Tak otvor mu srdce a spoznáš ho. </lines>
+    </verse>
+    <verse name="v1b">
+      <lines/>
+    </verse>
+  </lyrics>
+</song>

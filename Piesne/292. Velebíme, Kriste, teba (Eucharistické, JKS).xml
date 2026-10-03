@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>292. Velebíme, Kriste, teba</title>
+    </titles>
+    <authors>
+      <author>Eucharistické</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Po pozdvihovaní: 1.                 292.<br/>Velebíme, Kriste, teba<br/>otváraš nám nebesá:<br/>keď v Spôsobe vína, chleba<br/>nám za pokrm dávaš sa;<br/>prebývať pri tvojom stole<br/>väčšej slasti, krásy niet,<br/>bys' nás spasil, deti svoje,<br/>znova ideš za nás mrieť.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Agnus: 2.                                 292.<br/>Baránka, čo hriechy sníma<br/>sveta zlého, nevinný,<br/>prosme, aby zmyté boli<br/>naše hriechy, prečiny,<br/>by sme žili Bohu milí,<br/>ako príkaz jeho znie<br/>raja nebies zaslúžili<br/>a dosiahli spasenie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Požehnanie: 3.                        292.<br/>Bože, svoje deti žehnaj<br/>rukou kňaza svätenou,<br/>ochraňuj nás, nezanechaj<br/>a priveď nás k spaseniu.<br/>Požehnaj nás v tele, v duši,<br/>ktorého máme od teba,<br/>a keď telo v hrob sa vloží,<br/>prijmi dušu do neba.</lines>
+    </verse>
+  </lyrics>
+</song>

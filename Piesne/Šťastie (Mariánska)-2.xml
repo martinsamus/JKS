@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Šťastie</title>
+    </titles>
+    <authors>
+      <author>Mariánska</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Je dnes taký zvláštne krásny deň,<br/>ktorý zmení všetko na dobré<br/>a naše úmysly trochu rozjasní,<br/>skúsme sa zamyslieť o šťastí.<br/>Šťastie, to je úsmev na tváti,<br/>šťastie je byť tu pri oltári,<br/>tak blízko pri mamke, ktorá poteší,<br/>s Máriou je život najlepší.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>R. Stále medzi nami žije Mária.<br/>Stále medzi nami, mamka Mária.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Všetko je z lásky a pre lásku,<br/>všetko to nám dáva otázku,<br/>že prečo je človek taký strašne zlý,<br/>skúsme sa zamyslieť, čo robí.<br/>Hľadá šťastie, ktoré nanájde,<br/>preto, lebo šťastie nerastie.<br/>On musí pochopiť, že s Máriou byť,<br/>to je tváre druhých rozjasniť.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Skúsme sa častejšia pomodliť,<br/>skúsme nežne teplo pocítiť,<br/>ktoré zavanie v našich srdiečkach<br/>a z duší nám odoženie strach.<br/>Zoberme si ľudia vedomie,<br/>pozrime, čo robí svedomie,<br/>nie už nikdy nechceme zlosť a nenávisť,<br/>pokúsme sa len s Máriou žiť.</lines>
+    </verse>
+  </lyrics>
+</song>

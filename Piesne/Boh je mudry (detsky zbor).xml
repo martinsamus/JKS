@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>Boh je mudry</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.Ďakujem za slnko, modrú oblohu,<br/>ďakujem za oči, čo Ťa všade nájdu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Ďakujem za kvietok, voňavú lúku.<br/>Ďakujem za dobré slovo, za maminu ruku.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Boh je múdry, Boh je mocný, Boh je všemohúci.</lines>
+    </verse>
+  </lyrics>
+</song>

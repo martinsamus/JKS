@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>Pane, príjmi ma</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Pane príjmi ma, srdce zmeň mi dnes, Ty sám. <br/>Prameň milosti nech ma zaplaví.<br/>Pane, spoznal som, že starosti, čo trápia ma<br/>strhnúť vieš Ty sám tou láskou, čo moc má.<br/><br/></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ref. /Viac ma drž v objatí Tvojej lásky.  <br/>Tiahni ma, chcem bližšie k Tebe prísť.<br/>Na krídlach smiem sa ako orol vznášať.<br/>Keď očakávať viem, Tvoj Duch mi zjavuje<br/>tú lásku, čo moc má.<br/><br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines>2.  Pane, prezrieť chcem, uvidieť Ťa tvárou v tvár. <br/>Tvojej lásky moc túžim prežívať.<br/>Myseľ premieňať, chcem iba Tvoju vôľu žiť,<br/>keď denne meníš ma Tou láskou, čo moc má.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

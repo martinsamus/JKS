@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-20T07:28:21">
+  <properties>
+    <titles>
+      <title>Príjmi tieto naše dary</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prijmi tieto naše dary, Pane,  ukry sa vo víne a chlebe. <br/>Nech sa naša túžba skutkom stane, tieto dary nesieme z lásky ku tebe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Táto obeť je obetou všetkých,  ktorí chcú svoj život obnoviť.<br/>Podľa tvojich príkazov vždy chcú žiť, nikto, Pane, nemôže teba nahradiť.</lines>
+    </verse>
+  </lyrics>
+</song>

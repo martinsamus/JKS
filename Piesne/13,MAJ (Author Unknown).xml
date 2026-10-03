@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:36">
+  <properties>
+    <titles>
+      <title>13,MAJ</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v7 c1 v8 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Keď žiaril a rozkvital trinásty máj, zrel Kráľovnú Máriu fatimský kraj.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Len zbožné tri deti ju uvidieť smú a počuť ju v hodinu bezútešnú. R:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Svet v krvi sa od vojny topil a mrel, lež Ježiša Matky hlas ľútosťou znel. R:</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. To pre hriechy Boží hnev padá na zem, ja ružencom vaším ho uzmieriť chcem. R:</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5. Vy obete prineste za hriešny svet, ja k pokoju vyvediem z vojny ho bied. R:</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6. Tie nevinné deti si zvolila tam, by skrze ne posolstvo zverila nám. R:</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7. Ó, prestri svoj, Mária, nad nami plášť, by k Bohu sa vrátil svet, prosíme zvlášť. R:</lines>
+    </verse>
+    <verse name="v8">
+      <lines>8. My ružencom, pokáním splníme sľub, len dožič nám, Matička, do neba vstup. R</lines>
+    </verse>
+    <verse name="c1">
+      <lines>R: /: AVE, AVE, AVE MARIA, AVE, AVE, AVE MARIA! :/</lines>
+    </verse>
+  </lyrics>
+</song>

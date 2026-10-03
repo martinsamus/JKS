@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>287. Z neba stúpte, anjeli</title>
+    </titles>
+    <authors>
+      <author>Eucharistické</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                             287<br/>Z neba stúpte anjeli,<br/>pristúpte archanjeli,<br/>|: nech vždy s nami prespevuje<br/>chválu svet celý. :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                             287<br/>Chváľme Boha svätého,<br/>vo Sviatosti skrytého,<br/>|: zvelebuj ho všetko s nami<br/>stvorenie jeho! :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                             287<br/>Bože mocný, teba len<br/>prosíme, odvráť plameň<br/>|: večný od nás, požehnaj nás,<br/>naveky. Amen. :|</lines>
+    </verse>
+  </lyrics>
+</song>

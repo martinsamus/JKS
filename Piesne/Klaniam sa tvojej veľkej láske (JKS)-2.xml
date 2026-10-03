@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Klaniam sa tvojej veľkej láske</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.<br/>Klaniam sa tvojej veľkej láske,<br/>môj najmilejší Ježišu<br/>a vrúcne teba milovať chcem<br/>jak ty moju biednu dušu.<br/>|: Zabudnúť chcem už celkom seba<br/>a milovať vždy vrúcne teba. :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.<br/>Ježišu môj, prosím ťa vrúcne,<br/>zapáľ mi lásky nádeje,<br/>priviň ma k srdcu svojmu nežne,<br/>len v ňom nájdem uľavenie.<br/>|: Zabudnúť chcem už celkom seba<br/>a milovať vždy vrúcne teba. :|</lines>
+    </verse>
+  </lyrics>
+</song>

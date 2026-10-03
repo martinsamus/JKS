@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:38">
+  <properties>
+    <titles>
+      <title>197.</title>
+    </titles>
+    <authors>
+      <author>Veľkonočná</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Pane mocný, Pane večný, Stvoriteľu, všetko spravujúci, Bože, Otče dobrý, ty si všetkej chvály hodný a stvorenie milujúci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Všetkým ľuďom Písma velia Spasiteľa uctiť na výsosti. Zhliadni na nás z neba,  prosíme dnes vrúcne teba, tu, v údolí smrteľnosti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Duchu Svätý, tej podstaty ako Otec a Syn: v Božstve jednom, ty si naša nádej, v duše, v srdcia svetla nalej, poteš nás v žití prebiednom.</lines>
+    </verse>
+  </lyrics>
+</song>

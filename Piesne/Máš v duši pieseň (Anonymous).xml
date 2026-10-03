@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Máš v duši pieseň</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Máš v duši pieseň anjelských zvonov,<br/>máš v duši bolesť tých najkrajších tónov.<br/>Máš v sebe silu, ľudia po nej túžia,<br/>máš v sebe nádej pre tých, čo sa súžia.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/: Mária, s tebou, Mária, kráľovstvo lásky sa otvára.:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Máš v sebe prísľub večnej blaženosti,<br/>máš v sebe naplnenie spasiteľných zvestí.<br/>Máš v sebe lásku pre tých, čo ťa hľadajú,<br/>máš v sebe lásku pre tých, čo ťa volajú.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Žehnaj moje kroky, žehnaj moje ústa,<br/>žehnaj každej piesni, v strunách mojich zostaň.<br/>Kytice veršov z najkrajšieho kvetu<br/>patria tebe, Mária, Božiemu svetu.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

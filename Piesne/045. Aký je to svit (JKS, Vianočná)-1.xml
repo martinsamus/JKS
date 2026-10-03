@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:36">
+  <properties>
+    <titles>
+      <title>045. Aký je to svit</title>
+    </titles>
+    <authors>
+      <author>Vianočná</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                                 45.<br/>Aký je to svit,<br/>čože to má byť v Betleme?<br/>/:Hore sa majme,<br/>hneď povstávajme zo zeme!:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                                 45.<br/>Ej, ej, pastieri,<br/>aké to chýry, aký hlas?<br/>/:Či sa mi sníva,<br/>či anjel spieva a zve nás?/</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                                 45.<br/>No nemeškajme,<br/>hore sa majme, je iste<br/>/:niečo nového,<br/>neslýchaného pri meste.:/</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                                 45.<br/>Z neba mal stúpiť<br/>smrťou vykúpiť celý svet<br/>/:predpovedaný<br/>zrodený z Panny ako kvet.:/</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.                                                 45.<br/>To sa ten istý<br/>z Panenky čistý narodil<br/>/:Boží Syn tu dnes,<br/>ako to z nebies hlas tvrdil:/</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6.                                                 45.<br/>Poďme hneď k nemu<br/>k mestu Betlemu, vstávajme<br/>/:a vrúcne jeho,<br/>narodeného, vítajme.:/</lines>
+    </verse>
+  </lyrics>
+</song>

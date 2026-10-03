@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Úžasný Pán</title>
+    </titles>
+    <verseOrder>c1 v1 v2 c1 v3 v4 c1</verseOrder>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Úžasný Pán, svoj život dal<br/>nádherný Pán, tak miloval</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Tmou Svetlo svieti a život dáva, <br/>to Svetlo z nebies,<br/>po ktorom túžbu ja mám.<br/>Prosím vtiahni Nás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Je zvodná pýcha, tá dušu zviera,<br/>dušu tak biednu a hladnú po svetle v tmách.<br/>Pravdu zasej v nás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V srdci si pieseň, o Tebe spievam, <br/>Tvoj Duch mnou prúdi<br/>a jak tak túžim Ti riecť,<br/>Pane rád Ťa mám</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Je mojou spásou, <br/>vo tme mi svieti,<br/>to meno Ježiš,<br/>pre ktoré v láske chcem žiť.<br/>A v pravde verný byť.</lines>
+    </verse>
+  </lyrics>
+</song>

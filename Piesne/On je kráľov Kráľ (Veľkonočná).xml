@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>On je kráľov Kráľ</title>
+    </titles>
+    <verseOrder>v1 v2 v1 v3 v1 v4 v1</verseOrder>
+    <authors>
+      <author>Veľkonočná</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>R: On je kráľov Kráľ, On je pánov Pán.<br/>Čo má zmysel, s ním sa končí, s ním sa začína.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Ten, kto je hriešny, smie mu veriť, on je veľký Kráľ.<br/>A rozhodnúť, či s ním chce prežiť, on je veľký Kráľ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. On musel svoj život za nás dať, on je veľký Kráľ.<br/>A nášho Boha dal nám poznať, on je veľký Kráľ.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Ja slávim Boha, Syna jeho, on je veľký Kráľ.<br/>Krista, Pána vzkrieseného, on je veľký Kráľ.</lines>
+    </verse>
+  </lyrics>
+</song>

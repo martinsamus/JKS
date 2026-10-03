@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Je Niekto kto Počuje tvoju prosbu</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Je niekto, kto počuje každú tvoju prosbu,<br/>niekto, kto ti vraví, že ti rozumie, on vezme tvoje srdce<br/>do svojich svätých rúk a s láskavým pohľadom prijíma tvoju<br/>prosbu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Je niekto, kto počuje každú tvoju prosbu, keď dni<br/>sú dlhé a noci nemajú konca, keď všetko ide zle, je tu ešte<br/>priateľ, ktorý s láskavým pohľadom prijíma tvoju prosbu.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Tak mu povedz: Ježiš, so mnou buď a on vždy s tebou<br/>ostane. Zašepkaj, Ježiš, pomôž mi. On pomôže.</lines>
+    </verse>
+  </lyrics>
+</song>

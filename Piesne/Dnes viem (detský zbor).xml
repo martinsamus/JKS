@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-20T07:11:19">
+  <properties>
+    <titles>
+      <title>Dnes viem</title>
+    </titles>
+    <authors>
+      <author>detský zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Dnes viem, že chcem za tebou ísť<br/>Dnes viem, že chcem počuť tvoj hlas a žiť<br/>Dnes viem, že chcem ti svoje áno dať<br/>Dnes viem, že chcem za tebou ísť</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Teraz ja a môj dom chceme slúžiť<br/>teraz ja a môj dom chceme<br/>len pre teba žiť<br/>(už dnes)</lines>
+    </verse>
+    <verse name="v1c">
+      <lines>Nádherný, radca náš<br/>Otec nekonečný<br/>Pán zástupov, Večný kráľ<br/>za tebou chceme kráčať</lines>
+    </verse>
+    <verse name="v1d">
+      <lines>Dnes viem, že chcem za tebou ísť<br/>Dnes viem, že chcem počuť tvoj hlas a žiť<br/>Dnes viem, že chcem ti svoje áno dať<br/>Dnes viem, že chcem za tebou ísť</lines>
+    </verse>
+  </lyrics>
+</song>

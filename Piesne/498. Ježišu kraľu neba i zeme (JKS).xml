@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>498. Ježišu kraľu neba i zeme</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ježišu, Kráľu neba i zeme, - tebe sa klania anjelov chór, - velebnosť tvoju v hymnách a piesňach - vyznáva svätých i svätíc zbor. - Ukrývaš svoju tvár vo Sviatosti, - lež viera zrie ju tu oslávenú, - preto my Bohu vo svätostánku - vzdávame úctu a poklonu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. Ježišu, Kráľu neba i zeme, - blažených duší opojenie, - zo srdca tvojho osláveného - plynie im večné potešenie. - Skrývaš ho pred nami vo Sviatosti, - túžime za tebou, nebeský zdroj. - Ježišu, Kráľu neba i zeme, - so Srdcom svojím nás večne spoj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3. Ježišu, Kráľu neba i zeme, - z lásky k nám telom učinený, - kam siaha okraj pevniny, mora, - zneje spev chvály rozochvený. - Ráč prijať láskavo pieseň našu, - ktorú ti zo srdca tu spievame, - požehnaj za to nám telo, dušu, - ktorú ti, Pane, oddávame.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4. Ježišu, Kráľu neba i zeme, - ty si nás krvou svojou spasil, - ó, kraľuj v srdciach veriacich svojich, - vieru v nás oživ, vieru posiľ. - Veríme v teba, že ty si Boh náš, - že si cesta naša i život náš; - k tvojmu sa Srdcu láskou vinieme, - ty v sebe živý zdroj pravdy máš.</lines>
+    </verse>
+  </lyrics>
+</song>

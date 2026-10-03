@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:45">
+  <properties>
+    <titles>
+      <title>podme vsetci spolu</title>
+    </titles>
+    <authors>
+      <author>detský zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Poďme všetci spolu ako jeden hlas<br/>pozdvihnime tváre, k slnku upriam zrak<br/>Vystúpme tam na Sion, Boží svätý vrch<br/>sme mocné vojsko, čo chce chváliť ho<br/><br/></lines>
+    </verse>
+    <verse name="v2">
+      <lines><br/>Povstaň Božie vojsko, je čas začať boj<br/>Spievajme hosana, poďme chváliť ho<br/>Nepriateľa zničí, vraha porazí<br/>kým mu zaznieva spev víťazný</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Poďme chváliť ho, poďme chváliť ho<br/>Ježiš je náš kráľ, poďme chváliť ho<br/>More zahučí, nebo zazvoní<br/>na slávu nášho Pána, tak poď chváliť ho<br/><br/></lines>
+    </verse>
+  </lyrics>
+</song>

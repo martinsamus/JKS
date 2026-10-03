@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>moj boh</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Môj Boh, vďaka tebe dýcham,<br/>pre teba tu som.<br/>A viem, láskou si ma získal,<br/>k sebe priviedol.<br/>Smútok je preč,<br/>šťastím ma napĺňaš,<br/>učíš ma láskou žiť.<br/><br/></lines>
+    </verse>
+    <verse name="v1b">
+      <lines><br/>Tvoja láska je silnejšia než vietor,<br/>ona vyššia je než najvyšší štít,<br/>hlbšia je než dno oceánov,<br/>zmenila môj svet.<br/><br/>Ona zmenila môj svet.<br/></lines>
+    </verse>
+  </lyrics>
+</song>

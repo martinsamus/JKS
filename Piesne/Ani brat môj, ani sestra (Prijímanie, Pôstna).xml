@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>Ani brat môj, ani sestra</title>
+    </titles>
+    <authors>
+      <author>Prijímanie</author>
+      <author>Pôstna</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. |: Ani brat môj, ani sestra ale Pane ja,<br/>musím viacej modliť sa. :|<br/><br/>R. |: Áno, ja, áno, Pane, ja,<br/>musím viacej modliť sa. :|</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2. |: Ani brat môj, ani sestra ale Pane ja,<br/>musím viacej odpúšťať. :|<br/><br/>R. |: Áno, ja, áno, Pane, ja,<br/>musím viacej odpúšťať. :|</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. |: Ani brat môj, ani sestra ale Pane ja,<br/>musím viacej milovať. :|<br/><br/>R. |: Áno, ja, áno, Pane, ja,<br/>musím viacej milovať. :|</lines>
+    </verse>
+  </lyrics>
+</song>

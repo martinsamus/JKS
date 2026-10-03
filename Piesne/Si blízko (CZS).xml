@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-30T05:56:26">
+  <properties>
+    <titles>
+      <title>Si blízko</title>
+    </titles>
+    <authors>
+      <author>CZS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Si blízko tých, čo ťa túžia nájsť. Si blízko mňa, si blízko nás. Dávaš životu smer a o všetkom vieš, už sa nemusím báť, môžem stáť, môžem stáť.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Svoj život Ti dávam, chcem ísť za Tebou, na kolená padám, vždy bdej nado mnou. Keď za Tebou bežím, Ty otváraš náruč, ja túžim Ťa nájsť  stále viac, stále viac.</lines>
+    </verse>
+  </lyrics>
+</song>

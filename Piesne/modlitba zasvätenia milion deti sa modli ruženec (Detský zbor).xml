@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>modlitba zasvätenia milion deti sa modli ruženec</title>
+    </titles>
+    <authors>
+      <author>Detský zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Mária, Matka moja,<br/>plný radosti prichádzam dnes k tebe,<br/>aby som ti celkom daroval svoje srdce.<br/>Darujem ti aj všetko, čo mám a čo robím,<br/>celý svoj život.<br/>K tebe chcem priviesť všetkých,<br/>ktorých nosím vo svojom srdci:</lines>
+    </verse>
+    <verse name="v2">
+      <lines>rodičov, súrodencov, priateľov,<br/>ale aj tých, čo mi ublížili.<br/>Buď ty našou Matkou,<br/>požehnaj nás a ochraňuj nás.<br/>Chcem ťa milovať,<br/>ako dieťa miluje svoju matku,<br/>a verne sa modliť.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Každý deň chcem myslieť na to,<br/>že ti patrím.<br/>Matka, tvoj som teraz i naveky.<br/>Skrze teba a s tebou<br/>chcem navždy celkom patriť Ježišovi.<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

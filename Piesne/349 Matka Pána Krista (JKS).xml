@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>349 Matka Pána Krista</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Matka Pána Krista, Panna Mária, <br/>tys’ ľalia čistá; Božia ty dcéra, sveta nádhera.<br/>Slnkom ozdobená Panna Mária,<br/>vôkoľ ovenčená nebies hviezdami:<br/>bedlíš nad nami.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Slnko prevyšuješ, Panna Mária, <br/>hviezdy zatieňuješ, všetko ti plesá: zem i nebesá.<br/>Ty si krásna dúha, Panna Mária,<br/>po potope druhá, ktorá nesie zvesť,<br/>že Boh odňal trest.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sladkosť nad sladkosti Panna Mária, <br/>Matkou si milosti, Kňažná víťazná, hviezda prekrásna!<br/>Ruža krásna, vonná, Panna Mária,<br/>v tebe úctu koná v plači Evina klesla rodina.<br/>Pros za nás u Syna, Panna Mária,<br/>nech sa každá vina nám raz odpustí v smrti úzkosti.</lines>
+    </verse>
+  </lyrics>
+</song>

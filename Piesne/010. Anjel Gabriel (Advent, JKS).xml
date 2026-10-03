@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:36">
+  <properties>
+    <titles>
+      <title>010. Anjel Gabriel</title>
+    </titles>
+    <authors>
+      <author>Advent</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                               10.<br/>Anjel Gabriel,<br/>ako Pán Boh chcel,<br/>z neba koná cestu<br/>k Panne Márii<br/>k Nazaretu mestu.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                               10.<br/>Posolstvo nesie<br/>pri veľkom plese,<br/>k Panne pristupuje<br/>a ju v pokore<br/>takto pozdravuje:</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.                                               10.<br/>„Zdravas`, Mária,<br/>čistá ľalia,<br/>vzor si všetkých čností;<br/>anjel zjavuje,<br/>žes` plná milosti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>4.                                               10.<br/>Nad matky iné<br/>tebe jedine<br/>česť a prednosť daná;<br/>medzi ženami<br/>ty si požehnaná.“</lines>
+    </verse>
+    <verse name="v5">
+      <lines>5.                                               10.<br/>Čujúc to panna,<br/>je naľakaná<br/>a sa spytuje:<br/>jak to môže byť,<br/>čo anjel zvestuje?</lines>
+    </verse>
+    <verse name="v6">
+      <lines>6.                                               10.<br/>Anjel zdesenej<br/>Panenke ctenej<br/>odpovedal na to:<br/>Nadprirodzene<br/>stane sa vec táto.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>7.                                               10.<br/>V tebe utvorí<br/>ten plod duch boží,<br/>stúpi v teba z neba;<br/>syn boží bude,<br/>čo sa zrodí z teba.</lines>
+    </verse>
+  </lyrics>
+</song>

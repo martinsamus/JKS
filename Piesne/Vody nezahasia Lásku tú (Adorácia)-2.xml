@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Vody nezahasia Lásku tú</title>
+    </titles>
+    <authors>
+      <author>Adorácia</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vody nezahasia Lásku tú, riekou zaplaviť sa nedá. <br/>Moria strachu nezakryjú, /:pre mňa lásku tú:/<br/>Láska mnou preteká, srdce mi more napĺňa.<br/>Ako vlna sa leje cezo mňa, Láska mnou preteká.<br/>Smútok nezahasí Lásku tú, temnotou zaliať sa nedá, nebojím sa, Láska tvoja /:poteší ma:/</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V Tebe nájdem uzdravenie, Teba nájdem pokoj mám. <br/>Viem, že niet na svete tak veľkých riek, tak hlbokých<br/>vôd, taký vysoký štít, že more nezlomíš.</lines>
+    </verse>
+  </lyrics>
+</song>

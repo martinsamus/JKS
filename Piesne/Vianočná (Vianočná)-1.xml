@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:48">
+  <properties>
+    <titles>
+      <title>Vianočná</title>
+    </titles>
+    <authors>
+      <author>Vianočná</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na slame, na sene, v jasličky vložené,<br/>Dieťatko Maličké spí.<br/>Na slame, na sene, v jasličky vložené,<br/>dieťatko maličké spí.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>1. Zvony v diali oznamujú nám. Zvony v diali oznamujú nám,<br/>že už prišla sama láska k nám, že už prišla sama láska k nám.<br/>Prišla nikým nepozvaná, opľutá a nečakaná láska k nám.<br/>Prišla skromne, v tichu, v šere, aby jasom naplnila celý kraj.<br/>Prišla láska k nám. To každý čuj, nech nie je smutný nik,<br/>to každý čuj, nech je radosť vôkol nás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Otvorme si srdcia dokorán. Otvorme si srdcia dokorán,<br/>bratmi sme, to dobre vieš i sám, bratmi sme, to dobre vieš i sám.<br/>Zabudni na všetky sváry, je tu prísľub novej jari, čuj jej hlas.<br/>Úsmev nech nám z tváre žiari, svet je veľký, my sme malí, dobre vieš.<br/>Prišla láska k nám. Tak prijmi ju a svet sa zbaví bied<br/>a veľký svet sa rajom stane nám.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Záver: Na slame, na sene, v jasličky vložené,<br/>dieťatko maličké spí.<br/>Na slame, na sene, v jasličky vložené,<br/>dieťatko maličké spí.</lines>
+    </verse>
+  </lyrics>
+</song>

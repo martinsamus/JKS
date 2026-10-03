@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Nežne zlomený</title>
+    </titles>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Ku krížu dvíham zrak<br/>ku krížu viniem sa<br/>pijem z hĺbky Tvojich rán<br/>dielo kríža vyspievam</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Na ňom Spasiteľ môj <br/>bitý, týraný<br/>v ňom Boh Láska je<br/>a Spravodlivý</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Z kríža Tvoj hlas volá ma<br/>pozýva na kolená, viac ja<br/>nemám slov, sa celý strácam<br/>v Tvojej láske, čo nežne láme (ma)</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Aký vzácny dar <br/>život, ktorý mám<br/>ten, čo Kristus sám<br/>skrze kríž mi daroval</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>Zo smrti k životu <br/>si ma povolal<br/>nie je viacej už Tvoj hnev<br/>Ježišov kríž zmieril ma</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V úžase z kríža vyznať chcem<br/>Jak úžasná spásna láska<br/>a veľká Tvoja vernosť je</lines>
+    </verse>
+  </lyrics>
+</song>

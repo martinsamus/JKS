@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:40">
+  <properties>
+    <titles>
+      <title>261. Ach, láska preveľká Boha môjho</title>
+    </titles>
+    <authors>
+      <author>Eucharistické</author>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                             261.<br/>Ach, láska preveľká Boha môjho,<br/>ktorého včuľ vidím tu skrytého,<br/>v spôsobe chleba prítomného,<br/>tu na oltári zníženého!<br/>Ach, Bože môj milý, nie som hodný,<br/>by k tebe sa blížil človek biedny.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                             261.<br/>Ach, bolí ma srdce, že som zhrešil<br/>a hriechmi svojimi ťa obrazil.<br/>Ľutujem hriechy, neprávosti,<br/>ktoré som spáchal z Vášnivosti!<br/>Ach, odpusť, Otče môj, zhliadni na mňa<br/>okom milosrdným a poteš ma.</lines>
+    </verse>
+  </lyrics>
+</song>

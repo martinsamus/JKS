@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Svitanie</title>
+    </titles>
+    <authors>
+      <author>...</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Moje srdce len Tebe spieva<br/>Moja duša chválou znie<br/>Aj keď svet sa stále stmieva<br/>Ja chcem tu vidieť svitanie</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Svitanie, svitanie <br/>Chcem tu vidieť svitanie</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ako Tvoja rieka čo preráža skaly<br/>Ako Tvoji vtáci čo letia do diali<br/>Ako Tvoj strom ja hľadím do výšavy</lines>
+    </verse>
+  </lyrics>
+</song>

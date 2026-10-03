@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Hymna PMD</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1 v4 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vyslancom mojim kto sa môže stať, kto utíši po mojom slove hlad? Kto pôjde rád svetu pokoj dať, kto pôjde rád, kto pôjde rád?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vyslancom mojim kto sa môže stať, kto utíši po mojom slove hlad? Kto pôjde rád svetu lásku dať, kto pôjde rád, kto pôjde rád?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vyslancom mojim kto sa môže stať, kto utíši po mojom slove hlad? Kto pôjde rád svetu svetlo dať, kto pôjde rád, kto pôjde rád?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vyslancom mojim kto sa môže stať, kto utíši po mojom slove hlad? Kto pôjde rád svetu radosť dať, kto pôjde rád, kto pôjde rád?</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Pošli ma, pôjdem ja. (4x)</lines>
+    </verse>
+  </lyrics>
+</song>

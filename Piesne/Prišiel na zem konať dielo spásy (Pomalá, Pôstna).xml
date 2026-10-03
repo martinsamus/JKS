@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Prišiel na zem konať dielo spásy</title>
+    </titles>
+    <verseOrder>v1 v2 v3 v4 v5 v3</verseOrder>
+    <authors>
+      <author>Pomalá</author>
+      <author>Pôstna</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Prišiel na zem konať dielo spásy<br/>a ľuďom biednym s láskou pomáhal,<br/>ku slobode zval zotročených hriechom,<br/>môj Pán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Svetom šiel a ľudskú niesol biedu,<br/>chcel z lásky splniť Otcov spásny plán,<br/>na kríži mrel, však tretí deň vstal z hrobu,<br/>môj Pán.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>R. Môj Pán Ježiš ma miloval<br/>až na smrť šiel, svoj život dal.<br/>môj Pán Ježiš len teba zve,<br/>poď domov, vráť sa späť.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>2. Jeho láska stále rany hojí<br/>a ku spáse nám náruč otvára,<br/>dnes ako predtým búrku upokojí,<br/>môj Pán.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeho milosť stále ešte trvá,<br/>chce zmieriť ľudí s Otcom nebeským<br/>a krvou splatiť dlh za vykúpených,<br/>môj Pán.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Taky Velky Taky maly</title>
+    </titles>
+    <verseOrder>c1 v1 c1 v2 c1 v3</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines><chord name="a"/> Svätý ľúbi Boha, v<chord name="G"/>šetko mu odovzd<chord name="a"/>á.<br/><chord name="F"/> Ľúbi blížneho jak se<chord name="E"/>ba samého.</lines>
+    </verse>
+    <verse name="v2">
+      <lines><chord name="F"/> Kto sa obráti, ten s<chord name="E"/>a netrápi,<br/><chord name="F"/> preto každý svätý ch<chord name="E"/>odí usmiaty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines><chord name="F"/> Nič nepotrebuje, vžd<chord name="E"/>y sa raduje.<br/><chord name="F"/> Boh mu radosť dáva a<chord name="E"/> on ju rozdáva.</lines>
+    </verse>
+    <verse name="c1">
+      <lines><chord name="C "/> Taký v<chord name="d"/>eľký, taký ma<chord name="G"/>lý, môže svätým byť.<br/><chord name="C "/> Taký tučný<chord name="d "/>, taký chudý m<chord name="G"/>ôže svätým byť.<br/><chord name="C d "/> Aj plešaty<chord name="G"/> aj vlasaty môžeš svätým byť.<br/><chord name="C "/> Ako ja, ta<chord name="d "/>k aj ty <chord name="G"/>môžeš svätým byť.</lines>
+    </verse>
+  </lyrics>
+</song>

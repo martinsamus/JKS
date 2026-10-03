@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Môžeš svätým byť</title>
+    </titles>
+    <authors>
+      <author>Večeradlo s Pannou Máriou</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Taký veľký, taký malý,<br/>môže svätým byť.<br/>Taký tučný, taký chudý<br/>môže svätým byť.<br/>Ako ja, tak aj ty môžeš svätým byť.<br/>Ako ja, tak aj ty môžeš svätým byť.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Svätý ľúbi Boha,<br/>všetko mu odovzdá.<br/>Ľúbi blížneho jak<br/>seba samého.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Kto sa obráti,<br/>ten sa netrápi,<br/>preto každý svätý<br/>chodí usmiaty.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nič nepotrebuje,<br/>vždy sa raduje.<br/>Boh mu radosť dáva<br/>a on ju rozdáva.</lines>
+    </verse>
+  </lyrics>
+</song>

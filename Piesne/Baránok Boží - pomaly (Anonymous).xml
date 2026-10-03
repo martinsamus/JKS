@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:41">
+  <properties>
+    <titles>
+      <title>Baránok Boží - pomaly</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Baránok Boží, ty snímaš hriechy sveta,<br/>zmiluj sa nad nami,  zmiluj sa nad nami.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Baránok Boží, ty snímaš hriechy sveta,<br/>daruj nám pokoj,  daruj nám pokoj.</lines>
+    </verse>
+  </lyrics>
+</song>

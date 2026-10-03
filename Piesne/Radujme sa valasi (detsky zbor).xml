@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Radujme sa valasi</title>
+    </titles>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radujme sa, valasi, všetci v tomto salaši,<br/>[:že sme všetci v dobrom zdraví ten starý rok pokonali.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A dožili zas nový, nech sa každý pristrojí,<br/>[:pôjdeme my do Betlema privítati nášho Pána.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Budeme mu ďakovať, by nás ráčil varovať,<br/>[:aj živnosti po vše časy, kým budeme na salaši.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Dajže, Bože, rok hojný, odvráť mor, hlad, aj vojny,<br/>[:zažeň vlka od salaša, nech sa ovce nepoplašia.:]</lines>
+    </verse>
+  </lyrics>
+</song>

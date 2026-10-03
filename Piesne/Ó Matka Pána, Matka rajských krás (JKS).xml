@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
+  <properties>
+    <titles>
+      <title>Ó Matka Pána, Matka rajských krás</title>
+      <title>Ó Matka Pána, Matka rajských krás</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Matka Pána, Matka rajských krás, Ty vieš, čo srdce páli.<br/>Vlej radosti do duše zas, keď umára sa v žiali.<br/>Do svojích rúk ber srdce blúdiace, buď milostivá duši prosiacej.<br/>Mária, Mária, Má-ri-a.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Poď so mnou krajom môjho domova, do hájov vonných kvetov,<br/>kde žehnala nás ruka otcova, do šírich diaľnych svetov.<br/>Nech Tvoje svetlo všade vodí ma, buď v žití pomoc moja jediná.</lines>
+    </verse>
+  </lyrics>
+</song>

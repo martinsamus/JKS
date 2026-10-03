@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Koľko záhad má</title>
+    </titles>
+    <authors>
+      <author>Obetné dary</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Koľko záhad má a koľko tajov skrýva<br/>chlieb čo prijímať smiem a Ty v ňom Bože bývaš.<br/>Vždy sa pýtam sám či to pochopíme<br/>že krv svojich rán odkryl si vo víne.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>R: Soprán: Je to zázrak viem, si Boh a máš právo<br/>vložiť seba v chlieb, na ktorý má nárok,<br/>každý z nás ho smie.<br/>Alt:      Zázrak viem Boh máš právo vložiť v chlieb<br/>má nárok každý ho smie.<br/>Chlapci: Je to zázrak viem právo máš vložiť seba<br/>v chlieb nárok každý z nás ho smie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>2. Netúžiš sa skrývať, bývať iba v chrámoch,<br/>v srdci všetkých nás chceš mať bohostánok.<br/>Neviem, či mám síl, byť vždy hodný chvíle,<br/>keď sa dávaš nám v chlebe a vo víne. R</lines>
+    </verse>
+    <verse name="v4">
+      <lines>3. Daj mi prosím moc, vždy Ťa v sebe chrániť,<br/>láskou z Tvojich žíl, svoj život prepáliť. R</lines>
+    </verse>
+  </lyrics>
+</song>

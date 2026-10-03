@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>Rád spievam Bože</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Rád spievam, Bože, chválospev, <br/>bázňou sa naplním,<br/>vstúpim do sveta zázrakov,<br/>keď vo viere ťa objavím.</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Velebí moja duša Pána <br/>a môj duch jasá,<br/>on pohliadol na moju biednosť,<br/>spasenie mi dáva.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Mne veľké veci urobil <br/>ten, ktorý je mocný,<br/>pre jeho meno presväté<br/>je každý slobodný.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>On mocnárov zosadil z trónov, <br/>skúša bohatých,<br/>hladných kŕmi dobrotami,<br/>prijíma pokorných.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ujal sa svojho služobníka, <br/>Boh milosrdný,<br/>ako sľúbil našim otcom,<br/>zostáva verný.</lines>
+    </verse>
+  </lyrics>
+</song>

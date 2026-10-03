@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:46">
+  <properties>
+    <titles>
+      <title>RUŽENEC</title>
+    </titles>
+    <authors>
+      <author>Peter Jano</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Verím v Boha, Otca všemohúceho, <br/>Stvoriteľa neba i zeme,<br/>i v Ježiša Krista, jeho jediného Syna, nášho Pána,<br/>ktorý sa počal z Ducha Svätého, narodil sa z Márie panny,</lines>
+    </verse>
+    <verse name="v2">
+      <lines>trpel za vlády poncia Piláta, bol ukrižovaný, umrel a bol pochovaný. <br/>Zostúpil k zosnulým, tretieho dňa vstal z mŕtvych,<br/>vystúpil na nebesia, sedí po pravici Boha Otca všemohúceho,<br/>odtiaľ príde súdiť živých i mŕtvych.<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Verím v Ducha Svätého, v svätú Cirkev katolícku, <br/>v spoločenstvo svätých, v odpustenie hriechov,<br/>vo vzkriesenie tela a v život večný. Amen.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Otče náš, ktorý si na nebesiach, <br/>posväť sa meno tvoje,<br/>príď kráľovstvo tvoje,<br/>buď vôľa tvoja ako v nebi, tak i na zemi.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Chlieb náš každodenný daj nám dnes <br/>a odpusť nám naše viny,<br/>ako aj my odpúšťame svojim vinníkom,<br/>a neuveď nás do pokušenia,<br/>ale zbav nás zlého. Amen.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Zdravas`Mária, milosti plná,<br/>Pán s tebou, požehnaná si medzi ženami,<br/>a požehnaný je plod života tvojho Ježiš.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Svätá Mária, Matka Božia,<br/>pros za nás, za nás hriešnych.<br/>Teraz i v hodinu smrti našej, amen.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Sláva Otcu, i Synu<br/>i Duchu Svätému.<br/>Ako bolo na počiatku,<br/>tak nech je i teraz<br/>i vždycky i naveky vekov.  Amen</lines>
+    </verse>
+    <verse name="v9">
+      <lines>“Ó, Ježišu, odpusť nám naše hriechy, <br/>zachráň nás od pekelného ohňa<br/>a priveď do neba všetky duše,<br/>najmä tie, ktoré najviac potrebujú tvoje milosrdenstvo.”</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Modlitba posvätného ruženca</lines>
+    </verse>
+  </lyrics>
+</song>

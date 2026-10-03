@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:42">
+  <properties>
+    <titles>
+      <title>Dobrorecime Ti</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1</verseOrder>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Dobrorečíme ti, Bože, Pane svetov,<br/>že sme z tvojej štedrosti prijali tento chlieb.<br/>Obetujeme ho tebe ako ako plod zeme a práce našich rúk, aby sa nám stal chlebom života.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dobrorečíme ti, Bože, Pane svetov,<br/>že sme z tvojej štedrosti prijali toto víno.<br/>Obetujeme ho tebe ako plod viniča a práce našich rúk,<br/>aby sa nám stalo duchovným nápojom.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>/:Zvelebený Boh, zvelebený Boh, zvelebený Boh naveky. :/</lines>
+    </verse>
+  </lyrics>
+</song>

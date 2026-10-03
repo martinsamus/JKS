@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:38">
+  <properties>
+    <titles>
+      <title>173. S pobožnosťou oslavujme</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                             173<br/>S pobožnosťou oslavujme<br/>Ježišove bolesti,<br/>ktoré trpel on na kríži<br/>pre náš hriech a neresti.<br/>To preveľká milosť Pána<br/>za teba svoj život dáva,<br/>moja duša strápená.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                             173<br/>Ľutujeme, ó Ježišu,<br/>svoje hriechy a zlosti,<br/>daj skrz svoje umučenie<br/>nám kajúci milosti.<br/>Daj, nech tvoje sväté rany<br/>otvoria nám nebies brány,<br/>Kriste, Bože láskavý!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>5.                                             173<br/>Hľa obeta lásky plná<br/>posväcuje všetkých nás,<br/>ktorú konal Bohočlovek,<br/>trpiac kríža smrť za nás:<br/>duše naše by vykúpil<br/>smrťou svojou diabla zhubil,<br/>preto z neba zostúpil.</lines>
+    </verse>
+  </lyrics>
+</song>

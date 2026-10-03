@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:43">
+  <properties>
+    <titles>
+      <title>Korunka</title>
+    </titles>
+    <authors>
+      <author>Faustina</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1a">
+      <lines>Večný Otče, obetujem ti telo a krv, dušu i božstvo <br/>tvojho najmilšieho Syna a nášho Pána Ježiša Krista,<br/>na odčinenie našich hriechov i hriechov celého sveta</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pre jeho bolestné umučenie, <br/>maj milosrdenstvo s nami i s celým svetom</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Svätý Bože, Svätý Mocný, Svätý Nesmrteľný, <br/>zmiluj sa nad nami i nad celým svetom</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Bože, milosrdný Otče, <br/>ktorý si zjavil svoju lásku<br/>vo svojom Synovi Ježišovi Kristovi<br/>a vylial si ju na nás v Duchu Svätom Tešiteľovi,<br/>zverujeme Ti dnes osud sveta i každého človeka.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Skloň sa k nám hriešnym, <br/>vylieč našu slabosť,<br/>premôž každé zlo,<br/>dovoľ, aby všetci obyvatelia zeme<br/>zakúsili Tvoje milosrdenstvo,<br/>aby v Tebe, trojjediný Bože,<br/>vždy nachádzali prameň nádeje.</lines>
+    </verse>
+    <verse name="v1b">
+      <lines>Večný Otče, <br/>pre bolestné umučenie<br/>a zmŕtvychvstanie Tvojho Syna,<br/>maj milosrdenstvo s nami i s celým svetom!<br/>Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

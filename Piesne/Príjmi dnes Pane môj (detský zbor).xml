@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-09-16T05:44:19">
+  <properties>
+    <titles>
+      <title>Príjmi dnes Pane môj</title>
+    </titles>
+    <authors>
+      <author>detský zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prijmi dnes, Pane môj, tento skromný dar, čo s veľkou úctou kladiem Tebe na oltár,<br/>nie je to zlato, ani žiaden drahokam, lepším sa stať ja túžim, to je ten môj dar.</lines>
+    </verse>
+    <verse name="c1">
+      <lines> Každý deň mať Ťa rád, s láskou k všetkým prichádzať,<br/>úsmev dať, pokoj nájsť, všetkým Ťa vždy rozdávať.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V pokore slúžiť Tebe je môj veľký plán, prijímať Ťa v chlebe, víne, stále s Tebou rásť,<br/>len v Tebe, môj drahý Ježiš, nájdem veľký dar, Ty pomôžeš mi v biede, nádej v Teba<br/>mám.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Otvorme svoje srdcia, oči i dlane, Pán núka večný život v chlebe a víne.<br/>On je ten, ktorý skúma, všetko o Tebe vie, či trpíš, či sa smeješ, vždy Ti pomôcť chce</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:47">
+  <properties>
+    <titles>
+      <title>Ty Pane si živý chlieb</title>
+    </titles>
+    <verseOrder>v1 v2 v3</verseOrder>
+    <authors>
+      <author>detsky zbor</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1. Ty Pane si živý chlieb, aby nik nebol hladný zostúpil si z neba.<br/>Svoj život dal si nám, aby nik nezahynul, kto uverí v Teba.<br/>A teraz viem a verím, tvoja láska pramení<br/>ako krv tvojho srdca, čo túži len, by som bol spasený.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.Ty Pane si živý chlieb, neodmietaš človeka, keď k tebe volá.<br/>Viem lásky väčšej už niet, ty ho hľadáš a každodenne zo zeme dvíhaš.<br/>Vďaka môj Pán, že tvoj ťažký kríž ako kľúč nebo otvorí.<br/>Priniesol si obeť najväčšiu, nech som zas slobodný.<br/>Opäť slobodný, opäť slobodný.<br/>Priniesol si obeť najväčšiu a zbavil si ma vín.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>3.Ty Pane si živý chlieb, aby nik nebol<br/>hladný zostúpil si z neba.<br/>Svoj život dal si nám,<br/>aby nik nezahynul, kto uverí v Teba.<br/>A teraz viem a verím, tvoj kríž nebo otvorí.<br/>Priniesol si obeť najväčšiu,<br/>nech som zas slobodný.<br/>Opäť slobodný, opäť slobodný.<br/>Ty priniesol si tú obeť najväčšiu<br/>a zbavil si ma vín.<br/>Prinášaš obetu najväčšiu,....!<br/>zbavuješ nás vín.</lines>
+    </verse>
+  </lyrics>
+</song>
