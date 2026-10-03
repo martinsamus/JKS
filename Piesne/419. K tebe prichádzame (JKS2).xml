@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>419. K tebe prichádzame</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>K tebe prichádzame,<br/>ó, ženích slávny<br/>Kráľovnej nebeskej,<br/>Márie Panny;<br/>ty, pestún Kristov,<br/>s ochranou istou,<br/>vypočuj, prosíme,<br/>náš vrúcny hlas,<br/>pod tvoju ochranu<br/>ráč prijať nás.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Slávime úctivo<br/>dnes tvoje čnosti,<br/>vieru nepochybnú,<br/>kvet nevinnosti;<br/>prosíme teba,<br/>hľaď na nás z neba,<br/>chceme ťa v zbožnosti<br/>nasledovať<br/>a s tebou v nebi raz<br/>sa radovať.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vypros nám u Boha,<br/>šťastné skonanie,<br/>u svojej Nevesty<br/>orodovanie;<br/>Ježiš, Mária,<br/>najsladšie mená,<br/>nech sú nám láskavo<br/>na útechu,<br/>posledným šepotom<br/>nášho dychu.</lines>
+    </verse>
+  </lyrics>
+</song>

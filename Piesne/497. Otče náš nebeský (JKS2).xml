@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>497. Otče náš nebeský</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Otče náš nebeský,<br/>k tebe voláme,<br/>v úzkosti a biede<br/>pomoc žiadame.<br/>Zmiluj sa nad nami,<br/>Pane, Bože náš,<br/>tichým a potrebným<br/>dažďom poteš nás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keď Eliáš teba<br/>o pomoc žiadal,<br/>ty na jeho prosbu<br/>z neba dážď si dal.<br/>Zmiluj sa atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty sám vidíš, Bože,<br/>naše súženie,<br/>ktože nám pomôže<br/>v biede, ak ty nie.<br/>Zmiluj sa atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ak nepríde dážď,<br/>zem úrodu nedá,<br/>zastihne nás iste<br/>preveľká bieda.<br/>Zmiluj sa atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Všetko schne a vädne,<br/>čo na poli je,<br/>daj, ó, Bože, dažďa<br/>reli žíznivej.<br/>Zmiluj sa atď.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>V tebe nádej máme,<br/>z tvojej milosti<br/>chleba potrebného<br/>daj nám k sýtosti.<br/>Zmiluj sa atď.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Budeme ťa chváliť,<br/>chrániť sa zlosti<br/>i k hriechu vedúcej<br/>príležitosti.<br/>Zmiluj sa atď.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Ešte raz voláme,<br/>Bože večný náš,<br/>milostivo pošli užitočný dážď!<br/>Zmiluj sa atď.</lines>
+    </verse>
+  </lyrics>
+</song>

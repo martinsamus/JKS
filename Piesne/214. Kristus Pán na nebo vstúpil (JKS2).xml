@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>214. Kristus Pán na nebo vstúpil</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kristus Pán na nebo vstúpil,<br/>smrť i diabla keď oblúpil<br/>a hriešnikov nás vykúpil.<br/>Aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Apoštolov požehnával,<br/>svoju moc im odovzdával<br/>a prísny im rozkaz dával.<br/>Aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Aby sa nerozchádzali,<br/>v meste svätom zotrvali,<br/>Ducha pravdy by čakali.<br/>Aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Štyridsať dni po vzkriesení<br/>je do neba povýšený,<br/>na pravicu posadený.<br/>Aleluja, aleluja!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Učeníci zosmutneli,<br/>do neba za nim hľadeli,<br/>kam vstupovať ho videli.<br/>Aleluja, aleluja!</lines>
+    </verse>
+  </lyrics>
+</song>

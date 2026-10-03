@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>478. Ó, skloň sa, Bože, k prosbám</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, skloň sa, Bože, k prosbám<br/>tu ľudu prevrelým<br/>a nevydaj ich hrozbám,<br/>nie mukám pekelným;<br/>nech vzíde svetlo večné<br/>im do vlasti rajskej<br/>a požívať im daj blaho slasti anjelskej.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Graduále:<br/>Jak strašná, Otče, muka<br/>ich na čas zastihla,<br/>keď mocná tvoja ruka<br/>sa k trestu pozdvihla,<br/>plač horký bez útechy<br/>tmy ťažké preniká,<br/>ach, utíš už ich vzdychy<br/>prijmi ich v nebesá.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ofertórium:<br/>Schýľ, Bože, v tejto chvíli,<br/>tvár vľúdnu na náš dar,<br/>nech zahasí Syn tvoj milý,<br/>očistcovú žiar;<br/>kňaz mocou tvojho slova<br/>dar zmení na Krista,<br/>i daná bude nová<br/>umrelým očista.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hoc i v hneve ty mnohom<br/>hriech každý potrestáš,<br/>si preláskavým Bohom,<br/>na duší blaho dbáš.<br/>Ach, odpusť už ich dlhu<br/>Časť nedoplatenú<br/>a v nebešťanov kruhu<br/>daj slasť im nezmennú.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sanktus:<br/>Ó, trojnásobne svätý,<br/>ty neba, zeme Pán,<br/>spev k tebe chválou vzňatý,<br/>nech zneje z chrámu brán;<br/>nám prosba vrelá, vrúcna<br/>tak rozochvieva hlas:<br/>Nech duše verné vojdú<br/>do ríše večných krás!</lines>
+    </verse>
+  </lyrics>
+</song>

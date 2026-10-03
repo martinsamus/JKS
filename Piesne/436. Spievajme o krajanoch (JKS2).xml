@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>436. Spievajme o krajanoch</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Spievajme o krajanoch,<br/>svojich v nebi patrónoch:<br/>o svätom Andrejovi<br/>a o Benediktovi!<br/>Márnosti sa vzdialili,<br/>púšť za domov zvolili:<br/>najprv horu zoborskú,<br/>potom skrýšu podskalsků.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stále žili v zbožnosti<br/>a cvičili sa v čnosti,<br/>v rozjímaní, modlení,<br/>ustavičnom bedlení.<br/>Pôst konali v prísnosti<br/>a v najväčšej ostrosti,<br/>drsné rúcho nosili<br/>a tak seba trýznili.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Včuľ už slávy účastní,<br/>proste za nás, vy šťastní,<br/>by sme zlého sa vzdali,<br/>Bohu celkom oddali.<br/>By v dobrom bez ustania<br/>trvajúc do skonania<br/>v nebo sme sa dostali<br/>a s vami tam plesali.</lines>
+    </verse>
+  </lyrics>
+</song>

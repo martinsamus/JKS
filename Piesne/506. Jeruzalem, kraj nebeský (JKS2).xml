@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>506. Jeruzalem, kraj nebeský</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jeruzalem, kraj nebeský,<br/>teba vzýva zbor anjelský;<br/>pnieš sa svojej krásy cenou<br/>k hviezdam zo živých kameňov;<br/>dušiam našim v každom čase<br/>ukazuješ cestu k spáse.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zasnúbený božou správou,<br/>ovenčený nebies slávou,<br/>chrámom si ty vyvoleným,<br/>celým ľudstvom velebeným;<br/>skvieš sa v nebi v svetle čistom,<br/>žiješ povždy s Pánom Kristom.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Sviatočné si ozdobený, Sviatočné si ozdobený,<br/>chrám náš, slávne posvätený;<br/>bránou si nám do večnosti,<br/>pokladnicou našich čností;<br/>buď vždy naším útočišťom<br/>pred zlým svetom, diabla ziskom.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zaznej Bohu neustála<br/>nekonečná vďačná chvála!<br/>Nech je povždy velebené<br/>meno Pána nebies, zeme;<br/>taktiež nech sa plne vzdáva<br/>i Svätému Duchu sláva!</lines>
+    </verse>
+  </lyrics>
+</song>

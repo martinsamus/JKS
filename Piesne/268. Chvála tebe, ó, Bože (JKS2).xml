@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>268. Chvála tebe, ó, Bože</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chvála tebe, ó, Bože,<br/>že si prišiel z neba,<br/>a prebývaš tu s nami<br/>v spôsob vína, chleba.<br/>Nik z nás nemá pochybnosť,<br/>každý pevne verí,<br/>že v Oltárnej Sviatosti<br/>Boh nám Syna zveril.<br/>Ó, Pane, zmiluj sa!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Baránku nevinný,<br/>ktorý hriechy snímaš,<br/>ľutujúcich za viny<br/>na milosť prijímaš!<br/>Nie sme hodni, ó, Pane,<br/>vo tvoj stánok vstúpiť,<br/>tvoje slovo jediné<br/>môže nás vykúpiť.<br/>Ó, Pane, zmiluj sa!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Za dar tejto Sviatosti<br/>Bohu chválu vzdajme,<br/>v pokore, úctivosti<br/>jemu sa klaňajme.<br/>Prosme, aby obeta<br/>omše svätej zmyla<br/>hriechy naše a milosť<br/>pre nás vyslúžila.<br/>Ó, Pane, zmiluj sa!</lines>
+    </verse>
+  </lyrics>
+</song>

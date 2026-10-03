@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>484b. Tiekla voda z pravej strany</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tiekla voda z pravej strany<br/>svätyne, aleluja,<br/>krstom v nej sme povolaní<br/>k nevine, aleluja!<br/>Zmiluj sa nad nami, Bože,<br/>v nekonečnej milosti,<br/>tvoje zľutovanie môže<br/>zotrieť naše nečnosti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Bohu, že je dobrotivý,<br/>vďaky vzdajme srdečné!<br/>On je k nám vždy milostivý<br/>včuľ i na veky večné.<br/>Zmiluj sa nad nami, Bože,<br/>v nekonečnej milosti,<br/>tvoje zľutovanie môže<br/>zotrieť naše nečnosti!</lines>
+    </verse>
+  </lyrics>
+</song>

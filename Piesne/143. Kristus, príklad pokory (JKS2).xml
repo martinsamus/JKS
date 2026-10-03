@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>143. Kristus, príklad pokory</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kristus, príklad pokory,<br/>Boh náš milostivý,<br/>sníma naše priekory,<br/>dušu našu živí.<br/>Pre hriešneho človeka<br/>prišiel dolu z neba,<br/>tak tajomne znížil sa,<br/>obetoval seba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>S plačom ovce zhľadáva, S plačom ovce zhľadáva, zhľadáva,<br/>čo sa potratili,<br/>na ramená ich dáva,<br/>Pastier roztomilý.<br/>Dobrý Pastier chlieb večný<br/>dušiam svojim nechal,<br/>za ktoré sa na kríži<br/>verne obetoval.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Riekol: Vezmi svoj kríž sám<br/>a zapieraj seba,<br/>k požívaniu dal sa nám<br/>pod spôsobom chleba;<br/>nemohol sa viac znížiť<br/>pre hriešneho tvora;<br/>poď a čerpaj, hriešniku,<br/>z toho lásky mora!</lines>
+    </verse>
+  </lyrics>
+</song>

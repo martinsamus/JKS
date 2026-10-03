@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>290. Telo Krista a krv svätá</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Telo Krista a krv svätá,<br/>anjelský si pokrm ty,<br/>pod spôsobom chleba, vína,<br/>živý Bože ukrytý!<br/>Pokloňme sa, pokľakajme<br/>pred velebnou Sviatosťou,<br/>my nehodní v prach padáme<br/>pred Božou velebnosťou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hoci zázrak a tajomstvo<br/>rozum náš neodhalí,<br/>ale vierou skrz Ježiša<br/>pravdy cieľ sme poznali.<br/>Pokloňme sa atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Svätý pokoj, odpustenie Svätý pokoj, odpustenie<br/>duša nájde tu naša,<br/>lebo v tejto Sviatosti tu<br/>milosť nám Boh prináša.<br/>Pokloňme sa atď.</lines>
+    </verse>
+  </lyrics>
+</song>

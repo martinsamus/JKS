@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>364. Panna vznešená</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panna vznešená,<br/>slnkom odená,<br/>skvieš sa čo nebies krása.<br/>[:Tvojej noviny<br/>plod, Syn jediný,<br/>svetu je život, spása.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Biela ľalia,<br/>čo si zmarila<br/>pekelnú vládu hada,<br/>[:svet ťa velebí,<br/>tu i na nebi,<br/>pred tebou v úcte padá.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nebies Kráľovná,<br/>vzývame teba,<br/>hľaď na nás z nebeských krás!<br/>[:Ty si nám Matka,<br/>nádej presladká,<br/>oroduj stále za nás.:]</lines>
+    </verse>
+  </lyrics>
+</song>

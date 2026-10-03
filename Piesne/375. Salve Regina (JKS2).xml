@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>375. Salve Regina</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Salve, Regina, l.<br/>vitaj, Kráľovná,<br/>Kráľovná nebies<br/>i Cisárovná!<br/>Vitaj, ó, Matka<br/>milého Syna,<br/>vitaj, zavítaj,<br/>Salve Regina!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, milostivá, ó, dobrotivá,<br/>ty, Hviezda ranná,<br/>Panna Mária!<br/>Sladkosti plná Matka jediná,<br/>ty nádej naša,<br/>Salve Regina!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ku tebe volá<br/>stvorenie zeme,<br/>volá vyhnané<br/>Adama plemä,<br/>volá syn, volá<br/>dcéra Evina<br/>k tebe Kráľovná:<br/>Salve Regina!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pod plášť tvoj, Matka,<br/>sa utiekame,<br/>teba o pomoc<br/>vrúcne žiadame,<br/>pomôž nám v biede,<br/>Panna nevinná,<br/>ochráň nás, Matka,<br/>Salve, Regina!</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>523. V sedmobrežnom kruhu Ríma (Pápežská hymna)</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>V sedmobrežnom kruhu Ríma,<br/>kde sa Petra chrám vypína,<br/>z tisíc hrdiel sa ozýva<br/>pieseň nábožná, horlivá.<br/>[:Živ, Bože, Otca Svätého,<br/>námestníka Kristovho.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>A ten hlas sa mocne nesie<br/>až do tichej hrobov skrýše;<br/>po horách i po dolinách,<br/>po mestách i pustatinách:<br/>[:živ, Bože atď.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Po hradoch i po rovinách,<br/>šírych sveta po krajinách,<br/>jak na krídlach bleskohromu<br/>preletuje z dom do domu:<br/>[:Živ, Bože atď.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Letí on až na tie strany,<br/>kde sú svätých slávostany,<br/>odtiaľ do sŕdc našich padá,<br/>v pobožnú sa pieseň skladá:<br/>[:Živ, Bože atď.:]</lines>
+    </verse>
+  </lyrics>
+</song>

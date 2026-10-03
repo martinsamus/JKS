@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>402. Počul som krásny hlas</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Počul som krásny hlas,<br/>Mária volá nás:<br/>Poďte ku mne!<br/>Poďte sem, pútnici,<br/>verní služobníci,<br/>Matka vás zve!<br/>Matka dobrotivá,<br/>Pani naša,<br/>oroduj vždy za nás,<br/>za svojich ctiteľov,<br/>u Ježiša.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Buď vždy pozdravená,<br/>tisíc ráz uctená,<br/>ó, Mária!<br/>My ti srdce dáme<br/>v tvojom svätom chráme,<br/>Matka milá!<br/>Matka dobrotivá atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teba som obľúbil,<br/>srdce ti zasľúbil,<br/>ó, Mária!<br/>Chráň ma svojou mocou,<br/>dňom i tmavou nocou,<br/>Matka milá!<br/>Matka dobrotivá atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, Matička čistá,<br/>pros Ježiša Krista,<br/>Syna svojho,<br/>Krista Spasiteľa<br/>a Vykupiteľa,<br/>Matka, pros ho!<br/>Matka dobrotivá atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pobožní pútnici,<br/>verní služobníci,<br/>sem spiechajte,<br/>k šaštínskej Matičke,<br/>Slovenska Patrónke<br/>sa zberajte.<br/>Matka dobrotivá atď.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ďaleká je cesta,<br/>mnohé prejdeš mestá,<br/>pútniku náš,<br/>kým Božej Rodičke,<br/>šaštínskej Matičke,<br/>poklonu dáš.<br/>Matka dobrotivá atď.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Po zemských ťažkostiach,<br/>biedach a úzkostiach,<br/>ó, Mária,<br/>priveď nás ku slasti,<br/>do nebeskej vlasti,<br/>Matka milá!<br/>Matka dobrotivá atď.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Amen! zaspievajme,<br/>srdečne volajme;<br/>ó, Mária,<br/>vypros požehnanie<br/>nám za putovanie<br/>tam u Syna!<br/>Matka dobrotivá atď.</lines>
+    </verse>
+  </lyrics>
+</song>

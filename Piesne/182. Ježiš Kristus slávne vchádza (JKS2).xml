@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>182. Ježiš Kristus slávne vchádza</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ježiš Kristus slávne vchádza<br/>na oslici do mesta,<br/>jasavo ho ľud sprevádza,<br/>preradostná to cesta.<br/>Vítajú ho slávospevmi,<br/>ozdobení palmami,<br/>kade idú, všade kladú<br/>rúcho jemu pred nohy.<br/>[:Hosana Synovi Dávida!<br/>volajú, ako ho uvidia.<br/>Hosana! aj my dnes spievame,<br/>Hosana! Kristovi voláme.:]</lines>
+    </verse>
+  </lyrics>
+</song>

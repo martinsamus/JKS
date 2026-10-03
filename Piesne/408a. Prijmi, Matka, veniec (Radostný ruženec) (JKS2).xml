@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>408a. Prijmi, Matka, veniec (Radostný ruženec)</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Prijmi, Matka, veniec,<br/>radostný ruženec!<br/>Počalas' z Ducha Svätého<br/>Ježiša Syna Božieho.<br/>Prijmi, Matka, veniec,<br/>radostný ruženec!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prijmi, Matka, veniec,<br/>radostný ruženec!<br/>Plod v živote si nosila,<br/>Alžbetu si navštívila.<br/>Prijmi atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prijmi, Matka, veniec,<br/>radostný ruženec!<br/>Pokorou si zaslúžila,<br/>bys' Ježiša porodila.<br/>Prijmi atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prijmi, Matka, veniec,<br/>radostný ruženec!<br/>Plod svoj niesla si do chrámu<br/>obetovať jeho Pánu.<br/>Prijmi atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Prijmi, Matka, veniec,<br/>radostný ruženec!<br/>Ty si našla strateného<br/>Syna v chráme premilého.<br/>Prijmi atď.</lines>
+    </verse>
+  </lyrics>
+</song>

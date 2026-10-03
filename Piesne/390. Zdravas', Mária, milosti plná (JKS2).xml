@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>390. Zdravas', Mária, milosti plná</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zdravas, Mária,<br/>milosti plná,<br/>na stotisíc ráz<br/>buď pozdravená!<br/>Ja ťa pozdravujem,<br/>srdcom zvelebujem,<br/>najmä v dnešný deň.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Neopúšťaj nás<br/>v dnešný smutný čas,<br/>odvšadiaľ biedy<br/>obkľučujú nás.<br/>Mária, zastaň nás,<br/>Mária, zachráň nás,<br/>pod svoj plášť skry nás!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vypros milosti<br/>pre naše čnosti,<br/>priveď nás v nebo<br/>večnej radosti,<br/>kde je Bytosť večná,<br/>sláva nekonečná<br/>po všetky časy.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Veď sa nemáme<br/>komu žalovať,<br/>u koho máme úľavu hľadač?<br/>U teba, Mária, pomoc je hotová,<br/>Matka Kristova!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zavieram na dnes<br/>túto pesničku,<br/>ňou pozdravujem<br/>sladkú Matičku,<br/>Kráľovnú nebeskú,<br/>Pannu archanjelskú,<br/>Pannu Máriu.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Amen, spievajte,<br/>anjeli s nami<br/>a pozdravujte<br/>Kristove rany,<br/>aby boli ctené,<br/>nami velebené<br/>naveky. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

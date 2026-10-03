@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>474. Ta, kde naši bratia sú</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ta, kde naši bratia sú,<br/>ta oko nesiahne,<br/>v súdny deň ich zhliadneme,<br/>Sudca, keď zavládne.<br/>Veľký hrozný, slávny deň<br/>zjaví skrytých v hrobe,<br/>strachom tŕpnuť bude zem<br/>v súdu veľkej dobe.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keď aj život tu zhasne,<br/>telo v hrobe zhnije,<br/>umrie, čo je dočasné,<br/>duša, tá nezhynie.<br/>Duše našich umrelých<br/>prijmi k sebe, Pane,<br/>by sa s tebou tešili<br/>raz tam v nebies stane.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V skrytom mieste, v temnosti<br/>duše strvávajú<br/>a vo svojej žalosti<br/>vrúcne k nám volajú.<br/>Uľavme im modlitbou,<br/>z múk im pomáhajme<br/>a pri omši presvätej<br/>na ne pamätajme.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Priateľ duší, Kristus Pán,<br/>hľaď na nich z výsosti,<br/>krvou svojich svätých rán<br/>mierni ich bolesti.<br/>Poteš duše úbohé,<br/>daj im večnú spásu,<br/>ukonči ich trápenie,<br/>voveď v nebies krásu!</lines>
+    </verse>
+  </lyrics>
+</song>

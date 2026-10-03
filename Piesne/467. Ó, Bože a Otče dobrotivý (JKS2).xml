@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>467. Ó, Bože a Otče dobrotivý</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Bože a Otče dobrotivý,<br/>buď dušiam v očistci milostivý!<br/>Ach, zhliadni na hrozné ich mučenie<br/>a zošli im sladké poľahčenie!<br/>Skrze rany Syna svojho,<br/>ach, zbav ich trápenia prehrozného!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, Kriste náš, milý Vykupiteľ,<br/>ty si smrť ukrutnú pre ne trpel;<br/>ó, dožič, by tvojej krvi cena<br/>dala im radosti vykúpenia.<br/>Skrze rany atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, Utešiteľ náš,<br/>Duchu Svätý,<br/>v nebeských daroch si prebohatý;<br/>udeľ im láskavo dar milosti,<br/>by s tebou bývali vo večnosti.<br/>Skrze rany atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Buď, Mária, Matka dobrotivá,<br/>dušičkám v očistci milostivá!<br/>Ach, popros Ježiša, svojho Syna,<br/>by sa im zmazala všetka vina.<br/>Skrze rany atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Vy, anjeli boží a svätých zbor,<br/>k vám letí modlitba naša nahor;<br/>predneste Bohu tú vrúcnu žiadosť,<br/>by s vami obsiahli večnú radosť.<br/>Skrze rany atď.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Daj odpočinutie im, ó, Pane,<br/>a večné svetlo im daj žiadané.<br/>S Kristom blažene nech spočívajú,<br/>nech pokoj večnosti požívajú!<br/>Skrze rany atď.</lines>
+    </verse>
+  </lyrics>
+</song>

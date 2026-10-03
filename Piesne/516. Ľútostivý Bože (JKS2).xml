@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>516. Ľútostivý Bože</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ľútostivý Bože,<br/>počuj prosby moje,<br/>žaluje ti hlas môj<br/>duše mojej boje.<br/>Vystri náruč svoju,<br/>skloň sa ku mne z neba,<br/>srdce moje vrúcne<br/>žiada si len teba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Búrky hnevu sveta<br/>márnia moje snahy<br/>nasledovať teba,<br/>Spasiteľ môj drahý.<br/>Čo krok, to boj v svete,<br/>hydra sedmihlavá<br/>k hriechom zvádza dušu,<br/>hnevy privoláva.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z hlbín duše volám,<br/>v tebe nádej skladám,<br/>nechcem slúžiť diablu,<br/>hriechom, krivde, zradám.<br/>Zdvihni dušu z prachu,<br/>otvor oči moje,<br/>aby vždy velebil<br/>meno sväté tvoje.</lines>
+    </verse>
+  </lyrics>
+</song>

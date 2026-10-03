@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>411. Ó, Mária, Kráľovná ružencová</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Mária, Kráľovná ružencová,<br/>pros vždy za nás v nebesiach<br/>svojho Syna,<br/>by nás miloval<br/>a ochraňoval,<br/>pomocnú ruku svoju podával.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zišli sme sa pomodliť<br/>tvoj ruženec,<br/>z prosieb svojich vijeme<br/>tebe veniec.<br/>Matka premilá,<br/>pros za nás Syna,<br/>naša pobožnosť<br/>nech mu je milá.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Smutné vdovy, siroty,<br/>ťa volajú<br/>a chudobní pomoci<br/>tiež čakajú.<br/>V biede, v úzkosti<br/>každý ťa prosí.<br/>Všetkých porúčaj svojmu Synovi.</lines>
+    </verse>
+  </lyrics>
+</song>

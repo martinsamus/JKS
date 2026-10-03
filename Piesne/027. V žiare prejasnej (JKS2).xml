@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>027. V žiare prejasnej</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>V žiare prejasnej<br/>Gabriel zvestoval<br/>Márii krásnej,<br/>keď ju pozdravoval;<br/>požehnanou ju menoval.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dcéra nebeská<br/>hlavu naklonila,<br/>radosť anjelská<br/>v duši jej zvonila,<br/>diablova moc sa zlomila.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nebeské svetlo<br/>na Máriu Pannu<br/>z výsosti zlietvečne požehnanú;<br/>život dala Kristu Pánu.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Spasiteľ milý,<br/>ktorý svet zachráni,<br/>príde v tej chvíli,<br/>srdcia nám obdarí<br/>láskou večnou v milovaní.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zostúpil z neba<br/>k hriešnemu človeku,<br/>ponížil seba<br/>a dal nám potechu,<br/>by sňal vinu z nás odvekú.</lines>
+    </verse>
+  </lyrics>
+</song>

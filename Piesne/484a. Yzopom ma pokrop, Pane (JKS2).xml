@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>484a. Yzopom ma pokrop, Pane</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yzopom ma pokrop, Pane,<br/>a hneď budem čistejší.<br/>Umy dušu, a dostane<br/>odev svoj nad sneh belší.<br/>[:Zmiluj sa nad nami, Bože,<br/>v nekonečnej milosti,<br/>tvoje zľutovanie môže<br/>zotrieť naše nečnosti.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nech je Bohu Otcu sláva,<br/>Synu, Duchu Svätému,<br/>nech sa úcta povždy vzdáva,<br/>večná nech je česť jemu!<br/>[:Zmiluj sa nad nami, Bože,<br/>v nekonečnej milosti,<br/>tvoje zľutovanie môže<br/>zotrieť naše nečnosti.:]</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>328. Panna preslávna</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Panna preslávna,<br/>ochrana hlavná,<br/>prekrásna zornička,<br/>nepoškvrnená<br/>Kristova Matička!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Plod požehnaný,<br/>predpovedaný,<br/>z Dávidovho lona,<br/>o tebe zneje<br/>pieseň Šalamúna.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ľúbezná zora,<br/>hviezdička skorá,<br/>slnce jasnoskvelé,<br/>oblažujúce<br/>leskom ľudstvo celé.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vďaka, Česť, sláva, a,<br/>nech sa vždy vzdáva<br/>Otcovi večnému,<br/>Synovi jeho<br/>a Duchu Svätému.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>435. Kresťan, rád na Skalku putuj</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kresťan, rád na Skalku putuj,<br/>cesty, času, neľutuj;<br/>obdivuj tam vyznávačov<br/>veľkých viery hrdinov.<br/>Benedikta pustovníka,<br/>rehoľnika Andreja<br/>každý Slovák zvelebuje,<br/>z duše sa im raduje!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Svorad Andrej z Poľska vyšiel<br/>a do Nitry k nám prišiel.<br/>by v samote na Zobore<br/>seba mŕtvil v kláštore.<br/>Benedikta atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do jaskyne šiel zoborskej<br/>zo samoty kláštornej,<br/>s Benediktom, druhom verným,<br/>pravdám žili tam večným.<br/>Benedikta atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Benedikt, oddávna ctený,<br/>vrúcne buď velebený,<br/>zrkadlom si nám svätosti,<br/>vzorom pravej zbožnosti.<br/>Benedikta atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Dnes požívaš už radosti<br/>nebies, raja, večnosti;<br/>ráč tam na nás pamätovať,<br/>spásu pre nás vymáhať.<br/>Benedikta atď.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Na Skalku my putujeme,<br/>času neľutujeme;<br/>Boha v svätých oslavujme,<br/>patrónov zvelebujme.<br/>Benedikta atď.</lines>
+    </verse>
+  </lyrics>
+</song>

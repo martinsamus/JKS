@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>016. Oblaky z neba</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oblaky z neba<br/>nech rosia teba,<br/>sľúbený Kriste,<br/>čakaný iste!<br/>Prídi, prídi, Spasiteľ náš!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Otcovia svätí<br/>prorokujú ti<br/>život tŕnistý,<br/>vzor náš prečistý;<br/>Prídi, pridi Spasiteľ náš!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glória:<br/>Buď Bohu chvála<br/>na zemi stála,<br/>že k nám zostúpi<br/>a nás vykúpi.<br/>Prídi, prídi, Spasiteľ náš!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krédo:<br/>Veríme v teba<br/>spasenie z neba,<br/>kvet lásky večnej<br/>a nekonečnej!<br/>Pridi, prídi, Spasiteľ náš!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ofertórium:<br/>Tvoja predrahá<br/>obeť premáha<br/>diablovu zlobu<br/>a ľudskú mdlobu.<br/>Prídi, prídi, Spasiteľ náš!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Skrz svoje rany<br/>od pekiel brány<br/>chráň nás, ó, Kriste,<br/>daj srdce čisté.<br/>Pridi, prídi, Spasiteľ náš!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sanktus:<br/>Presvätý Pane,<br/>tu v tvojom stane,<br/>nech sa vždy vzdáva<br/>tebe česť, sláva.<br/>Prídi, pridi, Spasiteľ náš!</lines>
+    </verse>
+  </lyrics>
+</song>

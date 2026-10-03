@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>398. Jar už prišla</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jar už prišla, krásne kvety l.<br/>sťa hviezdičky zem kryjú,<br/>z ktorýchže ti, Matka svätá<br/>dietky veniec uvijú,<br/>dietky veniec uvijú?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vyhľadáme fialečku<br/>nízku, milú, voňavú;<br/>tak pokorne ako ona<br/>[:klonilas' aj ty hlavu.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Snehobiela konvalinka: Snehobiela konvalinka:<br/>obraz tvojej čistoty,<br/>nech je druhým darom naším<br/>[:prepokornej štedroty.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ružu, čo sťa plameň horí<br/>a je kvetín kráľovná,<br/>dáme Matke večnej lásky,<br/>[:tebe Ruža duchovná.:]</lines>
+    </verse>
+  </lyrics>
+</song>

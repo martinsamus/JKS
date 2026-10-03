@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>303. Duša Kristova, posväť ma</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Duša Kristova, posväť ma,<br/>telo Kristovo, spas ma,<br/>krv Kristova, napoj ma,<br/>voda z boku Kristovho, obmy ma.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Utrpenie Kristovo, posilni ma;<br/>ó, dobrotivý Ježiš, vyslyš ma.<br/>Nedaj mi od teba odlúčiť sa<br/>a pred nepriateľom zachráň ma.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V hodinu smrti mojej povolaj ma<br/>a káž mi prísť k tebe,<br/>by som ťa so všetkými svätými<br/>chválil a velebil naveky. Amen.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>461. Bože náš, ty trojjediný</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bože náš, ty trojjediný,<br/>zmiluj sa nad dušami,<br/>ktoré trápia sa pre viny<br/>a hriech v svete spáchaný!<br/>Znášajú bez uľahčenia<br/>hrozný plameň utrpenia,<br/>aby mohli raz dosiahnuť<br/>nebeského spasenia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vysloboď ich milostivo<br/>z preveľkého trápenia,<br/>daj, aby aj im zasvitlo<br/>večné svetlo spasenia.<br/>Vieme, že ťa obrazili<br/>a trestania zaslúžili,<br/>daj, by naše vrúcne prosby<br/>z očistca ich vymohli.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Rozpomeň sa, Pane Kriste,<br/>že si muky podstúpil,<br/>by si spasil duše čisté<br/>a z hriechu nás vykúpil.<br/>Pomôž dušiam utrápeným,<br/>hľaď, ó, Bože, z trónu ku nim,<br/>daj ruku pomocnú im,<br/>do neba tak túžiacim.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zmiluj sa, ó, Duchu Svätý,<br/>daj im svojej milosti,<br/>ty si v daroch prebohatý,<br/>splň ich nádej v očistci,<br/>aby s tebou, s Tešiteľom<br/>a s Ježišom, Spasiteľom<br/>v nebi sa už radovali<br/>v chóre svätých preskvelom.</lines>
+    </verse>
+  </lyrics>
+</song>

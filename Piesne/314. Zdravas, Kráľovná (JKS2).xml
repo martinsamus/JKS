@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>314. Zdravas, Kráľovná</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zdravas, Kráľovná,<br/>Matka milosrdenstva;<br/>život náš i sladkosť<br/>a nádej naša, zdravas!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>K tebe voláme,<br/>hriešni synovia Evy,<br/>v tomto sĺz údolí<br/>stenajúci, plačúci,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>A preto teda,<br/>Orodovnica naša,<br/>obráť k nám tie svoje<br/>premilosrdné oči.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A nám Ježiša,<br/>ktorý je požehnaný<br/>plod života svojho,<br/>tam vo večnosti ukáž.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, milostivá<br/>a nad všetky pobožná,<br/>Ó, presladká Panna,<br/>Matka Božia, Mária.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kňaz: Oroduj za nás, svätá Božia Rodička.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ľud: Aby sme sa stali hodni Kristových prisľúbení.</lines>
+    </verse>
+  </lyrics>
+</song>

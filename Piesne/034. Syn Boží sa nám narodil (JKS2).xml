@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>034. Syn Boží sa nám narodil</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Syn Boží sa nám narodil l.<br/>a z hriechu nás vyslobodil.<br/>Vitaj, Pane, vitaj!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Privítaj, zem, Spasiteľa,<br/>a plesaj s nebom veselá.<br/>Vitaj, Pane, vitaj!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dnes anjel z neba zvestoval,<br/>jak Boh svet veľmi miloval.<br/>Vitaj, Pane, vitaj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>My tiež sa teda radujme<br/>a veselo ho vítajme.<br/>Vitaj, Pane, vitaj!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Prišiel si v túto dobu k nám<br/>jak človek, mocný neba Pán.<br/>Vitaj, Pane, vitaj!</lines>
+    </verse>
+  </lyrics>
+</song>

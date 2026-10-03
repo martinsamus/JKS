@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>495. Ó, najvyšší Otče z neba</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, najvyšší Otče z neba,<br/>veľký v svojej mocnosti,<br/>ty sám všetko obživuješ<br/>svetu dobro udeľuješ:<br/>prosby naše čuj skrúšené,<br/>tebe vrúcne prednesené.<br/>Ó, najvyšší Otče z neba,<br/>veľký v svojej mocnosti!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, najvyšší Otče z neba,<br/>veľký v svojej mocnosti,<br/>na rôľ našich obrábanie<br/>dávaj sväté požehnanie;<br/>časom tichý dážď pršať daj,<br/>žíznivú zem nim napájaj.<br/>Ó, najvyšší atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, najvyšší Otče z neba,<br/>veľký v svojej mocnosti,<br/>našim zbožiam daj zveľadok,<br/>lúkam hojný tráv dostatok;<br/>daj úrodu vinohradom,<br/>krásnu zeleň našim sadom.<br/>Ó, najvyšší atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ó, najvyšší Otče z neba,<br/>veľký v svojej mocnosti,<br/>pred škodlivým suchom, mrazom,<br/>pred krúpami, búrkou, hmyzom,<br/>pred všetkým, čo robí škodu,<br/>našu poľnú chráň úrodu.<br/>Ó, najvyšší atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, najvyšší Otče, z neba,<br/>veľký v svojej mocnosti,<br/>preukáž nám tú dobrotu,<br/>by sme dary a štedrotu<br/>tvoju zdraví požívali,<br/>vďaky tebe vždy vzdávali.<br/>Ó, najvyšší atď.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>110. Herodes, kráľu ukrutný</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>I. Herodes, kráľu ukrutný,<br/>čo sa bojíš, že Kráľ prišiel?<br/>Ten trónu ťa nepozbaví,<br/>čo tróny dáva večité.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Traja králi od Východu<br/>za hviezdou jasnou spiechajú,<br/>svetielkom Svetlo hľadajú<br/>a Bohu dary dávajú.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Do kúpeľa, hľa čistého,<br/>Baránok Boží vstupuje,<br/>od hriechov, ktorých sám nemá<br/>nás krstom svojím obmyje.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Zázračnú vec to vidíme:<br/>voda sa mení na víno,<br/>na vyšší rozkaz podstatu<br/>tak premeňuje odrazu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Nech ti je sláva, Ježišu,<br/>čo si sa zjavil dnes svetu,<br/>i Otcu s Duchom přesvatý<br/>buď sláva, chvála naveky!</lines>
+    </verse>
+  </lyrics>
+</song>

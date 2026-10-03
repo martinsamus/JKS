@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>127. Ach, ja Matka zarmútená</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, ja Matka zarmútená,<br/>pre smrť Syna skormútená!<br/>Moja bolesť je preveľká,<br/>meč ostrý srdce preniká.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ľutujte ma tvrdé skaly,<br/>ktoré ste sa dopukali!<br/>Moja bolesť atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Syn môj hrozne umučený,<br/>na kríži je zavesený!<br/>Moja bolesť atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Telo samé rany kruté,<br/>ruky, nohy prebodnuté.<br/>Moja bolesť atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Horko plačem a omdlievam,<br/>slzami sa dnes zalievam.<br/>Moja bolesť atď.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ó, hriešniku, nehreš denne,<br/>hľaď na telo zohavené.<br/>Moja bolesť atď.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Ó, hriešniku, nehreš viacej,<br/>čuj hlas Matky, hovoriacej:<br/>Moja bolesť atď.</lines>
+    </verse>
+  </lyrics>
+</song>

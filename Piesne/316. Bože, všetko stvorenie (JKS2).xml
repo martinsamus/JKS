@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>316. Bože, všetko stvorenie</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bože, všetko stvorenie<br/>prosí teba pokorne,<br/>čaká tvoje požehnanie,<br/>Pane, - skrúšene.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Aj my, núdzni, kľačíme,<br/>pred tebou sa koríme,<br/>abys' sväté požehnanie<br/>dal nám, prosíme.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ó, bohatý Pane náš,<br/>ktorý všetko v moci máš,<br/>netrestaj nás, neopusť nás,<br/>včuľ a každý čas.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>V tejto veľkej Sviatosti<br/>tróniš vo velebnosti<br/>a z nej ľudu požehnávaš,<br/>dávaš milosti.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>412. Ó, Mária, lásky zdroj</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Mária, lásky zdroj,<br/>pros za mňa a pri mne stoj,<br/>[:ružencom ráč najsvätejším<br/>žehnať život môj.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Čností tvojich skvelý lúč<br/>z duše mojej nevylúč,<br/>[:protivenstvá sveta znášať<br/>v pokore ma uč.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>V srdci mojom citov plam<br/>buduje ti lásky chrám.<br/>[:za teba, ó, Matka Božia,<br/>vďačne život dám.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pomiluj len naposled,<br/>keď opustím tento svet,<br/>[:tak sa budem skrze teba<br/>večne v nebi skvieť.:]</lines>
+    </verse>
+  </lyrics>
+</song>

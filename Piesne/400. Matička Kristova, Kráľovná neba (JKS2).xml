@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>400. Matička Kristova, Kráľovná neba</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Matička Kristova,<br/>Kráľovná neba,<br/>Matička Kristova,<br/>Kráľovná neba,<br/>spíname ručičky,<br/>spíname ručičky,<br/>prosíme teba,<br/>prosíme teba.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Stoj pri nás v každý čas, Stoj pri nás v každý čas, čas,<br/>pros za nás Krista,<br/>stoj pri nás v každý čas,<br/>pros nás Krista,<br/>by naša dušička,<br/>by naša dušička<br/>zostala čistá,<br/>zostala čistá.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Čistú jak ľaliu<br/>prijmi ju vrelo,<br/>čistú jak ľaliu prijmi ju vrelo,<br/>do raja večného,<br/>do raja večného,<br/>v rozkošné nebo,<br/>v rozkošné nebo.</lines>
+    </verse>
+  </lyrics>
+</song>

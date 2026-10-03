@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>366. Pozdravená buď, Mária</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pozdravená buď, Mária,<br/>vrúcne od nás každého,<br/>ty si svetu porodila<br/>Spasiteľa drahého,<br/>ktorý v nebi a na zemi<br/>kraľuje od večnosti,<br/>pretos' hodná pred vrtkými<br/>úcty plnej vďačnosti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória:<br/>Sláva Bohu na výsosti, Sláva Bohu na výsosti, výsosti,<br/>zeme, nebies Pánovi,<br/>Matku plnú dal milosti,<br/>nádeje kvet ružový;<br/>vzdajme česť Trojici svätej<br/>splna srdca čistého,<br/>aj Márii, Matke Božej,<br/>hlasom spevu vrúcneho,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krédo:<br/>V Boha Otca Stvoriteľa<br/>nepochybne veríme,<br/>Boha Syna Spasiteľa<br/>zbožným spevom chválime;<br/>i Ducha vždy vyznávame,<br/>darcu každej svätosti,<br/>skrz Máriu nádej máme<br/>dostať všetky milosti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ofertórium:<br/>Prijmi, Otče, obeť našu,<br/>daj, by sa ti ľúbila,<br/>ktorú teraz prináša tu<br/>Cirkev tebe vždy milá.<br/>Podporou nám buď v slabosti<br/>Márie hlas prosebný,<br/>skrz ňu prijmi do milosti<br/>dar náš, Otče velebný!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sanktus:<br/>Bohom dávno vyvolená<br/>dievka s úctou hovorí:<br/>»Nech sa stane vôľa neba,<br/>pred ktorou sa svet korí!«<br/>Preto všetci úctou jatí<br/>prespevujme v radosti:<br/>Svätý, svätý, Pán Boh svätý,<br/>daj nám v dobrom stálosti.</lines>
+    </verse>
+  </lyrics>
+</song>

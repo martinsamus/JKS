@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>196. Pán Boh všemohúci z mŕtvych vstal</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kyrie:<br/>Pán Boh všemohúci Pán Boh všemohúci l.<br/>z mŕtvych vstal žiarou skvůci.<br/>Kyrie eleison,<br/>Kriste eleison!<br/>Pobožne mu zaspievajme,<br/>Pána Boha vrúcne chváľme.<br/>ó, zdravas, Panna Mária!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Večný, mocný Pane,<br/>obeť ti predkladáme,<br/>Kyrie eleison,<br/>Kriste eleison!<br/>Vzkrieseného tvojho Syna,<br/>svätú obeť chleba, vína.<br/>Ó, zdravas, Panna Mária!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glória:<br/>A na zemi pokoj ľuďom,<br/>bo zvíťazil Boh nad bludom,<br/>brány nebies otvoril nám<br/>Kristus Pán.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pokoj pravý nám zvestoval<br/>učeníkov pozdravoval:<br/>Pokoj svoj vám ja dnes dávam,<br/>pokoj vám.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>ó, Baránku náš nevinný,<br/>ktorý snímaš sveta viny,<br/>milostivo zhliadni na nás,<br/>vyslyš nás!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Krédo:<br/>Verme v Otca najmocnejšieho,<br/>Stvoriteľa sveta celého<br/>i v Ježiša Boha večného.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Počatého z Ducha Svätého,<br/>z Panny na svet narodeného,<br/>preukrutne umučeného.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Na tretí deň z mŕtvych vstalého,<br/>Cirkev svätú spravujúceho<br/>a naveky osláveného.</lines>
+    </verse>
+  </lyrics>
+</song>

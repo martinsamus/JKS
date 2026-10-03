@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>405. Tie šaštínske zvony</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tie šaštínske zvony<br/>k sebe nás volajú,<br/>Patrónke Slovenska<br/>poklonu vzdávajú.<br/>Sedembolestná<br/>Panna Mária,<br/>tebe Slovenská<br/>spieva krajina:<br/>Tisíc ráz buď Zdravas,<br/>oroduj vždy za nás!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Radostná chvíľa nám,<br/>vždy vtedy nastáva,<br/>keď Matka Šaštínska<br/>zvonmi nás zvoláva.<br/>Poďme rodáci, ženy a panny,<br/>milostivý chrám<br/>tuje pred nami.<br/>Radostne spievajme,<br/>Máriu vítajme.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Šaštínsky chrám vzácnou<br/>zdobený je perlou;<br/>Patrónka Slovenska<br/>tu si tróni s berlou.<br/>Matka premilá<br/>nášho národa,<br/>oroduj za nás<br/>u svojho Syna!<br/>Národ ťa zve, volá,<br/>vypros mu pokoja!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vy, šaštínske zvony,<br/>hlahoľte slávnostne,<br/>nech sa váš zvučný hlas<br/>Slovenskom roznesie.<br/>Zaznej radosťou<br/>každá dedina,<br/>slávou zajasaj<br/>celá krajina!<br/>Slovenský národ náš<br/>ochraňuj v každý čas!</lines>
+    </verse>
+  </lyrics>
+</song>

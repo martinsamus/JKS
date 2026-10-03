@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>226. Večný náš Kráľ a Najvyšší</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Večný náš Kráľ a Najvyšší,<br/>Spasiteľ verných najdrahší,<br/>ty si premohol smrť ukrutnú<br/>a žiješ slávou večitou,<br/>a žiješ slávou večitou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ježiš, ty nebies veleba,<br/>víťazne stúpils' do neba,<br/>kde s Bohom Otcom panuješ<br/>i s Duchom Svätým kraľuješ,<br/>i s Duchom Svätým kraľuješ.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Kňaz: Zhromaždila nás vospolok, aleluja.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ľud: Kristova láska, aleluja.</lines>
+    </verse>
+  </lyrics>
+</song>

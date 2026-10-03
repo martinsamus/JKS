@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>248. Ó, trojjediný Bože</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, trojjediný Bože,<br/>pred tebou kľačíme<br/>a zbožnou modlitbou ťa,<br/>ó, Pane, prosíme,<br/>by sme ti prinášali<br/>Kristovu obetu,<br/>nech veľké zásluhy jej<br/>nás k tebe privedú.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória:<br/>Na nebi oslavujú<br/>ťa, Bože, anjeli,<br/>čo ľuďom dobrej vôle<br/>tvoj pokoj spievali;<br/>my sa ti tu klaniame<br/>a dobrorečíme,<br/>i chválu prinášame<br/>a vďaky úprimné.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krédo:<br/>Ja verím v Boha Otca Ja verím v Boha Otca Otca i Syna Božieho,<br/>nám z Panny zrodeného,<br/>i Ducha Svätého;<br/>tak v jednom večnom Bohu<br/>v tri verím osoby,<br/>z nich každá na spasenie<br/>mi mocne pôsobí.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ofertórium:<br/>Nuž prijmi, veľký Bože,<br/>tú svätú obetu,<br/>nech ti je ďakovaním<br/>za milosť presvätú;<br/>skrz tieto dary vrtkým<br/>nám odpusť poklesky,<br/>by sme ťa velebili,<br/>Otče náš nebeský.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sanktus:<br/>Vždy Svätý, svätý, svätý!<br/>ti vrúcne spievame,<br/>bo takto blízko nikde<br/>ťa v svete nemáme;<br/>nech je vždy požehnaný<br/>ten, ktorý vtelený<br/>k nám prišiel v mene tvojom,<br/>ó, Bože milený!</lines>
+    </verse>
+  </lyrics>
+</song>

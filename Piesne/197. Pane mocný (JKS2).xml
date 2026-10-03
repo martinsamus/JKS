@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>197. Pane mocný</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pane mocný, Pane večný, večný,<br/>Stvoriteľu, všetko spravujúci,<br/>Bože Otče dobrý,<br/>ty si všetkej chvály hodný<br/>a stvorenie milujúci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Všetkým ľuďom Písma velia<br/>Spasiteľa uctiť na výsosti.<br/>Zhliadni na nás z neba,<br/>prosíme dnes vrúcne teba,<br/>tu, v údolí smrteľnosti.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Duchu Svätý, tej podstaty<br/>ako Otec a Syn: v Božstve jednom,<br/>ty si naša nádej,<br/>v duše, v srdcia svetla nalej,<br/>poteš nás v žití prebiednom.</lines>
+    </verse>
+  </lyrics>
+</song>

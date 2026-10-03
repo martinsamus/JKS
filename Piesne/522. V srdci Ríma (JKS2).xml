@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>522. V srdci Ríma</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>V srdci Ríma, staroslávnom,<br/>v chráme hrobky Petra hlavnom<br/>ľúba zem a spieva silne<br/>ľudí zbožných zbor úprimne:<br/>Bože, živ a zachovaj nám námestníka<br/>Kristovho,<br/>živ, Bože otca svätého, otca dobrotivého!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tu zlatý krov, múry mocné,<br/>Vatikán tu celý svorne<br/>piesni ohlás tejto dáva,<br/>sedem vrchov privoláva:<br/>Bože, živ atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Mučeníkov nemé hroby,<br/>pamätníky slávnej doby,<br/>rozzvučte sa spolu s nami,<br/>leť ozvena, pevninami:<br/>Bože, živ atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Teplo južné, mráz severný<br/>hlas prijíma tento verný,<br/>hlas ten letí smelým vzletom,<br/>ozýva sa šírym svetom:<br/>Bože, živ atď.</lines>
+    </verse>
+  </lyrics>
+</song>

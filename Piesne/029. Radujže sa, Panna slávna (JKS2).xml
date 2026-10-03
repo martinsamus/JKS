@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>029. Radujže sa, Panna slávna</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Radujže sa, Panna slávna, Panna čistá,<br/>Matka Božia vyvolená Jezu Krista!<br/>Ty ľalia si najkrajšia, drahá Panna,<br/>nad hviezdy si najjasnejšia.<br/>Vitaj, Panna!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zdravas, plná si milosti, Panna čistá,<br/>porodiť máš bez bolesti Jezu Krista.<br/>Spasiteľa nám porodíš, drahá Panna,<br/>a nazveš ho menom Ježiš.<br/>Vitaj, Panna!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nikdy pannu okrem teba, Panna čistá,<br/>nepozdravil anjel z neba, Matka Krista!<br/>Pánom nebies vyvolená, drahá Panna,<br/>stala si sa Matkou Syna.<br/>Vitaj, Panna!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>preto prosme, by Rodička, Panna<br/>čistá,<br/>prosila za nás Synáčka, Jezu Krista,<br/>by skrz jeho sme vtelenie, drahá Panna,<br/>raz dosiahli vykúpenie.<br/>Vitaj, Panna!</lines>
+    </verse>
+  </lyrics>
+</song>

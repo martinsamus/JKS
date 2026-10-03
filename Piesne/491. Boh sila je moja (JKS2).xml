@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>491. Boh sila je moja</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boh sila je moja,<br/>vždy vo mne horí, plá,<br/>ňou vždy duša k žitiu<br/>najväčšiu záštitu<br/>obsiahla.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Už väčšej sily niet,<br/>o ktorú sa oprieť<br/>môžeš, človek slabý,<br/>keď ťa zhrešiť vábi<br/>zvodný svet.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pán Boh môj, Otče môj,<br/>ty večnej sily zdroj,<br/>keď duch sily nemá<br/>poslúchať hlas neba,<br/>pri mne stoj!</lines>
+    </verse>
+  </lyrics>
+</song>

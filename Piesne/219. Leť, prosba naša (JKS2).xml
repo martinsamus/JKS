@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>219. Leť, prosba naša</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Leť, prosba naša, k výšinám,<br/>príď, Duchu Svätý, z neba k nám;<br/>naplň nám srdcia milosťou,<br/>ktoré si stvoril múdrosťou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Si Tešiteľom nazvaný,<br/>od Boha darom nám daný,<br/>si oheň, lásky pravý zdroj,<br/>náš Potešiteľ, náš pokoj.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Tmu zmyslov ráč osvecovať<br/>a srdcia láskou spaľovať:<br/>daj pomoc svoju v každý čas<br/>niesť tela slabosť v nás.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vzdiaľ nepriateľa škodného,<br/>daj pokoja nám svätého;<br/>buď vodcom naším na cestách,<br/>by nezablúdili sme v tmách.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Buď sláva Otcu večnému,<br/>i Synu zmŕtvychvstalému;<br/>Svätému Duchu sláva tiež,<br/>milosť jeho nás vždy poteš!</lines>
+    </verse>
+  </lyrics>
+</song>

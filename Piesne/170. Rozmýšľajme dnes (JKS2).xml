@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>170. Rozmýšľajme dnes</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Rozmýšľajme dnes<br/>v svätom rozjímaní,<br/>ako Pán Kristus trpel<br/>veľké rany:<br/>od narodenia<br/>do ukrižovania<br/>nemá potešenia.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V záhrade najav<br/>prijal poľúbenie,<br/>tým Judáš, zradca,<br/>už im dal znamenie:<br/>Koho pobozkám,<br/>to je Kristus, verte,<br/>toho k súdu berte.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ježiša vzali, Ježiša vzali,<br/>súdu odovzdali;<br/>ľud vinu hľadá,<br/>jeho smrť si žiada.<br/>Náš nebeský Kráľ<br/>hanu tíško znášal,<br/>kým ľud divo jasal.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>V hodinu tretiu<br/>dal ho ľudu Pilát;<br/>odsúdili ho<br/>nevinnú krv vyliať.<br/>Bičovali ho,<br/>ukrutne ho bili:<br/>tak Pán trpel milý.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Hodina šiesta: Hodina šiesta:<br/>Pán šiel s krížom z mesta,<br/>vojaci z neho<br/>zvliekli nacho jeho;<br/>postavili kríž,<br/>Krista naň rozpiali,<br/>v smäde žlč mu dali.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>423. Boha svojho vzývam</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boha svojho vzývam,<br/>pieseň zbožnú spievam<br/>vrúcnym srdcom<br/>o vzornom kňazovi,<br/>o svätom Jánovi<br/>Nepomuckom.<br/>[:Ja už patróna mám,<br/>a to je svätý Ján<br/>Nepomucký.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dobre zná Boh milý,<br/>že poklad rozmilý<br/>česť moja je;<br/>tá skrze zlostníkov,<br/>mojich nežičníkov<br/>mne vzatá je.<br/>Ja už patróna mám atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Boh na mňa dopustil, ale neopustil v zármutku tom,<br/>v ktorom som trápený,<br/>na mysli mámený<br/>v žiali svojom.<br/>Ja už patróna mám atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Srdce zarmútené,<br/>nebuď utrápené<br/>viac v ťažkosti;<br/>tak sa často stáva,<br/>Boh divne rozdáva<br/>vždy milosti.<br/>Ja už patróna mám atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V Jánovi nádej mám<br/>a vrelo ho žiadam<br/>v pobožnosti,<br/>aby mi pomáhal,<br/>láskavo pri mne stál<br/>vždy v úzkosti.<br/>Ja už patróna mám atď.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>On, priateľ súžených,<br/>v svete opustených,<br/>otec milý,<br/>vyprosil milosti<br/>pre toho, kto ho ctí,<br/>v každej chvíli.<br/>Ja už patróna mám atď.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Svätý Nepomucký,<br/>teba vzýva ľudský<br/>hlas premnohých,<br/>ochráň mňa, ťa žiadam,<br/>najmä keď v hriech padám,<br/>ja úbohý.<br/>Ja už patróna mám atď.</lines>
+    </verse>
+  </lyrics>
+</song>

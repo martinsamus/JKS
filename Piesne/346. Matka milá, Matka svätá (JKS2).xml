@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>346. Matka milá, Matka svätá</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Matka milá, Matka svätá,<br/>ty si najčistejšia,<br/>bez poškvrny si počatá,<br/>Matka najslávnejšia.<br/>V tebe nádej vždy skladáme,<br/>k tebe zrak svoj vždy zdvíhame,<br/>[:k tebe na nebesá.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty si Matka vyvolená,<br/>Bohom vyvýšená,<br/>od viny si ochránená,<br/>celým nebom ctená.<br/>Počuj, Matka, naše žiale,<br/>ukáž cestu v nebies diale,<br/>[:buď nám naklonená.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ty si hada zneškodnila<br/>dľa božieho sľubu,<br/>porodila Spasiteľa<br/>na spasenie ľudu;<br/>počala si ty bez viny<br/>a tvoj život neznal viny<br/>[:Adamovho bludu.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Archanjel ti predzvestoval,<br/>že porodíš Syna,<br/>podobne ťa pozdravoval:<br/>milosti si plná.<br/>Boh je s tebou, požehnaná,<br/>vyvolená si od Pána!<br/>[:Ó, Panna Mária!:]</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>473. Ráč ľahké odpočívanie</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ráč ľahké odpočívanie<br/>umrelým dať, ó, Pane!<br/>Čuj v očistci ich vzdychanie<br/>a žiadosti skladané;<br/>tvári tvojej sú zbavení,<br/>teba vidieť žiadajú,<br/>by s tebou boli spojení,<br/>prosbu vrúcnu vznášajú.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dies irae:<br/>Ó, deň strachu a úzkosti,<br/>biedy, sĺz a súženia,<br/>ten deň hrôzy a žalosti,<br/>plačú, bôľu, kvílenia:<br/>keď vo svojej velebnosti<br/>príde Kristus súdiť nás,<br/>keď k súdu spravodlivosti<br/>pozve večný Sudca nás.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ofertórium:<br/>Obetu ti prinášame<br/>za dušičky úbohé,<br/>rodičov ti porúčame,<br/>bratov, sestry nebohé;<br/>všetkým, ktorí sa sužujú<br/>v očistcovej úzkosti,<br/>daj nech tvoju tvár poznajú<br/>tam v nebeskej radosti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ach, pohliadni na stvorenie,<br/>k zmilovaniu sa prikloň,<br/>Otče, Syna umučenie<br/>k zľutovaniu ťa nakloň;<br/>buď k zosnulým dobrotivý,<br/>prijmi ich do radosti,<br/>prosíme ťa aj my živí,<br/>posilňuj nás v úfnosti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sanktus:<br/>Svätý, svätý! prespevujme,<br/>svätý Boh na výsosti.<br/>Klaňajme sa a ďakujme<br/>jemu za tie štedrosti.<br/>Zbav múk duše zarmútené<br/>a zmierni ich trápenie,<br/>daj, nech ohňom očistené<br/>nájdu v nebi spasenie.</lines>
+    </verse>
+  </lyrics>
+</song>

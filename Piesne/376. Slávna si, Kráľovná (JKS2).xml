@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>376. Slávna si, Kráľovná</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Slávna si, Kráľovná, l.<br/>nebies Pani,<br/>ty si nám pomocou<br/>v utrpení.<br/>Prikloň, ó, prikloň<br/>svoj zrak premilý<br/>k plačúcim v slzavom<br/>tu údolí!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ruža si bez tŕnia, ó, Mária,<br/>Hviezdou si nám čností<br/>a spasenia.<br/>Prikloň atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Každý z nás v srdci vždy<br/>teba nosí,<br/>a preto, Matička,<br/>vrúcne prosí:<br/>Prikloň atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Oroduj, Mária, v nebi za nás<br/>a svätej Trojici<br/>porúčaj nás.<br/>Prikloň atď.</lines>
+    </verse>
+  </lyrics>
+</song>

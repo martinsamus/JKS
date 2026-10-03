@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>243. Kresťania, sem spiechajte</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kresťania, sem spiechajte,<br/>Bohu chválu vzdávajte,<br/>o Kristovi Ježišovi<br/>tu rozjímajte.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Telo Božie trápené,<br/>svätou omšou slávené,<br/>hľa, tu sa dnes predstavuje<br/>naše spasenie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Glória:<br/>Nech je Bohu sláva, česť,<br/>anjelská tak znela zvesť;<br/>nám na zemi pokoj daný<br/>nech zavráti lesť,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Evanjelium:<br/>Bože, ráč do milosti<br/>prijať Cirkvi žiadosti,<br/>ktoré teraz ti předkládá<br/>tvoj kňaz z vrúcnosti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Krédo:<br/>V Boha, Otca večného,<br/>v Krista, Syna milého,<br/>veríme tak ako v Božstvo<br/>Ducha Svätého.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ofertórium:<br/>Prijmi, večný Otče, tú<br/>najčistejšiu obetu,<br/>ktorú Ježiš sám pred smrku<br/>zanechal svetu.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Kňaz chlieb, víno předkládá<br/>a pred tvoju tvár skladá:<br/>ráč požehnať tieto dary,<br/>s nami ťa Žiada.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Sanktus:<br/>„Svätý, svätý!” spievame, „Svätý, svätý!” spievame,<br/>s anjelmi česť vzdávame:<br/>Bohu, Otcu nebeskému<br/>sa vždy klaniame.</lines>
+    </verse>
+  </lyrics>
+</song>

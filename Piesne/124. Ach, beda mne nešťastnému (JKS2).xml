@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>124. Ach, beda mne nešťastnému</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, beda mne nešťastnému,<br/>hriešnikovi preveľkému,<br/>hľa, pre moje previnenie<br/>trpí Ježiš umučenie.<br/>Kto je toho príčina,<br/>že na kríži umiera?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hrôza v mojom srdci vstáva,<br/>keď sa Ježiš na smrť dáva;<br/>od Judáša je zradený<br/>a falošne poľúbený.<br/>Kto je toho príčina,<br/>že na kríži umiera?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, jak Kristus je viazaný<br/>ukrutnými reťazami,<br/>vojaci ho bijú zlostne,<br/>udierajú neľútostne.<br/>Kto je toho príčina,<br/>že na kríži umiera?</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ja som horší nad Judáša,<br/>ktorý Pána raz Ježiša<br/>zlostným zradil poľúbením,<br/>ja zas hriechom každodenným.<br/>Kto je toho príčina,<br/>že na kríži umiera?</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Judáš zhrešil raz, najatý,<br/>mne neprejde deň nijaký,<br/>v ktorom by som neobrazil,<br/>kopiju mu v bok nevrazil.<br/>Ja som toho príčina,<br/>že na kríži umiera.</lines>
+    </verse>
+  </lyrics>
+</song>

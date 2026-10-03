@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>442. V deň slávny vitaj</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>V deň slávny vitaj v našich srdciach,<br/>ó, svätý Michal,<br/>patrón náš,<br/>ochrancom našim si v úzkostiach,<br/>u Boha sa nás zastávaš.<br/>Chceme tvoj príklad nasledovať<br/>a Pána Boha zvelebovať.<br/>Ochráň, obráň nás každého,<br/>k zlému, k hriechu náklonného;<br/>zastaň sa nás,<br/>vysloboď nás<br/>z moci diabla zlostného.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Lucifer, anjel zlostný, pyšný,<br/>anjelov v blud svoj strhnúť mal,<br/>zmaril si jeho zámer hriešny,<br/>víťaznes' diabla prekonal,<br/>moc jeho navždy si prelomil<br/>a nad diablom si tak zvíťazil.<br/>Ochráň atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Zlých duchov zbor na rozkaz Pánov<br/>v záhubu večnú si zahnal<br/>a všetkým večným mukám pekla,<br/>strašnému ohňu v obeť dal.<br/>Odstráň i od nás zúrivého,<br/>zloducha diabla škodlivého.<br/>Ochráň atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ty cirkev nebies si obránil;<br/>anjelov zbory zachránil;<br/>zachráň aj nás tu v boji žitia,<br/>by nás duch zlý nepodmanil.<br/>Daj, by sme Cirkev zastávali<br/>a hrdo sa k nej priznávali.<br/>Ochráň atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Zvíťazils' proti bojom diabla,<br/>moc tvoja trvať vždy bude,<br/>nedaj, by zlého moc zvládla,<br/>chráň Cirkev v každej hodine.<br/>Zachráň nám chrámy pobožnosti,<br/>tie viery našej sú pevnosti.<br/>Ochráň atď.</lines>
+    </verse>
+  </lyrics>
+</song>

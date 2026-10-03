@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>463. Každý človek umrieť musí</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Každý človek umrieť musí,<br/>skúsenosť nás tak učí,<br/>každý trpkú smrť okúsi,<br/>so svetom sa rozlúči.<br/>Ó, Bože premilý,<br/>dobrý a láskavý,<br/>ach, zmiluj sa nado mnou!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Smrť zastihne každého z nás,<br/>ale nevieš, v ktorý čas;<br/>buďme preto pripravení,<br/>žime s Bohom zmierení.<br/>Ó, Bože atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I tak sú už vymerané<br/>k môjmu hrobu i kroky<br/>a Od Boha spočítané<br/>môjho žitia sú roky.<br/>Ó, Bože atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Príbytok na tomto svete<br/>trvania je krátkeho,<br/>dnes alebo zajtra zmetie<br/>do hrobu smrť každého.<br/>Ó, Bože atď.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>518. Veľký kňaz k nám dnes prichádza (Na uvítanie biskupa)</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veľký kňaz k nám dnes prichádza,<br/>Kristov posol dôstojný,<br/>dušiam Pána on privádza<br/>spásy prameň prehojný.<br/>[:Zvučte chrámom hory, lesy,<br/>znejte k hviezdam zvučné plesy.<br/>Veľký kňaz dnes prišiel k nám,<br/>požehnanie nesie nám.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vleje v dušu svetlo jasné,<br/>svetlo viery, múdrosti,<br/>vleje v srdcia sily spásne,<br/>pokoj, radu v úzkosti;<br/>[:vleje v rany, čo ich hojí,<br/>v myseľ stálosť, mužnosť v boji.<br/>Veľký kňaz atď.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vitaj nám, deň našej spásy,<br/>čo nám Pán dal v štedrosti,<br/>vitaj, Kristov kríž prekrásny,<br/>zažeň od nás temnosti.<br/>[:Vitaj nám dnes, Cirkvi knieža,<br/>nesieš nám znamenie kríža.<br/>Veľký kňaz atď.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tvoje slová budú vždy tkvieť<br/>verne v našej pamäti,<br/>hlasom z neba budú vždy znieť<br/>sťa anjelské prívety.<br/>[:Ony budú nás sprevádzať<br/>a od hriechov vždy odrádzať.<br/>Veľký kňaz atď.:]</lines>
+    </verse>
+  </lyrics>
+</song>

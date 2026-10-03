@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>265. Ctím teba pobožne</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ctím teba pobožne,<br/>vrúcne ťa ctím,<br/>[:prítomný pod rúškom<br/>tu sviatostným!:]<br/>Tebe sa oddávam,<br/>celý som tvoj<br/>[:hľaď na mňa hriešneho,<br/>Ó, Bože môj.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>O tebe rozjímam, Boh môj a Pán,<br/>[:stvorením pohŕdam,<br/>keď teba mám.:]<br/>Teba chcem milovať,<br/>tebe česť vzdať,<br/>[:v tebe sa tešiť chcem<br/>a radovať.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ježišu, ktorý si Ježišu, ktorý si<br/>len z lásky k nám<br/>[:za pokrm nám, hriešnym, seba dal nám.:]<br/>Nech žíznim po tebe,<br/>nebeská slasť,<br/>[:kiež hľadám v nebesiach<br/>pravdivú vlasť.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Po smrti v nebi chcem<br/>tvoju zrieť tvár,<br/>[:ako dnes pozerám<br/>tu na oltár.:]<br/>S tebou chcem živý byť<br/>vo večnosti,<br/>[:prijmi ma láskavo do milosti.:]</lines>
+    </verse>
+  </lyrics>
+</song>

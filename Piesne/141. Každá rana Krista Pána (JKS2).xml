@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>141. Každá rana Krista Pána</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Každá rana Krista Pána<br/>nech je vďačne uctená;<br/>láska vrúca, ach, tvár mrúca<br/>Krista Pána, milená.<br/>Mojou vinou, Boží Synu,<br/>tŕň ti hlavu rozdiera,<br/>pre mňa ruky v hrozné muky<br/>železný klin rozviera.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Nohy sväté klinmi späté,<br/>ach, pre mňa ste ranené,<br/>pre mňa z boku tečú v toku<br/>krv a voda; spasenie,<br/>Rany sväté, vy bohaté<br/>duše mojej poklady,<br/>vás milujem,<br/>obdivujem,<br/>večnej spásy základy.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Z hriechu moci, z pekla noci,<br/>k Bohu ste ma uviedli,<br/>na vás hľadím, slzy cedím,<br/>že ma hriechy zaviedli.<br/>Hviezdy jasné, rany spásne,<br/>k vám sa znova utiekam,<br/>vás milujem, pozdravujem<br/>a kríž svätý objímam.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Počuj vzdychy, daj útechy,<br/>Ježiš, moja milota!<br/>Podaj ruky, zažeň muky<br/>v každej chvíli života.<br/>Ja chcem plakať, ťažko vzdychať<br/>pre žalostné zblúdenie,<br/>len pred súdom zmy ma prúdom<br/>krvi svojej v spasenie.</lines>
+    </verse>
+  </lyrics>
+</song>

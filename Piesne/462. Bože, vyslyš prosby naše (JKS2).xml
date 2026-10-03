@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>462. Bože, vyslyš prosby naše</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Bože, vyslyš prosby naše,<br/>ktoré ti predkladáme,<br/>za umrelých drahé duše<br/>s vrúcnosťou si žiadame:<br/>Zhliadni na ich trápenie<br/>a bolestné vzdychanie.<br/>Zmilujže sa nad všetkými<br/>a do nebies ich prijmi!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Graduále:<br/>Tváre tvojej sú zbavené<br/>a mukami trápené,<br/>nemôžu si už pomáhať,<br/>musia našu pomoc mať.<br/>Počuj, dobrý Pane náš,<br/>vrúcnej prosby našej hlas:<br/>Zmilujže sa nad všetkými<br/>a do nebies ich prijmi!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ofertórium:<br/>Prijmi prosby svojich verných<br/>v chráme tvojom presvätom,<br/>prijmi obeť za umrelých,<br/>rozlúčených so svetom.<br/>Očistca ich ohňa zbav,<br/>kráľovstvo im svoje zjav.<br/>Zmilujže sa nad všetkými<br/>a do nebies ich prijmi.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Sanktus:<br/>Nepamätaj na ich krehkosť,<br/>Spravodlivosť ty večná,<br/>ale zmiluj sa nad nimi,<br/>Dobrota nekonečná,<br/>by ťa večne chválili,<br/>radostne velebili.<br/>„Svätý, svätý!” ti spievali,<br/>s tebou sa radovali.</lines>
+    </verse>
+  </lyrics>
+</song>

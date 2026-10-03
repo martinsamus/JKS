@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>368. Preslávna panien Ochrana</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Preslávna panien Ochrana,<br/>Matička neporušená,<br/>ty brána vlasti nebeskej,<br/>nádej koruny slávnostnej!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>V kroví prekrásna ľalia,<br/>všade ju znajú a chvália;<br/>Panna, z ktorej pozdravenia<br/>vyšiel pre nás čin spasenia.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Veža drakom nedobytná,<br/>tonúcim Hviezda pomocná,<br/>nás ochraňuj<br/>od úkladov,<br/>svetlom svojím nás veď,<br/>spravuj!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Mraky bludárstva rozptyľuj,<br/>záhubné cesty odstraňuj;<br/>v búrlivom mori života<br/>ukáž nám, kde je istota.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Buď sláva tebe, Kriste náš,<br/>ktorý za Matku Pannu máš;<br/>sláva buď Otcu večnému,<br/>sláva i Duchu Svätému!</lines>
+    </verse>
+  </lyrics>
+</song>

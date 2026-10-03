@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>133. Jezu Kriste, Pane milý</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jezu Kriste, Pane milý,<br/>Baránku Boží nevinný,<br/>dal si, dal si na kríž ruky svoje<br/>pre hriech, pre hriech a pre zlosti moje!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Plač, hriešniku zatvrdilý,<br/>pohliadni, jak dobrotivý<br/>Ježiš, Ježiš na kríži skonáva,<br/>slnko, slnko svoju tvár schováva.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Jak po slovách Pán skonáva, Jak po slovách Pán skonáva, skonáva,<br/>v ramená mu klesá hlava;<br/>Matka, Matka pod krížom strápená<br/>stojí, stojí veľmi zarmútená.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Hľa, opona roztrhla sa,<br/>zem prehrozne zatriasla sa,<br/>skaly, skaly pevné sa pukali,<br/>mŕtvi, mŕtvi z hrobov povstávali.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Na kríži mu bok prebodli,<br/>voda, krv sa vyronili;<br/>plačme, plačme horkými slzami:<br/>Ježiš, Ježiš, zmiluj sa nad nami!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Matky, ktoré synov máte,<br/>vy to veľmi dobre znáte,<br/>keď vám, keď vám syn milý umiera,<br/>koľký, koľký žiaľ vám srdce zviera.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Aké by to srdce bolo,<br/>čo by plakať nevedelo,<br/>vidiac, vidiac Synáčka milého<br/>na kríž, na kríž klinmi pribitého.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Jezu Kriste, Pane milý,<br/>odpusť, čo sme previnili!<br/>K tebe, k tebe my sa utiekame,<br/>daj, nech, daj, nech život večný máme!</lines>
+    </verse>
+  </lyrics>
+</song>

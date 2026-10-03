@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>475. Vysloboď od smrti</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Vysloboď od smrti večnej mňa, ó, Pane,<br/>keď hrozný, strastný ten<br/>deň súdu nastane!<br/>Keď nebesia i zem<br/>budú sa triasť a chvieť,<br/>ty prídeš k nám v ten deň,<br/>bys' súdil tento svet.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Vesmír sa zachveje,<br/>strach, hrôza nastane,<br/>keď prídeš v nádhere<br/>súdiť nás, ó, Pane!<br/>Keď nebesá atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Deň tento, deň hnevu,<br/>deň biedy, úzkosti,<br/>deň hrozný a plný<br/>najväčšej trpkosti.<br/>Keď nebesá atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj, Pane, pokojné<br/>im odpočívanie<br/>a na veky večné<br/>v nebi prebývanie.<br/>Pred tvojím trónom nech<br/>večne sa radujú<br/>a teba naveky<br/>spevmi oslavujú!</lines>
+    </verse>
+  </lyrics>
+</song>

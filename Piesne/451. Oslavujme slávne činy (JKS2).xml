@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>451. Oslavujme slávne činy</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Oslavujme slávne činy<br/>svätej panny Kataríny,<br/>ktorá od mladosti<br/>vo vode a v učenosti,<br/>vynikla v každej čnosti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Keď Maximín, cisár krutý<br/>na Cirkev sa hnevom rúti,<br/>vtedy ty, Ó, panna,<br/>ochraňujúc Cirkev svätú<br/>smelo ideš pred tyrana.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prosila si v mene Pána,<br/>by kresťanom bola daná<br/>milosť zaslúžená,<br/>by im skvitla v nebi spása,<br/>ktorú nám Syn Boží hlása.</lines>
+    </verse>
+  </lyrics>
+</song>

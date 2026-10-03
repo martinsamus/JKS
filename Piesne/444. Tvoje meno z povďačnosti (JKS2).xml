@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>444. Tvoje meno z povďačnosti</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tvoje meno z povďačnosti,<br/>Bože, zvelebujeme,<br/>s anjelmi ti v skrúšenosti<br/>slávu prespevujeme!<br/>Oni trón tvoj najslávnejší<br/>v nebesiach obklopujú,<br/>tebe, Kráľu najmocnejší,<br/>pokorne sa klaňajú.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pane, sluhov tvojich ctíme<br/>a v nich ctime s radosťou<br/>vždycky teba, velebíme<br/>za to s pravou vrúcnosťou;<br/>dušiam našim na ochranu<br/>dal si strážcov premilých,<br/>proti zlému na obranu<br/>pomocníkov spanilých.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keď vás, strážci naši, ctíme<br/>zo srdca povďačného,<br/>Bohu vďaky vzdať musíme<br/>za veľké dobro jeho, že postavil vás,<br/>duchovia,<br/>nám za pomoc v slabosti,<br/>by ste boli ochrancovia<br/>nám na púti k večnosti.</lines>
+    </verse>
+  </lyrics>
+</song>

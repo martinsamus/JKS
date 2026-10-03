@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>255. Svätú obeť začíname</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Svätú obeť začíname l.<br/>v mene tvojom, Ježišu,<br/>aby bola, ťa žiadame,<br/>užitočná pre dušu.<br/>Ó, Pane náš, Kráľu nebies,<br/>prispej svojou milosťou,<br/>by sme mohli omšu svätú<br/>vypočuť s pobožnosťou.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória:<br/>Chváľme Boha jediného,<br/>jak len chváliť môžeme,<br/>lebo jeho velebného<br/>chváliť dosť nemôžeme.<br/>Chváľme Boha spevom, rečou,<br/>chváľme ho i skutkami,<br/>chváľme ho vždy s úctou väčšou,<br/>svojimi vždy čnosťami.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Krédo:<br/>Verím v Boha jediného,<br/>ktorý je náš Stvoriteľ,<br/>v Jezu Krista, Syna jeho,<br/>ktorý je náš Spasiteľ;<br/>verím v Ducha presvätého,<br/>v božstve obom rovného,<br/>Tešiteľa presladkého<br/>a k nám vždy láskavého.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ofertórium:<br/>Nech je milá obeť naša<br/>ako obeť Ábela,<br/>ktorú ti kňaz tu prináša,<br/>bo Cirkev ho posiela:<br/>prijmi obeť chleba, vina,<br/>Synom nám založenú<br/>učiň, Otče, by slúžila<br/>nám všetkým ku spaseniu.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Sanktus:<br/>Svätý, svätý, Pán Boh svätý, Svätý, svätý, Pán Boh svätý, svätý,<br/>jediný v troch osobách,<br/>Boh náš Otec, Syn, Duch Svätý,<br/>nerozdielny v bytnostiach.<br/>Hosana mu na výsostiach,<br/>česť a vďaky vzdávajme,<br/>chválu jeho majme v ústach<br/>každý deň, keď vstávame.</lines>
+    </verse>
+  </lyrics>
+</song>

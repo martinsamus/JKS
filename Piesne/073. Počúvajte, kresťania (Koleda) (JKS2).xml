@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>073. Počúvajte, kresťania (Koleda)</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>[:Počúvajte, kresťania,:] l.:]<br/>čo anjel hlása,<br/>čo je to zasa nového!<br/>Nič sa nebojte,<br/>anjela čujte<br/>božieho.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>[:Narodil sa Kristus Pán:]<br/>z Márie Panny,<br/>on Pán nad pánmi,<br/>prišiel k nám.<br/>Čože ti dáme,<br/>vložený v slame, nebies Pán?</lines>
+    </verse>
+    <verse name="v3">
+      <lines>[:V jaskyni ho zrodila:]<br/>Mária Panna,<br/>milého Syna v chudobe.<br/>Skveje sa krásou,<br/>je našou spásou<br/>v porobe.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>[:Ó, Synáčku prekrásny,:]<br/>čo si sa znížil,<br/>veľmi ponížil<br/>z lásky k nám!<br/>Prichádzaš z neba,<br/>dúfame v teba,<br/>mocný Pán.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>[:Kriste nám narodený,:]<br/>buďže ti chvála<br/>od nás vždy stála<br/>z vďačnosti.<br/>Ctíme ťa večne,<br/>veľmi srdečne,<br/>v radosti.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>502. Pozdravená buď úctivo</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pozdravená buď úctivo,<br/>Rodinka premilá,<br/>[:z ktorej dušiam našim spása<br/>večná zasvietila.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Boh ťa ľudu prisľúbil hneď<br/>po páde do hriechu,<br/>[:z teba vzíde, ten čo hada,<br/>zničí moc i pýchu.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Požehnané kraje, v ktoré<br/>Boh ťa poslal milý,<br/>[:šťastné oči, čo raz s úctou<br/>teba pozdravili.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Blažený je a spasenie<br/>večné dosahuje,<br/>[:koho tvoja záštita tu<br/>mocná ochraňuje.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Preto aj mne keď biť bude<br/>posledná hodinka,<br/>[:v ochranu ma prijmi svoju,<br/>ó, svätá Rodinka.:]</lines>
+    </verse>
+  </lyrics>
+</song>

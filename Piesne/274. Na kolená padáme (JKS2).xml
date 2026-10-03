@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>274. Na kolená padáme</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Na kolená padáme,<br/>vrúcnym hlasom voláme:<br/>Buď od nás vždy velebená,<br/>Sviatosť Oltárna!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Verme v Krista večného,<br/>v Sviatosti tu skrytého.<br/>Buď atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ježiš je k nám znížený, Ježiš je k nám znížený, znížený,<br/>Syn Boží oslávený.<br/>Buď atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Posvätný chlieb anjelov<br/>stal sa chlebom ctiteľov.<br/>Buď atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Kto ho hodne požíva,<br/>milosť božiu dobýva.<br/>Buď atď.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Tu je živé to Telo,<br/>čo na kríži trpelo.<br/>Buď atď.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Tuje sveta hodnota,<br/>cena nášho života.<br/>Buď atď.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Tuje všetkých pánov Pán,<br/>tu je všetkých kráľov Kráľ.<br/>Buď atď.</lines>
+    </verse>
+  </lyrics>
+</song>

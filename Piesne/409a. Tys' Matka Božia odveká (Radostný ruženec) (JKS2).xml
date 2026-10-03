@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>409a. Tys' Matka Božia odveká (Radostný ruženec)</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tys' Matka Božia odveká,<br/>ty Boha Syna človeka<br/>si svetu k spáse zrodila,<br/>nuž zaznej, pieseň rozmilá!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Do Nazaretu archanjel<br/>s pozdravom z neba priletel<br/>a hlavu sklonil skrúšene,<br/>ctil svoju Kráľovnú v tebe,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Bys' lásky dala obetu,<br/>ideš navštíviť Alžbetu,<br/>tá Matku Pána v tebe cti<br/>a pokorne ťa uhostí.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Toho, čo stvoril nebo, zem,<br/>objíma nízky Betlehem:<br/>v chudobe si ho zrodila,<br/>oddane jemu slúžila.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, Panna panien presvätá,<br/>veľká je tvoja obeta;<br/>očisteniu sa poddávaš,<br/>nám Syna svojho oddávaš.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Syn v chráme Písmo vykladal,<br/>na púti starosť keď ti dal.<br/>Ó, Panna, s tebou pôjdeme<br/>a v chráme zas ho nájdeme.</lines>
+    </verse>
+  </lyrics>
+</song>

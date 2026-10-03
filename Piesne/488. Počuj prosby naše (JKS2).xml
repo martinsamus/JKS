@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>488. Počuj prosby naše</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Počuj prosby naše, milostivý Bože!<br/>Daj nám úrody hojné<br/>a časy pokojné.<br/>Veľký, večný Bože!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Počuj prosby naše, milostivý Bože!<br/>Daj nám slnka teplého,<br/>počasia jasného.<br/>Veľký, večný Bože!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Počuj prosby naše, milostivý Bože!<br/>Daj nám dažďa tichého<br/>a užitočného!<br/>Veľký, večný Bože!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Počuj prosby naše, milostivý Bože!<br/>Chráň nás od hromobitia<br/>a od krupobitia.<br/>Veľký, večný, Bože!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Počuj, prosby naše, milostivý Bože!<br/>Odvráť mor, hlad a vojnu,<br/>chráň nám vlasť pokojnú.<br/>Veľký, večný Bože!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Počuj prosby naše, milostivý Bože!<br/>Ráč, Pane, nás požehnať,<br/>úrodu zemi dať.<br/>Veľký, večný Bože!</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Počuj prosby naše, milostivý Bože!<br/>Nech nám vždy tvoje ruky<br/>chránia polia, lúky.<br/>Veľký, večný Bože!</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Počuj prosby naše, milostivý Bože!<br/>Čuj nás, ktorí tu tebe<br/>voláme v potrebe.<br/>Veľký, večný Bože!</lines>
+    </verse>
+  </lyrics>
+</song>

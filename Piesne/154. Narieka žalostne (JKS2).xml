@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>154. Narieka žalostne</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Narieka žalostne<br/>Matička bolesti<br/>nad svojím Synáčkom,<br/>Kráľovná milosti.<br/>[:Ach, pozdravujte,<br/>úprimne ľutujte<br/>Matičku Kristovu.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Narieka, že Syn pnie<br/>na kríži nevinne,<br/>že vidí Synáčka<br/>v poslednej hodine.<br/>Ach atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pre zlého hriešnika,<br/>ukrutne zmučený<br/>Kristus Pán už z kríža<br/>je mŕtvy zložený.<br/>Ach atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Presvätú mŕtvolu,<br/>posiatu ranami,<br/>Matička umýva<br/>svojimi slzami.<br/>Ach atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, hriešny človeče,<br/>pre tvoje spasenie<br/>Matka aj so Synom<br/>znášajú trápenie.<br/>Ach atď.</lines>
+    </verse>
+  </lyrics>
+</song>

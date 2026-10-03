@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>071. Plesajte, kresťania (Koleda)</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Plesajte, kresťania, l.<br/>nová radosť;<br/>už sa nám narodil<br/>Boh, drahý hosť.<br/>Z ruže kvet vykvitol<br/>o polnoci,<br/>k podiveniu sveta,<br/>z božej moci.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, radosť nad radosť,<br/>sláva sveta;<br/>v jasličkách vložené<br/>božské Dieťa!<br/>Rád ťaja kolembám,<br/>môj Ježišku,<br/>a o tom rozjímam,<br/>že ležíš tu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pastieri, pobožne<br/>pokľakajte,<br/>anjeli nebeskí, prespevujte!<br/>Sláva buď vždy Bohu<br/>na výsosti<br/>a ľud svoj nech prijme<br/>do radosti.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Všetci ho vítajme v pobožnosti:<br/>Ach, vitaj ty radosť<br/>nad radosti!<br/>Ach, vitaj, Ježiško<br/>najmilejší,<br/>ty verný priateľu<br/>našich duší!</lines>
+    </verse>
+  </lyrics>
+</song>

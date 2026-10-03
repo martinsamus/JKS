@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>494. Všemohúci večný Bože</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Všemohúci večný Bože,<br/>v teba mocne dúfam,<br/>svoje hriechy, previnenia<br/>ľutujem, nezúfam.<br/>Ty samotný zhojiť môžeš,<br/>Bože, náš jediný,<br/>všetky žiale srdca môjho,<br/>i všetky zlé činy.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Dobrotivý, Bože,<br/>k nohám tvojim padám,<br/>ach, zhrešil som, veľmi zhrešil,<br/>ľútostne to badám.<br/>Telo tvoje zbičoval som<br/>tŕňovou korunou,<br/>aby svoje hriechy zmýval<br/>krvou prenevinnou.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Srdce moje žiaľom plné,<br/>kríž tvoj slzou kropím,<br/>rozorvanú dušu svoju<br/>v ťažkých slzách topím.<br/>Zahrej lúčom milosrdným<br/>srdce mi ľadové,<br/>prežiar dychom myseľ moju,<br/>daj sily k obnove.</lines>
+    </verse>
+  </lyrics>
+</song>

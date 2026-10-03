@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>477. Zbav nás večnej smrti, Pane</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zbav nás večnej smrti, Pane,<br/>keď prehrozný deň nastane,<br/>v ktorý volať budeš k sebe<br/>celý svet,<br/>stvorenie svoje.<br/>Vtedy s anjelskými zbormi<br/>prídeš súdiť s ohňom tvory.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Desím sa a tŕpnem v strachu,<br/>viem, že sám tiež vstanem z prachu<br/>a vydávať budem musieť<br/>zo života prísny počet.<br/>Vtedy atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ach, deň hrozný, deň ľútostný<br/>deň radostný, prežalostný,<br/>ach, deň strašnej velebnosti,<br/>plný hrôzy a trpkosti!<br/>Vtedy atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Daj, Pane, dušiam v očistci<br/>večný pokoj v nebies vlasti.<br/>Nech [mu, jej, im] svieti neustále<br/>z výšin nebies svetlo blahé!<br/>Zbav nás večnej smrti, Pane,<br/>keď posledný deň nastane!</lines>
+    </verse>
+  </lyrics>
+</song>

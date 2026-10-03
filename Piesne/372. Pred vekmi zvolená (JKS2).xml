@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>372. Pred vekmi zvolená</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pred vekmi zvolená<br/>Pani anjelská,<br/>slávou ozdobená<br/>Hviezda nebeská!<br/>My sa k tebe utiekame,<br/>Panna Mária,<br/>vrúcnym srdcom ti spievame:<br/>Salve, Regina!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Žila si na svete<br/>v čnosti, svätosti,<br/>ó, Ruža v rozkvete,<br/>plná milosti!<br/>Vyvolená Matka Krista,<br/>Panna nevinná,<br/>zdravas, zdravas, Panna čistá:<br/>Salve, Regina!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>K tebe bol poslaný<br/>posol anjelský,<br/>by niesol přesvatý<br/>pozdrav nebeský,<br/>že jak panna, tak zvestoval,<br/>porodíš Syna,<br/>pokorne ťa pozdravoval:<br/>Salve Regina!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Prekrásna Ľalia,<br/>Panna spanilá,<br/>nebeská Mária,<br/>Matka premilá!<br/>Ráč za nás vždy orodovať<br/>u svojho Syna,<br/>večne ti chcem prespevovať:<br/>Salve Regina!</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ku tebe v úzkosti<br/>všetci voláme,<br/>zo srdca vernosti<br/>my ťa vzývame;<br/>chválu, česť ti prinášame,<br/>Panna nevinná,<br/>pieseň slávy ti spievame:<br/>Salve Regina!</lines>
+    </verse>
+  </lyrics>
+</song>

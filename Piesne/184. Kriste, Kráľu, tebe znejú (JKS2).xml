@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>184. Kriste, Kráľu, tebe znejú</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Kriste, Kráľu, tebe znejú<br/>našej piesne pochvaly,<br/>tebe hlasy pacholiatok<br/>Hosana!<br/>dnes spievali.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Teba Kráľom svojím zveme,<br/>Dávidov Syn vznešený,<br/>k nám prichádzaš v mene Pána,<br/>Kriste, Kráľu slávený!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Teba slávi s citom vďakov<br/>v nebi svätých duchov zbor<br/>i zástupy smrteľníkov<br/>a na svete každý tvor.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Deti v cestu stlali palmy<br/>pri tom tvojom príchode,<br/>my spievame úcty žalmy<br/>v tomto svojom sprievode.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Oni ti tam slávu vzdali,<br/>keď si k mestu pospiechal,<br/>my ťa ctíme piesňou chvály,<br/>veď si náš Boh, večný Kráľ.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Prijímal si milo chválu,<br/>milo prijmi i náš hlas,<br/>milostivý, dobrý Kráľu,<br/>daj nám milosť a nás spas!</lines>
+    </verse>
+  </lyrics>
+</song>

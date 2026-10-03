@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>397. Čo dnes tak milo zaváňa</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Čo dnes tak milo zaváňa,<br/>sem z rozvitého hája?<br/>To konvalinka vyzváňa<br/>na prichod Kňažnej mája.<br/>[:Ó, vitaj, vitaj Svätica,<br/>Kráľovná krásy, kvetu,<br/>hlás každý háj i kvetnica<br/>jej čnosť a krásu svetu!:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ó, vitaj, Panna Mária,<br/>svet chváli ťa a jasá;<br/>čistotu chváli ľalia<br/>a lásku ruža hlása.<br/>[:Fialky milo v pokore<br/>po háji sa ti klonia<br/>a v nížine i na hore<br/>k oslave zvonky zvonia.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Na lúke milé slzičky<br/>jak ťažkých bôľov bratia,<br/>chudôbky núdzu Matičky<br/>po horách-dolách tratia;<br/>[:rozmarin zasa panenstvo<br/>v záhrade slávne hlása<br/>a krásy tvojej tajomstvo<br/>velebí sedmokrása.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Tak i my plesmi oslávme<br/>radostnú Kňažnú mája,<br/>oltáre kvietím ozdobme,<br/>nech chrám je obraz raja;<br/>[:ozdobme srdcia čistotnou<br/>k Rodičke oddanosťou,<br/>hľa, ona palmou víťaznou<br/>ide k nám s láskavosťou.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ráč, Panna, v mocnú ochranu<br/>vziať duší čistý výkvet<br/>a prosby naše nes Pánu,<br/>nech žehná celý náš svet.<br/>[:Nech rosa božej milosti<br/>nám srdce blaží hojne,<br/>nech takto žijúc v svätosti,<br/>umrieme bohabojne!:]</lines>
+    </verse>
+  </lyrics>
+</song>

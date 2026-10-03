@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>514. Pán Boh náš nebeský</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pán Boh náš nebeský,<br/>večný a presvätý,<br/>ktorý nás miluješ a spravuješ svety!<br/>Bože trojjediný a mocný sveta Pán,<br/>my ťa pokorne prosíme, pred diablom nás ochráň!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>K tebe sa utiekam, Boh lásky, milosti,<br/>oplačem skrúšene svoje pokleslosti.<br/>Udeľ svojej pomoci, chcem len tebe žiť<br/>a za dobrodenia tvoje i život položiť.</lines>
+    </verse>
+  </lyrics>
+</song>

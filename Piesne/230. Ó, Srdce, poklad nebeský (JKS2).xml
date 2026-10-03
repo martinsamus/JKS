@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>230. Ó, Srdce, poklad nebeský</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Srdce, poklad nebeský,<br/>ty zbav nás všetkých nerestí,<br/>tak túžime vždy po tebe,<br/>ó, veď nás k neba velebe!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Že ranila ťa kopija,<br/>to kliatba hriechov spravila:<br/>Ó, Srdce, hrozne zranené,<br/>len ty si naše spasenie.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keď nepriateľ ma napadne,<br/>chráň dušu moju,<br/>ó, Pane; tys' brána nebies jedine<br/>pri mojej smrti hodine.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krv z teba tokom prúdila,<br/>by duša v nej sa umyla;<br/>ty veniec z tŕňov na hlave<br/>si uvil pre mňa k oslave.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ó, Milosrdnosť zázračná<br/>nech slávi ťa reč povďačná;<br/>len Srdce mi ty neodním,<br/>nech so svätými vždy ho ctím.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>216. Poprosme Ducha Svätého</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Poprosme Ducha Svätého,<br/>Tešiteľa nám verného,<br/>nech v ňom žije duša naša,<br/>nepadne v moc satanáša.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>By hrešiť sme už prestali,<br/>čnosti sväté milovali,<br/>milosť jeho v sebe mali<br/>a radosťou ovplývali.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>ó, dobrý Duchu presvätý,<br/>navštív ľud svoj ti oddaný,<br/>príď k nám s darmi nebeskými,<br/>čnosťami plň nás svätými.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Ráč lásku v nás rozmnožovať,<br/>vieru živú v nás pestovať,<br/>daj nám hriechov odpustenie,<br/>vo večnosti oslávenie.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Daj viery, daj pobožnosti,<br/>sily, umu a múdrosti,<br/>daj nám hriechov oplakanie<br/>a vo viere zotrvanie.</lines>
+    </verse>
+  </lyrics>
+</song>

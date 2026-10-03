@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>356. Ó, Mária, Panna krásna</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, Mária, Panna krásna,<br/>ó, Mária, Mária,<br/>nad slnce si, Panna, jasná,<br/>ó, Matička spanilá,<br/>Hviezda nebeská,<br/>Pani anjelská,<br/>tys' Patrónka nášho<br/>Slovenska.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty si Boha Otca dcéra,<br/>ó, Mária, Mária,<br/>už pred vekmi vyvolená,<br/>Ó, Matička spanilá!<br/>Hviezda atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Chcel ťa mať Syn Boh za Matku,<br/>ó, Mária, Mária,<br/>prispej nám vždy v nedostatku,<br/>ó, Matička spanilá!<br/>Hviezda atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Boha Otca si Nevesta,<br/>ó, Mária, Mária,<br/>ty nám buď do neba cesta,<br/>ó, Matička spanilá!<br/>Hviezda atď.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Raduješ sa už na nebi,<br/>ó, Mária, Mária,<br/>zastaň všetkých nás na zemi,<br/>Ó, Matička spanilá!<br/>Hviezda, atď.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Koľko je tam hviezd na nebi,<br/>ó, Mária, Mária<br/>toľko ráz ťa svet velebí,<br/>ó, Matička spanilá!<br/>Hviezda atď.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>My, sme všetci dietky tvoje,<br/>ó, Mária, Mária,<br/>odvráť od nás nepokoje,<br/>ó, Matička spanilá!<br/>Hviezda atď.</lines>
+    </verse>
+    <verse name="v8">
+      <lines>Keď nás telo, svet pokúša,<br/>Ó, Mária, Mária,<br/>v tebe dúfa naša duša,<br/>ó, Matička spanilá!<br/>Hviezda atď.</lines>
+    </verse>
+  </lyrics>
+</song>

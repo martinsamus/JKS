@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>251. Pred oltárom tu kľakáme</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pred oltárom tu kľakáme,<br/>všemohúci Bože náš,<br/>k tebe zrak svoj obraciame,<br/>ktorý v nebi prebývaš.<br/>Odpusť hriechy, neprávosti,<br/>z prenesmiernej láskavosti,<br/>[:nezavrhni, nesúď nás.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Glória:<br/>Mocný Bože, chválime ťa<br/>bez skončenia spievame,<br/>za pokojom tohto sveta<br/>k tebe vrúcne vzdycháme.<br/>Teba, všemocného Boha<br/>chváli more, zem, obloha,<br/>[:aj my sa ti klaniame.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Evanjelium:<br/>Blahonosné slovo Božie<br/>nábožne počúvajme,<br/>je v ňom pravda večná, istá,<br/>v srdci ho vždy chovajme.<br/>Slovo Krista: pravá cesta,<br/>vedúca do nebies mesta,<br/>[:po nej zbožne kráčajme.:]</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Krédo:<br/>Veríme a vyznávame<br/>Boha Otca večného,<br/>za pravého Boha máme<br/>Krista, Syna milého;<br/>jedno Božstvo vyznávame,<br/>za milosti dar vzývame<br/>[:Boha, Ducha Svätého.:]</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ofertórium:<br/>Zhliadni na nás dobrotivo,<br/>Pane Bože náš, z neba,<br/>prijmi vďačne, milostivo<br/>dary vína i chleba.<br/>Obráť k nám tvár prívetivo;<br/>tebe daná tu úctivo,<br/>[:nech je milá obeta.:]</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Obeť túto ti dávame<br/>na pamiatku mučenia,<br/>požehnaj ju, ťa žiadame,<br/>vlej do duši skrúšenia.<br/>Obeť milú predkladáme,<br/>nech skrz ňu u teba máme<br/>[:večnú milosť spasenia.:]</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Sanktus:<br/>K anjelom sa pripojujme<br/>plní živej vrúcnosti,<br/>„Svätý, svätý” prespevujme,<br/>chváľme Boha v zbožnosti.<br/>Nesmierna je jeho sláva,<br/>preto nech sa mu česť vzdáva<br/>[:navždy až do večnosti.:]</lines>
+    </verse>
+  </lyrics>
+</song>

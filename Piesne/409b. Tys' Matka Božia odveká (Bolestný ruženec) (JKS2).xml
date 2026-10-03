@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>409b. Tys' Matka Božia odveká (Bolestný ruženec)</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tys' Matka Božia odveká,<br/>tys' Boha Syna človeka<br/>na kríži zrela žalostná,<br/>nuž zaznej, pieseň bolestná!</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Syn Boží k zemi sklonený<br/>a krvopotom skropený<br/>modli sa vrúcne: »Kalich múk<br/>prijímam, Otče, z tvojich rúk«,</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Pri stĺpe zo šiat strhaný<br/>Syn tvoj je prudko šľahaný;<br/>aj my si telo križujme<br/>a vášne svoje skrocujme,</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Má hlavu krvou skropenú,<br/>otupne tŕním zdobenú,<br/>by srdcia naše pokoril<br/>a pýchu našu vyhojil.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Pod ťarchou kríža znížený<br/>Syn Boží kráča zronený;<br/>aj my si kríž svoj znášajme,<br/>za nim v pokání kráčajme.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Pod krížom stála Mária,<br/>prekrásna biela Ľalia,<br/>jej srdce meč ťal sedmorý,<br/>k nej láska naša nech horí!</lines>
+    </verse>
+  </lyrics>
+</song>

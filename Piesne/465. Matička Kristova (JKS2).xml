@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>465. Matička Kristova</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Matička Kristova,<br/>zhliadni k nám z neba,<br/>za duše v očistci<br/>prosíme teba.<br/>[:Materskou prímluvou<br/>otvor im bránu,<br/>túžobne volajú<br/>po Kristu Pánu.:]</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zdravas' buď, Kráľovná,<br/>stiš božie hnevy,<br/>vzdycháme vyhnaní<br/>synovia Evy.<br/>[:Syn tvoj ich vykúpil,<br/>daj, by ich zmyla<br/>zo srdca na kríži<br/>krv tvojho Syna.:]</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Matička, ukáž im<br/>jas svojej tvári,<br/>nebeský mier nech im naveky žiari.<br/>[:Priveď ich z očistca<br/>na nebies miesta,<br/>večné nech svetlá im<br/>v nebesiach svietia.:]</lines>
+    </verse>
+  </lyrics>
+</song>

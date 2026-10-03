@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>350. Milosťou Božou zdobená</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Milosťou božou zdobená,<br/>ó, Mária, Matka milá,<br/>Kráľovná svätých presvätá,<br/>Panna čistá, spanilá!<br/>Ach, pros za nás, Matka,<br/>ty lásky zdroj,<br/>zachráň od zlého nás,<br/>vždy pri nás stoj.<br/>Mária, Mária,<br/>vypros nám milosť u Syna.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Od večnosti si zvolená<br/>za Matičku Spasiteľa<br/>a v raji už zasľúbená<br/>od Otca Stvoriteľa.<br/>Ach, pros za nás atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Matička naša, stoj pri nás,<br/>Syna svojho pros vždy za nás;<br/>prijmi nás v láske pod svoj štít,<br/>pod ním stále daj nám žiť.<br/>Ach, pros za nás atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Vrúcne my teba vzývame,<br/>ty tróniš v nebeskej ríši,<br/>a istú nádej chováme,<br/>že tvoj Syn ťa vyslyší.<br/>Ach, pros za nás atď.</lines>
+    </verse>
+  </lyrics>
+</song>

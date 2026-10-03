@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>108. Z neba prišiel k nám</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Z neba prišiel k nám<br/>mocný sveta Pán,<br/>Syn Boží zostúpil<br/>z neba na svet k nám.<br/>Radujme sa, veseľme sa,<br/>v novom roku tešíme sa;<br/>narodil sa nám<br/>mocný sveta Pán.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Tuje milený<br/>Boh sám vtelený,<br/>na slame v jasličkách<br/>nežne zložený.<br/>Radujme sa atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Dieťa leží tu,<br/>nesie obetu;<br/>ctíme ho i jeho<br/>Matku presvätú.<br/>Radujme sa atď.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pre nás prišiel sám<br/>z lásky dať sa nám,<br/>aby nás vykúpil<br/>zeme, neba Pán.<br/>Radujme sa atď.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>392. Zdravas', Ruža nebeská</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Zdravas, Ruža nebeská,<br/>ó, Panna krásna!<br/>Milosti si božej plná,<br/>Hviezda jasná!<br/>Na nás, úbohých hriešnikov,<br/>neráč sa hnevať,<br/>daj dušiam našim ľútosť,<br/>by hriechy svoje mohli<br/>vrúcne oľutovať.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ty si ako ker horiaci,<br/>nespálený,<br/>skrz teba je Vykupiteľ<br/>narodený.<br/>On, Boh, si zvolil teba<br/>za Matičku svoju<br/>a do nadhviezdnych výšin<br/>ku trónu nebeskému<br/>zdvihol svätosť tvoju.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prosíme ťa, Matka Božia,<br/>na tisíc ráz,<br/>u Ježiša, Syna svojho,<br/>zastávaj nás!<br/>Kríž jeho vládal jedine<br/>hriechy sveta zmyť,<br/>nech udelí nám milosti<br/>zbožne dlho žiť<br/>a Boha večne chváliť.</lines>
+    </verse>
+  </lyrics>
+</song>

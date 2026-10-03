@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>409c. Tys' Matka Božia odveká (Slávnostný ruženec)</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Tys' Matka Božia odveká,<br/>tys' Boha Syna človeka<br/>videla v sláve radostná,<br/>nuž zaznej, pieseň slávnostná.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Víťazne Syn tvoj z hrobu vstal<br/>a moci smrti odolal;<br/>aj my povstaňme k životu,<br/>nechajme bludu temnotu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Keď smrťou nás bol vykúpil,<br/>do neba slávne nastúpil;<br/>v nebi kraľuje u Otca<br/>a je náš večný Zástanca.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Od Otca Boha večného<br/>poslal nám Ducha Svätého,<br/>Pravdu, svetlo, Učiteľa,<br/>v utrpení Tešiteľa.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Ten, ktorémus' ty na zemi<br/>slúžila, Matka, v trápení,<br/>do neba slávne teba vzal,<br/>za Kráľovnú korunoval.</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Ty si nad ľuďmi Kráľovná,<br/>nad anjelmi Cisárovná,<br/>tvojmu sa panstvu koríme,<br/>o pomoc tvoju prosíme.</lines>
+    </verse>
+  </lyrics>
+</song>

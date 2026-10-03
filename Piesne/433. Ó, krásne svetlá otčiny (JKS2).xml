@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>433. Ó, krásne svetlá otčiny</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, krásne svetlá otčiny,<br/>slovanským kmeňom milené,<br/>zdravíme si vás bratia, vás<br/>my piesňou sláviť ideme.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Rím s veľkým plesom víta vás<br/>jak matka synov v náručí,<br/>vás zdobí vencom biskupským<br/>a novú moc vám poručí.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Vyšli ste tmavých do krajín<br/>žiar priniesť, svetlom preniknúť,<br/>naplniť svetlom nebeským<br/>tých, ktorých oslepoval blud.</lines>
+    </verse>
+    <verse name="v4">
+      <lines>A srdcia hriechov zbavené<br/>horlivosť svätá zachváti<br/>a hrozné šípy premení,<br/>ich v kvety čnosti obráti.</lines>
+    </verse>
+    <verse name="v5">
+      <lines>V sieň skvostnú nebies prijatí<br/>včuľ vrúcne prosby prijmite:<br/>slovanské zbožné národy<br/>zachráňte Bohu večité!</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Kiež v jeden Krista ovčinec<br/>sa vrátia tí, čo padli v blud,<br/>aby tým viera presvätá,<br/>zas mohla krajšie rozkvitnúť.</lines>
+    </verse>
+    <verse name="v7">
+      <lines>Trojica svätá, nebeskou<br/>nás láskou povzbuď, požehnaj<br/>a otcov slávne šľapaje<br/>vždy nasledovať synom daj.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>132. Ach, prečo si, zlosť</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ach, prečo si, zlosť,<br/>taká krutá bola,<br/>prečo si Krista<br/>tak hrubo zranila?<br/>Telo šarlátom,<br/>krvou si sfarbila,<br/>na spôsob role<br/>do kosti zorala.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prečo ste, ľudia,<br/>takí krutí boli,<br/>prečo ste Krista<br/>tak veľmi ranili?<br/>Hrozne, bolestne<br/>ostrými bodliakmi<br/>raníte hlavu,<br/>až tečú potoky.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Prečo si, drevo,<br/>také kruté bolo,<br/>žes' tak Ježiša<br/>veľmi obťažilo?<br/>Hľa, jak pod tebou,<br/>upadá zomdlený,<br/>celý ubitý,<br/>celý skrvavený!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Upadáš, Ježiš,<br/>trpíš hrozné muky,<br/>kto ti na pomoc<br/>podá svoje ruky?<br/>Jak so zločincom<br/>s tebou zachádzajú,<br/>padáš pod krížom,<br/>na to nič nedbajú.</lines>
+    </verse>
+  </lyrics>
+</song>

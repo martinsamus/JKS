@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>510. Veľmi milujem ťa, Bože</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Veľmi milujem ťa, Bože,<br/>milosť tvoja hriech môj zmôže,<br/>zmilujže sa, Pane, nado mnou!<br/>Duša k tebe spevom volá,<br/>hriech môj milosť tvoja zdolá;<br/>poľutuj ma, Pane, Bože môj!<br/>Najmilší môj Spasiteľu,<br/>drahý Majstre, Učiteľu,<br/>poznáš moju vinu celú;<br/>ráč odpustiť môjmu telu!<br/>Pred velebou tvojou kľakám v pokornosti,<br/>vrúcne prosiac o milosti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Hlas môj k tebe volá, Pane,<br/>nech sa tvoja vôľa stane;<br/>zranil som si dušu úbohú!<br/>Podaj lieky duši chorej,<br/>sprav ju hodnou lásky svojej;<br/>sľubujem ti vernosť, Pane môj!<br/>Najmilší atď.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Skloň sa ku mne, Skloň sa ku mne, mne,<br/>Otče milý,<br/>požehnaj ma v tejto chvíli,<br/>k tebe volám, prísny Sudca môj!<br/>Úfam v teba, Pane Bože,<br/>láska tvoja mi pomôže,<br/>Spasiteľu milý, Kriste môj!<br/>Najmilší atď.</lines>
+    </verse>
+  </lyrics>
+</song>

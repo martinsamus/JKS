@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-10-04T00:09:42">
+  <properties>
+    <titles>
+      <title>279. Ó, milí kresťania</title>
+    </titles>
+    <authors>
+      <author>JKS2</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Ó, milí kresťania,<br/>radosťou plesajme,<br/>Sviatosti Oltárnej<br/>vrúcne sa klaňajme;<br/>Boha svojho láskavého<br/>chváľme z hnutia srdečného,<br/>tu máme drahého<br/>Ježiša milého.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Slnce a hviezdičky, Slnce a hviezdičky,<br/>tvár svoju zjavujte,<br/>a svojho mocného<br/>Pána oslavujte;<br/>vzdajte chválu, znejte slávu,<br/>zvučte pieseň neustálu<br/>v Sviatosti skrytému,<br/>Pánu najvyššiemu.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Buď vždy pozdravená,<br/>presvätá Hostia,<br/>v ktorej tu Kristus Pán<br/>sám seba ukrýva.<br/>Tu je Telo, Krv presvätá,<br/>pre nás hriešnych je vyliata;<br/>Ježiša vítajme,<br/>„Svätý Pán!” spievajme.</lines>
+    </verse>
+  </lyrics>
+</song>
