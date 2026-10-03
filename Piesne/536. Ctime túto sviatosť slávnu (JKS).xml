@@ -9,11 +9,17 @@
     </authors>
   </properties>
   <lyrics>
-    <verse name="v1">
-      <lines>Ctime túto sviatosť slávnu,<br/>zbožne skloňme kolená,<br/>bohoslužbu starodávnu<br/>nahraď nová, vznešená;<br/>pomôž zmyslom, ktoré slabnú,<br/>viera s láskou spojená.</lines>
+    <verse name="v1a">
+      <lines>Ctime túto sviatosť slávnu,<br/>zbožne skloňme kolená,<br/>bohoslužbu starodávnu<br/>nahraď nová, vznešená;</lines>
     </verse>
-    <verse name="v2">
-      <lines>Otcu, Synu jedinému<br/>chvála buď a plesanie,<br/>sláva, moc a česť ich menu,<br/>taktiež dobrorečenie;<br/>od obidvoch Poslanému<br/>rovnaké buď uctenie. Amen.</lines>
+    <verse name="v1b">
+      <lines>pomôž zmyslom, <br/>ktoré slabnú,<br/>viera s láskou spojená.</lines>
+    </verse>
+    <verse name="v2a">
+      <lines>Otcu, Synu jedinému<br/>chvála buď a plesanie,<br/>sláva, moc a česť ich menu,<br/>taktiež dobrorečenie;</lines>
+    </verse>
+    <verse name="v2b">
+      <lines>od obidvoch Poslanému<br/>rovnaké buď uctenie.<br/>Amen.</lines>
     </verse>
   </lyrics>
 </song>
