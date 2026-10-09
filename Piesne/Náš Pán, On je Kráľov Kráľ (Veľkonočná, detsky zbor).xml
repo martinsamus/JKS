@@ -2,18 +2,16 @@
 <song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-06-14T23:42:44">
   <properties>
     <titles>
-      <title>Moja múdrosť</title>
+      <title>Náš Pán, On je Kráľov Kráľ</title>
     </titles>
     <authors>
-      <author>Taize</author>
+      <author>Veľkonočná</author>
+      <author>detsky zbor</author>
     </authors>
   </properties>
   <lyrics>
     <verse name="v1">
-      <lines>Moja múdrosť a moja nádej, moja pieseň je Pán.</lines>
-    </verse>
-    <verse name="v2">
-      <lines>On je Boh a Spasiteľ náš, tak sa nebojte, Ježiš je tu,<br/>nebojte sa, veď náš Pán je tu.</lines>
+      <lines>Náš Pán, On je Kráľov Kráľ,<br/>Jeho trón bude naveky stáť,<br/>On má všetku vládu a moc,<br/>náš Pán, On je Kráľov Kráľ.</lines>
     </verse>
   </lyrics>
 </song>
