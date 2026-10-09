@@ -27,7 +27,7 @@ voči `Author Unknown`, ale `Modlitba zasvetenia. (detsky zbor)` sa zmazala v pr
 - **JKS1, JKS2, JKS3**: vo vnútri sady žiadne duplicity ani zdvojené čísla. Jediná podobnosť
   `223a`/`223b` v JKS2 sú zdokumentované varianty. Rovnaké názvy v rámci sady (napr. *Teba, Bože,
   chválime*) sú rôzne piesne pod rôznymi číslami. Zhody JKS ↔ JKS1/2/3 sú zámerné.
-- 34 párov `akordy` ↔ `detsky zbor` (známe, ponechané zámerne).
+- 35 párov `akordy` ↔ `detsky zbor` (známe, ponechané zámerne; vrátane `Všade tam kde sú` z bodu 3).
 - Preskoky v číslach slôh v ostatných piesňach sú v poriadku – výber slôh z hymnára (napr. `004.` má
   slohy 1, 2, 9, 10, 11) alebo časti omše s vlastným číslovaním (Ofertórium, Glória, Krédo…).
 
@@ -46,13 +46,13 @@ voči `Author Unknown`, ale `Modlitba zasvetenia. (detsky zbor)` sa zmazala v pr
 
 ## 3. Akordové verzie bez tagu `akordy`
 
-Majú akordy, ale autora `Author Unknown` – podľa konvencie z predošlých commitov dostanú tag
-`akordy` (nemazať):
+Mali akordy, ale autora `Author Unknown` – podľa konvencie z predošlých commitov dostali namiesto
+neho tag `akordy` (súbory premenované, nemazať):
 
-- [ ] `Ticha noc A-dur (Author Unknown)` – transpozícia `Ticha noc - G-dur (akordy)`
-- [ ] `Všade tam kde sú (Author Unknown)`
-- [ ] `Pane zmiluj sa, klasika. (Author Unknown)` – akordová verzia `Pane, zmiluj sa (klasické) (Kyrie)`
-- [ ] `Nesieme Pane chlieb a vino (Author Unknown)`
+- [x] `Ticha noc A-dur (akordy)` – transpozícia `Ticha noc - G-dur (akordy)`
+- [x] `Všade tam kde sú (akordy)`
+- [x] `Pane zmiluj sa, klasika. (akordy)` – akordová verzia `Pane, zmiluj sa (klasické) (Kyrie)`
+- [x] `Nesieme Pane chlieb a vino (akordy)`
 
 ## 4. Duplicity v pôvodných piesňach (OpenLP)
 
@@ -106,7 +106,7 @@ Takmer všetko sú skupiny, kde sa líši len formátovanie (interpunkcia, delen
 - [ ] **`Nech vás požehnáva Pán (Author Unknown)`** · `nech vas pozehnava pan (detsky zbor)` · `Požehnanie sv.Františka (Jerichove Trúby, svadobná)` – posledná má v texte pokyny („celé 3x“, „tvá-ááá-ár“)
 - [ ] **`Nepoškvrnená Mária (Veceradlo, Večeradlo s Pannou Máriou)`** · `Neposkvrnena (detsky zbor)` – identický
 - [ ] **`NEPOŠKVRNENÉ SRDCE MÁRIE (Mariánska, Veceradlo)`** · `Neposkvrnene Srdce Marie (detsky zbor)` – opakovania raz vypísané, raz `[: :]`
-- [ ] **`Nesieme, Pane, chlieb a víno (Obetné dary)`** · `Nesieme Pane chlieb a víno (Anonymous)` – identický (akordová AU verzia – bod 3)
+- [ ] **`Nesieme, Pane, chlieb a víno (Obetné dary)`** · `Nesieme Pane chlieb a víno (Anonymous)` – identický (akordová verzia `Nesieme Pane chlieb a vino (akordy)`)
 - [ ] **`Nežne zlomený (...)`** · `Ku krížu dvíham zrak - Nežne zlomený (Rieka Života)` – RŽ verzia má tú istú slohu 2× (v2 = v3)
 - [ ] **`Ty mi dávaš nohy jeleníc (Anonymous)`** · `Nohy jeleníc (Prijímanie)` – líšia sa 1 slovom („duši“/„ceste“)
 - [ ] **`Otváram srdce (MaranaTha)`** · `Otváram srdce (...)` · `Srdce dokorán (Anonymous)`
@@ -128,7 +128,7 @@ Takmer všetko sú skupiny, kde sa líši len formátovanie (interpunkcia, delen
 - [ ] **`Ty si Pane stále pri mne (Anonymous)`** · `Ty si, Pane, stále pri mne (Pôstna)` · `Ty si Pane stale pri mne (detsky zbor)`
 - [ ] `Vďaka Ježiš (Richard Čanaky)` · `Vďaka Ježiš (Záver)` – identický; návrh zlúčiť do `Vďaka Ježiš (Richard Čanaky, Záver)`
 - [ ] **`Vládca (MaranaTha)`** · `Vladca (detsky zbor)`
-- [ ] **`Všade tam kde sú (detsky zbor)`** · `Všade tam kde sú (Anonymous)` · `Privítajme Pána (Začiatok)` – Anonymous má zlepené slová („Ježišv“, „ženáš“); akordová AU verzia – bod 3
+- [ ] **`Všade tam kde sú (detsky zbor)`** · `Všade tam kde sú (Anonymous)` · `Privítajme Pána (Začiatok)` – Anonymous má zlepené slová („Ježišv“, „ženáš“); akordová verzia `Všade tam kde sú (akordy)`
 - [ ] **`Vznešený (Adorácia)`** · `Vzneseny (detsky zbor)` – identický
 - [ ] **`Vždy je s nami tá (Mariánska)`** · `Vždy je s nami tá (Anonymous)`
 - [ ] **`ZÁCHRANÁR (Večeradlo s Pannou Máriou)`** · `Zachranar (detsky zbor)`
@@ -169,3 +169,6 @@ Takmer všetko sú skupiny, kde sa líši len formátovanie (interpunkcia, delen
   `Poď, teraz je čas (Začiatok)`, `Prijmi tieto naše dary, Pane (Obetné dary)`,
   `Privítajme Pána (Začiatok)`, `Sme z rôznych strán a kútov (Začiatok)`,
   `Čakajú ťa nástrahy (Mariánska)`
+- [ ] `Duchu Svätý, príď z neba (detsky zbor)` – v 1. slohe je text „žiaru svetla pravého.:“ uložený
+  omylom ako názov akordu (`<chord name="…"/>`), takže sa na snímke nezobrazí. Súbor je zároveň
+  kandidát na zmazanie v 4a (duplicita `217.`).
