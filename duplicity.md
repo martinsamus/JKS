@@ -40,9 +40,13 @@ znakov). Prvé kolo – 22 skupín s identickým normalizovaným textom – je h
 - [x] `212. Hľa, žiarou skvie sa Kristov hrob (JKS, Veľkonočná)` – 2. a 3. sloha `211` → `212.`
 - [x] `228. Nebo i zem, vyhlasujte (Božské Srdce, JKS)` – 8. sloha `227.` → `228.`
 - [x] `Ani brat môj, ani sestra (Prijímanie, Pôstna)` – 3. sloha mala číslo `2.`
-- [ ] `536. Ctime túto sviatosť slávnu (JKS)` – overiť číslo. V JKS1/JKS2/JKS3 je táto pieseň pod
-  č. 317; tlačený JKS má za č. 526 ešte položky bez textu, takže 536 môže byť platný odkaz
-  (zdroj nws.sk sa nepodarilo otvoriť).
+- [x] `536. Ctime túto sviatosť slávnu (JKS)` – číslo overené, **ponechať**. V tlačenom JKS je
+  slovenský text *Ctime túto Sviatosť slávnu (Sviatosť tela tajomného)* pod č. 317 (JKS1/2/3,
+  ejks.sk aj index na preorgan). Č. 536 (536a–e) je v JKS latinské *Pange lingua* a 536b/536c sú
+  melódie Tantum ergo, na ktoré sa tento text spieva (fórum organisti.sk, akordy „JKS 536b – Ctime
+  túto sviatosť slávnu“). Číslo 536 teda nie je chyba, len označuje melódiu; v JKS1/2/3 sa pod ním
+  pieseň nenachádza (importy končia na 526, 527+ sú bez textu). Zdroje: sites.google.com/site/preorgan
+  (index JKS), ejks.sk/piesne/317, organisti.sk (fórum t=1792), chordify „JKS 536b“.
 
 ## 3. Akordové verzie bez tagu `akordy`
 
