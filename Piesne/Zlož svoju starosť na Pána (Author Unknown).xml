@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-04-13T15:44:10">
+  <properties>
+    <titles>
+      <title>Zlož svoju starosť na Pána</title>
+    </titles>
+    <authors>
+      <author>Author Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>|: Zlož svoju starosť na Pána,<br/>zlož svoju starosť na Pána<br/>a On sa už postará. :|<br/>|: Nebudem sa báť, lebo Ty si so mnou,<br/>nebudem sa báť, Pane môj. :|</lines>
+    </verse>
+  </lyrics>
+</song>

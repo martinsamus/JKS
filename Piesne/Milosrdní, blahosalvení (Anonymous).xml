@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-04-11T07:20:04">
+  <properties>
+    <titles>
+      <title>Milosrdní, blahosalvení</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Svoj pohľad dvíhame k výšinám,  <br/>príde na pomoc nám;  <br/>príde nám Záchranca <br/>z Božích brán, milosrdný Pán. </lines>
+    </verse>
+    <verse name="v2">
+      <lines>Zblúdených nájde <br/>a v náručí túli a tíši strach. <br/>Z kríža nás prúdmi <br/>riek vylieči, vdýchne nádej nám. </lines>
+    </verse>
+    <verse name="c1">
+      <lines>Milosrdní sú blahoslavení, <br/>lebo len tí, len tí, <br/>milosrdenstvo dosiahnu.  </lines>
+    </verse>
+    <verse name="v3">
+      <lines>Ak by nám Pán <br/>neodpustil hriech, <br/>nik z nás neobstojí.  <br/>Blížneho prijmi a kráčaj s ním,  <br/>v láske buďpodobný!</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Pán naše úpisy splatil sám,  <br/>živý Syn z hrobu vstal.  <br/>Duch volá: „Ježiš je slávny Pán!“  <br/>Pred svetom ho chváľ!</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Pred Pána prines trápenia <br/>a pri ňom slobodne dýchaj! <br/>Žiť v úžase ti Vzkriesený dá,  <br/>živý Boh, tvoj Pán. </lines>
+    </verse>
+  </lyrics>
+</song>

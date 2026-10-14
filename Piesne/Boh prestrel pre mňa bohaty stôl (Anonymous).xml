@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-11-08T18:15:10">
+  <properties>
+    <titles>
+      <title>Boh prestrel pre mňa bohaty stôl</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Boh prestrel pre mňa bohatý stôl<br/>Boh prestrel pre mňa bohatý stôl<br/>A on plní život môj láskou</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Ja patrím len jemu a on je môj<br/>ja patrím len jemu a on je môj<br/>A on plní život môj láskou<br/>A on plní život môj láskou<br/></lines>
+    </verse>
+    <verse name="v3">
+      <lines>Že Boh je dobrý <br/>smiem to cítiť aj dnes <br/>v jeho lásku verím<br/>jeho milosť chcem</lines>
+    </verse>
+    <verse name="v4">
+      <lines>S radosťou chodím<br/>a v ňom plný stôl mám<br/>dáva len dobré <br/>chcem pri ňom vždy stáť</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Jeho prápor nado mnou<br/>jeho prápor nad tebou<br/>jeho prápor nad nami<br/>je láska, láska<br/></lines>
+    </verse>
+  </lyrics>
+</song>

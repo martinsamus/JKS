@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2024-11-10T09:07:10">
+  <properties>
+    <titles>
+      <title>Chváľ duša moja Pána (žalm)</title>
+    </titles>
+    <authors>
+      <author>Zalm</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Chváľ duša moja Pána.</lines>
+    </verse>
+  </lyrics>
+</song>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-04-11T14:57:55">
+  <properties>
+    <titles>
+      <title>Strhni ma</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Strhni ma do svojej lásky Kráľ<br/>Nech nerozmýšľam len utekám za Tebou<br/>Len za Tebou</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Prosím buď teraz so mnou<br/>Už vidím mal si pravdu<br/>Viem dlho som bol preč</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Prosím zaveď ma domov<br/>Chcem byť zas tvojim synom<br/>Zlož vinu z mojich pliec</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Ooo ja som kto som<br/>Lebo Ty si kto si<br/>Ja viem kto som<br/>Lebo Ty Kráľom si<br/>Nebies Kráľ<br/>Nebies Kráľ</lines>
+    </verse>
+  </lyrics>
+</song>

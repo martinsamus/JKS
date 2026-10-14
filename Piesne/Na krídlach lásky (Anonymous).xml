@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-04-11T07:33:48">
+  <properties>
+    <titles>
+      <title>Na krídlach lásky</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Voláš ma tam, kde tvoja sláva prebýva<br/>voláš ma tam, kde láska sa neskrýva<br/>Silu mi dáš,  aj keď nevládzem<br/>len s tebou chcem ísť<br/>aj keď strácam už nádej</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na krídlach lásky, Pane<br/>nesieš ma neprestajne<br/>Voláš ma do hĺbky<br/>preskúmať krásu krás</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Kým ruky zdvihnuté mám<br/>ja víťazím<br/>Kým pohľad na teba mám<br/>ja mám dosť síl</lines>
+    </verse>
+  </lyrics>
+</song>

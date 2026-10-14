@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-04-11T19:32:09">
+  <properties>
+    <titles>
+      <title>Nech ťa žehná, Pán a  chráni</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Nech ťa žehná Pán a chráni<br/>jasnú tvár nech ti ‭zjaví<br/>a je ti milostivý <br/>‭Nech obráti svoju tvár k tebe<br/>nech ti pokoj dá</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Amen, amen, amen!</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Nech ti patrí jeho priazeň<br/>na‭ ti síce pokolení<br/>Nech ju nesú tvoje deti<br/>aj ‭ich deti a ich deti</lines>
+    </verse>
+    <verse name="v4">
+      <lines>Nech pred sebou vidíš Pána<br/>nech ťa drží a sprevádza<br/>On je všade, on je v tebe<br/>on je blízko, je ti blízko</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Aj keď vstávaš a zaspávaš<br/>keď pri chádzaš a odchádzaš<br/>V tvojom smútku a v radosti<br/>je tu s tebou, je tu s tebou</lines>
+    </verse>
+    <verse name="v6">
+      <lines>Je tu s tebou, je tu s tebou<br/>neopúšťa, je tu s tebou<br/>Je tu s tebou, je tu s tebou<br/>je tu s tebou, je tu s tebou!</lines>
+    </verse>
+  </lyrics>
+</song>

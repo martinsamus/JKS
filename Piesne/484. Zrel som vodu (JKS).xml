@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2023-04-13T15:47:14">
+  <properties>
+    <titles>
+      <title>484. Zrel som vodu</title>
+    </titles>
+    <authors>
+      <author>JKS</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>1.                                            484<br/>Zrel som vodu z pravej strany<br/>chrámu tiecť. Aleluja!<br/>Spásu našli ňou kropení,<br/>spievajú: Aleluja!<br/>Nado mnou sa zmiluj, Bože,<br/>v nekonečnej milosti,<br/>zľutovanie tvoje môže<br/>zotrieť moje nečnosti.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>2.                                            484<br/>Bohu, že je dobrotivý,<br/>vďaky dajme srdečné!<br/>On je k nám milostivý<br/>včuľ i na veky večné.<br/>Nado mnou sa zmiluj, Bože,<br/>v nekonečnej milosti,<br/>zľutovanie tvoje môže<br/>zotrieť moje nečnosti.</lines>
+    </verse>
+  </lyrics>
+</song>

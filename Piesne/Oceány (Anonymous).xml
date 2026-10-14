@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 3.1.7" modifiedIn="OpenLP 3.1.7" modifiedDate="2026-04-11T14:55:36">
+  <properties>
+    <titles>
+      <title>Oceány</title>
+    </titles>
+    <authors>
+      <author>Anonymous</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Pozývaš ma do neznáma<br/>prechádzať sa po vodách<br/>Tam ťa nájdem napriek búrkam<br/>zvládnem stáť na hlbinách</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Na teba, Ježiš, zavolám<br/>ku tebe svoj zrak upieram<br/>Len tvoja náruč pokoj dá<br/>tvojím som a ty si môj</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Milosťou ma chrániš v búrkach<br/>s istotou ma sprevádzaš<br/>Napriek môjmu strachu z pádov<br/>viesť ma smieš, ty nezlyháš</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Zaveď ma na miesta<br/>bezhraničnej viery<br/>Chcem kráčať nad vodami<br/>tam kam ma zavoláš</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Vezmi hlbšie, než sa<br/>odvažujem prosiť<br/>Len v tvojej prítomnosti<br/>moja viera narastá</lines>
+    </verse>
+  </lyrics>
+</song>
